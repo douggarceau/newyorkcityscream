@@ -20,85 +20,13 @@
    "rank": 2
   },
   {
-   "h": "How the marathon grew from Central Park laps into a five-borough tradition",
-   "sum": "A look back at how the race expanded from its Central Park beginnings into a citywide event.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/sports/new-york-city-marathon-became-citywide-tradition/",
-   "town": "Citywide",
-   "date": "2026-10-29",
-   "rank": 3
-  },
-  {
-   "h": "Sisters to run marathon together years after a marrow transplant",
-   "sum": "Two sisters plan to run the NYC Marathon side by side, nearly two decades after a life-saving transplant.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/sports/new-york-city-marathon-freds-team/",
-   "town": "Citywide",
-   "date": "2026-10-29",
-   "rank": 4
-  },
-  {
-   "h": "TV host Nev Schulman makes the marathon a family affair",
-   "sum": "The TV personality's family is taking part in this year's New York City Marathon.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/news/nev-schulman-new-york-city-marathon/",
-   "town": "Citywide",
-   "date": "2026-10-28",
-   "rank": 5
-  },
-  {
-   "h": "Marathon road closures to know before race day",
-   "sum": "A guide to the street closures planned for the 2026 NYC Marathon.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/things-to-do/nyc-marathon-road-closures",
-   "town": "Citywide",
-   "date": "2026-10-26",
-   "rank": 6
-  },
-  {
-   "h": "Marathon week deals: coffee, museum admission and more",
-   "sum": "Businesses and museums are offering perks for runners and fans ahead of Sunday's race.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/news/all-of-the-nyc-marathon-2026-deals-you-can-score-ahead-of-sundays-race-from-complimentary-coffee-to-free-museum-admission-102726",
-   "town": "Citywide",
-   "date": "2026-10-27",
-   "rank": 7
-  },
-  {
-   "h": "Celebrity runners to cheer on at this weekend's marathon",
-   "sum": "A rundown of well-known names lined up for Sunday's NYC Marathon.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/news/here-are-all-the-celebrity-runners-you-can-cheer-on-during-this-weekends-nyc-marathon-from-jennifer-connelly-to-dylan-efron-102626",
-   "town": "Citywide",
-   "date": "2026-10-26",
-   "rank": 8
-  },
-  {
-   "h": "Delta offers marathon runners boarding perks and treats",
-   "sum": "The airline is rolling out priority boarding and other extras for runners traveling for the marathon.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/news/delta-airlines-is-helping-nyc-marathon-runners-with-free-priority-boarding-pre-race-treats-and-more-102326",
-   "town": "Citywide",
-   "date": "2026-10-23",
-   "rank": 9
-  },
-  {
-   "h": "350 finish-line marathon tickets up for grabs",
-   "sum": "The city is giving away finish-line tickets for the marathon, with an entry process outlined.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/news/exclusive-nyc-is-giving-away-350-free-tickets-to-the-marathon-finish-lineheres-how-to-enter-102226",
-   "town": "Central Park, Manhattan",
-   "date": "2026-10-22",
-   "rank": 10
-  },
-  {
    "h": "Village Halloween Parade marches Saturday night",
    "sum": "The costumed procession through Greenwich Village is set for Oct. 31, with tens of thousands of participants.",
    "outlet": "Time Out New York",
    "url": "https://www.timeout.com/newyork/events-festivals/village-halloween-parade-nyc-guide",
    "town": "Greenwich Village, Manhattan",
    "date": "2026-10-31",
-   "rank": 11
+   "rank": 3
   },
   {
    "h": "NYC named the best U.S. city to celebrate Halloween",
@@ -107,7 +35,7 @@
    "url": "https://www.timeout.com/newyork/news/new-york-has-been-named-the-best-city-in-america-to-celebrate-halloween-in-2026-and-were-not-surprised-one-bit-102926",
    "town": "Citywide",
    "date": "2026-10-29",
-   "rank": 12
+   "rank": 4
   },
   {
    "h": "Outdoor Paranormal Activity screening planned for Halloween night on Broadway",
@@ -116,7 +44,7 @@
    "url": "https://www.timeout.com/newyork/news/a-free-paranormal-activity-outdoor-screening-is-taking-over-broadway-on-halloween-nightand-it-could-get-you-free-theater-tickets-102226",
    "town": "Midtown, Manhattan",
    "date": "2026-10-22",
-   "rank": 13
+   "rank": 5
   },
   {
    "h": "Halloween in Dumbo, matched to your vibe",
@@ -125,7 +53,7 @@
    "url": "https://www.timeout.com/newyork/news/heres-how-to-spend-halloween-in-dumbo-based-on-your-vibe-102026",
    "town": "Dumbo, Brooklyn",
    "date": "2026-10-20",
-   "rank": 14
+   "rank": 6
   },
   {
    "h": "Spooky NYC sites you can visit at no charge",
@@ -134,7 +62,7 @@
    "url": "https://www.timeout.com/newyork/news/9-spooky-secrets-you-can-visit-in-nyc-for-free-102326",
    "town": "Citywide",
    "date": "2026-10-23",
-   "rank": 15
+   "rank": 7
   },
   {
    "h": "Record 160 car-free streets host Trick-or-Streets",
@@ -143,7 +71,7 @@
    "url": "https://www.timeout.com/newyork/news/nyc-to-have-its-largest-halloween-celebration-yet-with-160-car-free-open-streets-and-city-plazas-100526",
    "town": "Citywide",
    "date": "2026-10-05",
-   "rank": 16
+   "rank": 8
   },
   {
    "h": "Boo at the Bronx Zoo runs through Nov. 1",
@@ -152,7 +80,7 @@
    "url": "https://www.timeout.com/newyork/events-calendar/october-events-calendar",
    "town": "Bronx",
    "date": "2026-10-30",
-   "rank": 17
+   "rank": 9
   },
   {
    "h": "Great Jack O'Lantern Blaze lights up Van Cortlandt Manor through Nov. 8",
@@ -161,7 +89,7 @@
    "url": "https://www.timeout.com/newyork/travel/guide-to-great-jack-o-lantern-blaze",
    "town": "Croton-on-Hudson",
    "date": "2026-10-30",
-   "rank": 18
+   "rank": 10
   },
   {
    "h": "Freaky Movie Fridays screens The Shining tonight at Foxtail",
@@ -170,7 +98,7 @@
    "url": "https://www.timeout.com/newyork/things-to-do/freaky-movie-fridays-at-foxtail",
    "town": "Manhattan",
    "date": "2026-10-30",
-   "rank": 19
+   "rank": 11
   },
   {
    "h": "Gilded Age high tea at the Plaza runs through Nov. 10",
@@ -179,7 +107,7 @@
    "url": "https://www.timeout.com/newyork/things-to-do/high-society-tea-with-the-gilded-age",
    "town": "Midtown, Manhattan",
    "date": "2026-10-30",
-   "rank": 20
+   "rank": 12
   },
   {
    "h": "Fall foliage harbor cruises on vintage boats continue to Nov. 15",
@@ -188,7 +116,7 @@
    "url": "https://www.timeout.com/newyork/things-to-do/classic-harbor-line-fall-foliage-tours",
    "town": "Hudson River",
    "date": "2026-10-30",
-   "rank": 21
+   "rank": 13
   },
   {
    "h": "MTA marks Halloween with spooky station signs and collectible maps",
@@ -197,7 +125,7 @@
    "url": "https://www.amny.com/nyc-transit/mta-halloween-fun-spooky-station-signs-maps/",
    "town": "Citywide",
    "date": "2026-10-28",
-   "rank": 22
+   "rank": 14
   },
   {
    "h": "Weekend subway changes: shuttles for Flushing, Coney Island and more",
@@ -206,7 +134,7 @@
    "url": "https://www.mta.info/article/mta-weekender-october-23-26-2026",
    "town": "Citywide",
    "date": "2026-10-23",
-   "rank": 23
+   "rank": 15
   },
   {
    "h": "Transit advocates launch Fix the Bus rider campaign",
@@ -215,7 +143,7 @@
    "url": "https://www.amny.com/nyc-transit/fix-the-bus-transit-advocates-organize-riders/",
    "town": "Citywide",
    "date": "2026-10-29",
-   "rank": 24
+   "rank": 16
   },
   {
    "h": "Third Avenue safety overhaul in Sunset Park gets the green light",
@@ -224,7 +152,7 @@
    "url": "https://www.amny.com/news/mamdani-third-avenue-overhaul-sunset-park/",
    "town": "Sunset Park, Brooklyn",
    "date": "2026-10-28",
-   "rank": 25
+   "rank": 17
   },
   {
    "h": "NYU launches shuttle bus for seniors in Manhattan and Brooklyn",
@@ -233,7 +161,7 @@
    "url": "https://www.amny.com/news/nyu-free-shuttle-bus-service-for-seniors/",
    "town": "Manhattan and Brooklyn",
    "date": "2026-10-28",
-   "rank": 26
+   "rank": 18
   },
   {
    "h": "Early voting guide: what's on the ballot",
@@ -242,7 +170,7 @@
    "url": "https://www.amny.com/news/early-voting-guide-nyc-2026-election/",
    "town": "Citywide",
    "date": "",
-   "rank": 27
+   "rank": 19
   },
   {
    "h": "Jets host Raiders in Week 8",
@@ -251,7 +179,7 @@
    "url": "https://www.amny.com/sports/jets-raiders-w8-pre-10-28-26/",
    "town": "Citywide",
    "date": "2026-10-28",
-   "rank": 28
+   "rank": 20
   },
   {
    "h": "NYCFC's late winner keeps playoff hopes alive",
@@ -260,7 +188,7 @@
    "url": "https://www.amny.com/sports/nycfc-atlanta-10-28-26/",
    "town": "Citywide",
    "date": "2026-10-29",
-   "rank": 29
+   "rank": 21
   },
   {
    "h": "Red Bull New York's Emil Forsberg reportedly set to leave after 2027",
@@ -269,7 +197,7 @@
    "url": "https://www.amny.com/sports/emil-forsberg-rbny-future-10-28-26/",
    "town": "New Jersey / NYC",
    "date": "2026-10-28",
-   "rank": 30
+   "rank": 22
   },
   {
    "h": "Mets look at starting pitching targets this offseason",
@@ -278,16 +206,7 @@
    "url": "https://www.amny.com/sports/mets-tarik-skubal-sp-targets-10-29-26/",
    "town": "Queens",
    "date": "2026-10-29",
-   "rank": 31
-  },
-  {
-   "h": "Miss Cherry Delight celebrates album launch at House of Yes",
-   "sum": "A Brooklyn rocker throws a big album release party at the Bushwick venue.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/entertainment/music/miss-cherry-delight-album-launch-brooklyn-house-of-yes/",
-   "town": "Bushwick, Brooklyn",
-   "date": "2026-10-29",
-   "rank": 32
+   "rank": 23
   },
   {
    "h": "JAY B and Def: two sides of the same soul",
@@ -296,7 +215,7 @@
    "url": "https://www.amny.com/entertainment/music/jay-b-def-two-sides-same-soul/",
    "town": "Manhattan",
    "date": "2026-10-29",
-   "rank": 33
+   "rank": 24
   },
   {
    "h": "Gillie and Marc and their civic bestiary",
@@ -305,7 +224,7 @@
    "url": "https://www.amny.com/entertainment/arts-entertainment/gillie-and-marc-the-new-civic-bestiary/",
    "town": "Manhattan",
    "date": "2026-10-29",
-   "rank": 34
+   "rank": 25
   },
   {
    "h": "Museum of Arts and Design at 70 looks to the future",
@@ -314,7 +233,7 @@
    "url": "https://www.amny.com/entertainment/arts-entertainment/mad-at-seventy-appetite-future/",
    "town": "Columbus Circle, Manhattan",
    "date": "2026-10-29",
-   "rank": 35
+   "rank": 26
   },
   {
    "h": "Review: Billy Crystal's one-man Broadway show",
@@ -323,7 +242,7 @@
    "url": "https://www.timeout.com/newyork/news/broadway-review-billy-crystal-in-860-102226",
    "town": "Broadway, Manhattan",
    "date": "2026-10-22",
-   "rank": 36
+   "rank": 27
   },
   {
    "h": "Review: The Imaginary Invalid on Broadway",
@@ -332,7 +251,7 @@
    "url": "https://www.timeout.com/newyork/news/broadway-review-the-imaginary-invalid-gasps-for-moliere-102326",
    "town": "Broadway, Manhattan",
    "date": "2026-10-23",
-   "rank": 37
+   "rank": 28
   },
   {
    "h": "Real Housewives stars headed to an Off-Broadway comedy",
@@ -341,7 +260,7 @@
    "url": "https://www.timeout.com/newyork/news/lisa-rinna-phaedra-parks-dolores-catania-and-more-housewives-will-star-in-this-off-broadway-comedy-next-year-102926",
    "town": "Off-Broadway, Manhattan",
    "date": "2026-10-29",
-   "rank": 38
+   "rank": 29
   },
   {
    "h": "Ai Fiori review: an artful distraction",
@@ -350,7 +269,7 @@
    "url": "https://www.amny.com/lifestyle/eat-and-drink/ai-fiori-an-artful-distraction/",
    "town": "Midtown, Manhattan",
    "date": "2026-10-29",
-   "rank": 39
+   "rank": 30
   },
   {
    "h": "New Lower East Side restaurant draws on Amazonian ingredients",
@@ -359,7 +278,7 @@
    "url": "https://www.timeout.com/newyork/news/this-new-lower-east-side-restaurant-channels-the-ingredients-of-the-amazon-102726",
    "town": "Lower East Side, Manhattan",
    "date": "2026-10-27",
-   "rank": 40
+   "rank": 31
   }
  ]
 }
