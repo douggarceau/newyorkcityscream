@@ -2752,8 +2752,9 @@ html body .lsrow .lspot.hasad{height:auto!important;min-height:0!important;max-h
    To add one: put it in ADS with its start date; it goes to the top. Ads drop off after their end date. */
 (function(){
 const ADS=[
-{img:'img/ad-carnegie-hall.jpg',href:'https://www.carnegiehall.org',label:'Featured: Carnegie Hall, 881 Seventh Avenue',start:'2026-10-30',end:'2026-11-29'},
-{img:'img/ad-blue-note.jpg',href:'https://www.bluenotejazz.com',label:'Featured: Blue Note Jazz Club, 131 West 3rd Street',start:'2026-10-30',end:'2026-11-29'},
+{img:'img/ad-msg.jpg',href:'https://www.msg.com',label:'Featured: Madison Square Garden, 4 Pennsylvania Plaza',start:'2026-10-30',end:'2026-11-29'},
+{img:'img/ad-barclays.jpg',href:'https://www.barclayscenter.com',label:'Featured: Barclays Center, 620 Atlantic Avenue, Brooklyn',start:'2026-10-30',end:'2026-11-29'},
+{img:'img/ad-radio-city.jpg',href:'https://www.radiocity.com',label:'Featured: Radio City Music Hall, 1260 Avenue of the Americas',start:'2026-10-30',end:'2026-11-29'},
  {img:'img/ad-eric-maluk.jpg',href:'https://www.rate.com/ericmaluk',label:'Advertisement: Eric Maluk, Rate. Visit his page or call (401) 254-4403',start:'2026-10-20',end:'2026-11-19'}];
 const live=()=>ADS.filter(a=>!a.end||Date.now()<Date.parse(a.end+'T23:59:59-05:00')).sort((x,y)=>y.start.localeCompare(x.start));
 const boxes=()=>[...document.querySelectorAll('.lsrow .lspot')].filter(b=>!b.hidden&&b.getBoundingClientRect().width>0).sort((x,y)=>{const r=x.getBoundingClientRect(),s=y.getBoundingClientRect();return (r.top-s.top)||(r.left-s.left)});
