@@ -1,4 +1,1538 @@
 {
- "asof": "2026-10-29T22:45:00-04:00",
- "sections": []
+ "asof": "2026-10-30T12:00:00-04:00",
+ "sections": [
+  {
+   "key": "beaches",
+   "title": "Beaches & Waterfront",
+   "items": [
+    {
+     "name": "Rockaway Beach",
+     "blurb": "A long stretch of sand on the Rockaway Peninsula in Queens, reachable by the A train, the Rockaway shuttle or NYC Ferry. A rebuilt boardwalk of about 5.5 miles runs alongside it, with taco stands, bars and live music nearby. Part of the beach is set aside for surfers and lessons are easy to find. Swimming is only allowed when lifeguards are on duty, so check the season before you pack.",
+     "address": "Rockaway Beach Blvd & Beach 86th-116th Sts, Queens, NY 11693",
+     "phone": "",
+     "hours": "Beach open daily; swimming only during lifeguard hours",
+     "url": "https://www.nycgovparks.org/facilities/beaches",
+     "src": "https://www.lonelyplanet.com/articles/best-beaches-new-york-city"
+    },
+    {
+     "name": "Jacob Riis Park",
+     "blurb": "A wide beach on the Rockaway Peninsula with a landmark Art Deco bathhouse built in the Robert Moses era. It is quieter than Rockaway Beach and has a boardwalk, a rotating beach bazaar of food vendors, and lifeguards in season. It is run by the National Park Service and is easiest to reach by ferry, the Q35 bus, bike or car with parking.",
+     "address": "Jacob Riis Park, Rockaway Peninsula, Queens, NY 11694",
+     "phone": "",
+     "hours": "6am-10pm (per travel guide)",
+     "url": "https://www.nps.gov/gate/",
+     "src": "https://www.lonelyplanet.com/articles/best-beaches-new-york-city"
+    },
+    {
+     "name": "Fort Tilden",
+     "blurb": "A wild stretch of the Gateway National Recreation Area at the western tip of the Rockaway Peninsula, with dunes, trails and old military structures. Facilities are minimal, so bring water and snacks and arrive early for a good spot. It is a good choice if you want a calmer day than the main Rockaway beaches.",
+     "address": "Rockaway Point Blvd, Breezy Point, Queens, NY 11695",
+     "phone": "",
+     "hours": "6am-9pm (per travel guide)",
+     "url": "https://www.nps.gov/gate/",
+     "src": "https://www.lonelyplanet.com/articles/best-beaches-new-york-city"
+    },
+    {
+     "name": "Coney Island Beach & Boardwalk",
+     "blurb": "Brooklyn's classic seaside playground, with a wide beach, a landmark boardwalk, Luna Park, Nathan's hot dogs and the historic wooden Cyclone roller coaster. Take the D, F, N or Q train to the last stop. It is busiest on summer weekends, and the boardwalk is a pleasant stroll in any season.",
+     "address": "Surf Ave & Boardwalk, Brooklyn, NY 11224",
+     "phone": "",
+     "hours": "Boardwalk open daily; swimming during lifeguard season",
+     "url": "https://www.nycgovparks.org/parks/coney-island-beach-and-boardwalk",
+     "src": "https://www.lonelyplanet.com/articles/best-beaches-new-york-city"
+    },
+    {
+     "name": "Brighton Beach",
+     "blurb": "A short walk east of Coney Island along the boardwalk, Brighton Beach is a quieter sand beach backed by a lively Russian and Eastern European neighborhood. The B and Q trains stop nearby. Come early on hot days because the beach fills up, and plan to eat on Brighton Beach Avenue afterward.",
+     "address": "Brighton Beach Ave & Boardwalk, Brooklyn, NY 11235",
+     "phone": "",
+     "hours": "Beach open daily; swimming during lifeguard season",
+     "url": "https://www.nycgovparks.org/facilities/beaches",
+     "src": "https://www.6sqft.com/the-7-best-beaches-in-nyc/"
+    },
+    {
+     "name": "Manhattan Beach Park",
+     "blurb": "A small, calmer beach in southern Brooklyn east of Brighton Beach, with a playground and grilling areas. There is no subway stop close by, so take the Q to Sheepshead Bay and walk or catch a bus. Summer parking is limited, so it is best for a relaxed, low-key afternoon.",
+     "address": "Oriental Blvd & Ocean Ave, Brooklyn, NY 11235",
+     "phone": "",
+     "hours": "Park open daily; swimming during lifeguard season",
+     "url": "https://www.nycgovparks.org/parks/manhattan-beach-park",
+     "src": "https://www.6sqft.com/the-7-best-beaches-in-nyc/"
+    },
+    {
+     "name": "Orchard Beach",
+     "blurb": "The Bronx's only public beach, in Pelham Bay Park on Long Island Sound. The water is calm rather than surf-ready, and the beach has a promenade, playgrounds and snack bars. Expect big crowds and music on summer weekends, and consider the park's trails and golf nearby for a longer day.",
+     "address": "Pelham Bay Park, Bronx, NY 10464",
+     "phone": "",
+     "hours": "Beach open daily; swimming during lifeguard season",
+     "url": "https://www.nycgovparks.org/parks/pelham-bay-park",
+     "src": "https://www.6sqft.com/the-7-best-beaches-in-nyc/"
+    },
+    {
+     "name": "Wolfe's Pond Park",
+     "blurb": "A Staten Island park with a small beach on Raritan Bay, hiking trails and a wildlife preserve with picnic and barbecue space. It is better for relaxing and walking than for serious swimming. Pair it with a trip on the Staten Island Ferry and a bus or drive south.",
+     "address": "Hylan Blvd & Cornelia Ave, Staten Island, NY 10307",
+     "phone": "",
+     "hours": "Park open daily",
+     "url": "https://www.nycgovparks.org/parks/wolfes-pond-park",
+     "src": "https://www.insidehook.com/new-york/guide-best-public-parks-all-five-nyc-boroughs/amp"
+    },
+    {
+     "name": "Brooklyn Bridge Park Waterfront",
+     "blurb": "A mile-plus stretch of East River shoreline between Dumbo and Brooklyn Heights with piers, lawns, playgrounds, a small beach area at Pier 4, a pebble beach and Jane's Carousel. The skyline and bridge views are among the best in the city. Food and seasonal cafes are on Piers 5 and 6.",
+     "address": "334 Furman St, Brooklyn, NY 11201",
+     "phone": "",
+     "hours": "Open daily",
+     "url": "https://www.brooklynbridgepark.org/",
+     "src": "https://www.insidehook.com/new-york/guide-best-public-parks-all-five-nyc-boroughs/amp"
+    }
+   ]
+  },
+  {
+   "key": "parks",
+   "title": "Parks & Green Spaces",
+   "items": [
+    {
+     "name": "Central Park",
+     "blurb": "Manhattan's best-known park, with lakes, meadows, bridges, playgrounds, the Central Park Zoo, Strawberry Fields and summer Shakespeare at the Delacorte Theater. Entry carries no charge. The park keeps long hours, and the Central Park Conservancy offers tours you can book online. Wollman and Lasker rinks open for skating in winter.",
+     "address": "59th St to 110th St, Fifth Ave to Central Park West, New York, NY 10022",
+     "phone": "",
+     "hours": "6am-1am daily",
+     "url": "https://www.centralparknyc.org/",
+     "src": "https://www.lonelyplanet.com/articles/best-parks-new-york-city"
+    },
+    {
+     "name": "Prospect Park",
+     "blurb": "Brooklyn's 585-acre Olmsted and Vaux park, with the Long Meadow, a lake, a boathouse, the LeFrak Center at Lakeside for skating, and a Saturday greenmarket at Grand Army Plaza. It is a good place for a picnic or a quiet loop on foot or by bike. Smorgasburg has set up here on Sundays in the warm season.",
+     "address": "Grand Army Plaza / Prospect Park West, Brooklyn, NY 11215",
+     "phone": "",
+     "hours": "Open daily",
+     "url": "https://www.prospectpark.org/",
+     "src": "https://www.insidehook.com/new-york/guide-best-public-parks-all-five-nyc-boroughs/amp"
+    },
+    {
+     "name": "Bryant Park",
+     "blurb": "A tidy green square behind the main New York Public Library branch, with lawns, chess tables, Le Carrousel, summer movie nights and a winter skating rink. Coffee kiosks and seating make it an easy midtown break. It is close to Grand Central and the Times Square area.",
+     "address": "Between 40th and 42nd Sts, Fifth and Sixth Aves, New York, NY 10018",
+     "phone": "",
+     "hours": "Open daily",
+     "url": "https://bryantpark.org/",
+     "src": "https://www.lonelyplanet.com/articles/best-parks-new-york-city"
+    },
+    {
+     "name": "Washington Square Park",
+     "blurb": "The Greenwich Village hub, centered on the stone arch and fountain, with street musicians, chess players and constant people-watching. It has a long history as a gathering place for folk and jazz players. Plan a walk through the surrounding blocks for cafes and music landmarks.",
+     "address": "Fifth Ave & Waverly Pl, New York, NY 10012",
+     "phone": "",
+     "hours": "Open daily",
+     "url": "https://www.nycgovparks.org/parks/washington-square-park",
+     "src": "https://www.insidehook.com/new-york/guide-best-public-parks-all-five-nyc-boroughs/amp"
+    },
+    {
+     "name": "Riverside Park",
+     "blurb": "A narrow, scenic park along the Hudson on the Upper West Side, running from about 59th Street to 181st Street. It has a four-mile esplanade, monuments, playgrounds, a historic locomotive near 62nd Street, and cherry blossoms in spring. It works for walking, jogging or an easy bike ride.",
+     "address": "Riverside Dr, 59th St to 181st St, New York, NY 10025",
+     "phone": "",
+     "hours": "Open daily",
+     "url": "https://www.nycgovparks.org/parks/riverside-park",
+     "src": "https://www.insidehook.com/new-york/guide-best-public-parks-all-five-nyc-boroughs/amp"
+    },
+    {
+     "name": "Fort Tryon Park",
+     "blurb": "A hilltop park in upper Manhattan with Hudson River views, about eight miles of paths, the Heather Garden and the Met Cloisters museum. It is a calm change from midtown and works well for a half-day outing. Dog owners will find the borough's largest dog run here.",
+     "address": "Margaret Corbin Dr, New York, NY 10040",
+     "phone": "",
+     "hours": "Open daily",
+     "url": "https://www.nycgovparks.org/parks/fort-tryon-park",
+     "src": "https://www.insidehook.com/new-york/guide-best-public-parks-all-five-nyc-boroughs/amp"
+    },
+    {
+     "name": "Flushing Meadows Corona Park",
+     "blurb": "Queens' large park, home of the Unisphere from the World's Fair, a lake, the Queens Museum, the New York Hall of Science and the zoo. It sits beside Citi Field and the national tennis center. The Queens Night Market runs here on summer Saturday nights.",
+     "address": "Grand Central Pkwy & 111th St, Flushing, NY 11368",
+     "phone": "",
+     "hours": "Open daily",
+     "url": "https://www.nycgovparks.org/parks/flushing-meadows-corona-park",
+     "src": "https://www.insidehook.com/new-york/guide-best-public-parks-all-five-nyc-boroughs/amp"
+    },
+    {
+     "name": "Battery Park",
+     "blurb": "The green tip of Manhattan, with harbor views, memorials, Castle Clinton, the SeaGlass Carousel and gardens. It is the departure point for ferries to the Statue of Liberty and Ellis Island. Buy ferry tickets only from the official operator online or at the Castle Clinton ticket office.",
+     "address": "State St & Battery Pl, New York, NY 10004",
+     "phone": "",
+     "hours": "Open daily",
+     "url": "https://www.nycgovparks.org/parks/battery-park",
+     "src": "https://www.lonelyplanet.com/articles/best-parks-new-york-city"
+    },
+    {
+     "name": "Van Cortlandt Park",
+     "blurb": "One of the largest parks in the city, with a big freshwater lake, cricket fields, the country's first public golf course and the Old Croton Aqueduct Trail. It is a good escape for longer walks or hikes in the Bronx. The 1 train ends nearby at 242nd Street.",
+     "address": "W 246th St & Broadway, Bronx, NY 10471",
+     "phone": "",
+     "hours": "Open daily",
+     "url": "https://www.nycgovparks.org/parks/van-cortlandt-park",
+     "src": "https://www.insidehook.com/new-york/guide-best-public-parks-all-five-nyc-boroughs/amp"
+    }
+   ]
+  },
+  {
+   "key": "walks",
+   "title": "Walks & Trails",
+   "items": [
+    {
+     "name": "The High Line",
+     "blurb": "A former elevated freight rail line turned into a long, landscaped walkway on Manhattan's west side, with gardens, art, seating and city views. Enter at several staircases and elevators between Gansevoort Street and Hudson Yards. It pairs well with Chelsea Market and the Whitney Museum.",
+     "address": "Gansevoort St to W 34th St (Washington St entrance at Gansevoort), New York, NY 10014",
+     "phone": "",
+     "hours": "Open daily; hours vary by season",
+     "url": "https://www.thehighline.org/",
+     "src": "https://www.nomadicmatt.com/travel-blogs/where-to-stay-nyc/"
+    },
+    {
+     "name": "Brooklyn Bridge Walk",
+     "blurb": "The pedestrian promenade across the 1883 Brooklyn Bridge is one of the city's classic walks, with skyline and harbor views the whole way. Allow about 30 to 45 minutes each way and share the path with cyclists on the marked lane. Start at Brooklyn for a Manhattan view ahead of you.",
+     "address": "Brooklyn Bridge, City Hall Park to Cadman Plaza East, New York, NY 10038",
+     "phone": "",
+     "hours": "Open 24 hours",
+     "url": "https://www.nyc.gov/html/dot/html/bridges/bridges.shtml",
+     "src": "https://www.nyctourism.com/photo-galleries/top-nyc-attractions"
+    },
+    {
+     "name": "Brooklyn Heights Promenade",
+     "blurb": "A quiet walkway above the East River with a sweeping view of lower Manhattan, the Brooklyn Bridge and the harbor. It sits beside brownstone streets that are pleasant to wander. It is a good first or last stop on a walk across the bridge.",
+     "address": "Columbia Heights between Orange and Remsen Sts, Brooklyn, NY 11201",
+     "phone": "",
+     "hours": "Open daily",
+     "url": "https://www.nycgovparks.org/parks/brooklyn-heights-promenade",
+     "src": "https://www.frommers.com/trip-ideas/arts-and-culture/free-new-york-city-sightseeing-tours-by-bike-bus-boat-more"
+    },
+    {
+     "name": "Hudson River Park",
+     "blurb": "A long waterfront park on Manhattan's west side, running from the Battery up toward 59th Street, with a riverside path, piers, lawns, playgrounds, a carousel and kayak boathouses. Pier 45 at Christopher Street is a popular sunny-day lawn. The path doubles as the Hudson River Greenway.",
+     "address": "Hudson River, Battery Pl to W 59th St, New York, NY 10014",
+     "phone": "",
+     "hours": "Open daily",
+     "url": "https://hudsonriverpark.org/",
+     "src": "https://www.lonelyplanet.com/articles/best-parks-new-york-city"
+    },
+    {
+     "name": "Staten Island Greenbelt",
+     "blurb": "A network of wooded reserves in the middle of Staten Island with color-coded trails suited to families. It offers quiet hiking, bird calls and ponds. High Rock Park is a good starting point.",
+     "address": "High Rock Park, 200 Nevada Ave, Staten Island, NY 10306",
+     "phone": "",
+     "hours": "Open daily; daylight hours",
+     "url": "https://www.sigreenbelt.org/",
+     "src": "https://www.lonelyplanet.com/articles/best-parks-new-york-city"
+    },
+    {
+     "name": "Gantry Plaza State Park",
+     "blurb": "A riverfront park in Long Island City with a fishing pier, lawns and one of the best skyline views of Midtown. The landmark Pepsi-Cola sign stands next door. It is an easy, scenic walk from the 7 train or the NYC Ferry landing.",
+     "address": "4-09 47th Rd, Long Island City, NY 11101",
+     "phone": "",
+     "hours": "Open daily",
+     "url": "https://parks.ny.gov/parks/gantryplaza/details.aspx",
+     "src": "https://www.insidehook.com/new-york/guide-best-public-parks-all-five-nyc-boroughs/amp"
+    },
+    {
+     "name": "Old Croton Aqueduct Trail",
+     "blurb": "A walking trail along the path of the historic water aqueduct, passing through Van Cortlandt Park in the Bronx. It is a quiet green route with historic marker stops. Use it for a longer, shaded walk away from traffic.",
+     "address": "Van Cortlandt Park, W 246th St, Bronx, NY 10471",
+     "phone": "",
+     "hours": "Open daily; daylight hours",
+     "url": "https://www.nycgovparks.org/parks/van-cortlandt-park",
+     "src": "https://www.insidehook.com/new-york/guide-best-public-parks-all-five-nyc-boroughs/amp"
+    },
+    {
+     "name": "Astoria Park",
+     "blurb": "A Queens riverfront park beneath the Hell Gate and RFK Bridges, with a long shoreline promenade, a running track, a large pool, playgrounds and skyline views. It is a locals' favorite for evening strolls. Take the N or W to Astoria Boulevard and walk west.",
+     "address": "19th St & Shore Blvd, Astoria, NY 11105",
+     "phone": "",
+     "hours": "Open daily",
+     "url": "https://www.nycgovparks.org/parks/astoria-park",
+     "src": "https://www.insidehook.com/new-york/guide-best-public-parks-all-five-nyc-boroughs/amp"
+    },
+    {
+     "name": "Green-Wood Cemetery",
+     "blurb": "A historic Brooklyn cemetery and arboretum with hills, ponds, about 8,000 trees and sweeping views of the harbor. Many notable New Yorkers rest here, and its Gothic gates are a landmark. Walking only; no picnicking or dog walking is allowed.",
+     "address": "500 25th St, Brooklyn, NY 11232",
+     "phone": "",
+     "hours": "Daily, daylight hours",
+     "url": "https://www.green-wood.com/",
+     "src": "https://www.insidehook.com/new-york/guide-best-public-parks-all-five-nyc-boroughs/amp"
+    }
+   ]
+  },
+  {
+   "key": "bikes",
+   "title": "Bike Paths",
+   "items": [
+    {
+     "name": "Hudson River Greenway",
+     "blurb": "An 11-mile, mostly traffic-separated path along Manhattan's west edge, from Battery Park to Fort Tryon Park, with river views and access to the High Line and Little Red Lighthouse area. It is smooth, popular and a straightforward way to see the island. Citi Bike docks line much of the route.",
+     "address": "Battery Park to Fort Tryon Park, New York, NY",
+     "phone": "",
+     "hours": "Open 24 hours",
+     "url": "https://www.nycgovparks.org/facilities/bikeways",
+     "src": "https://theculturetrip.com/north-america/usa/new-york/new-york-city/articles/10-best-bike-paths-in-new-york-city/"
+    },
+    {
+     "name": "Central Park Loop",
+     "blurb": "Central Park's drives are closed to cars and offer three loop options of about 1.7, 5.2 and 6.1 miles, with hills and lake views. Stay in the marked bike lane and expect joggers and walkers. Rental shops sit near the park's edges.",
+     "address": "Central Park, New York, NY 10024",
+     "phone": "",
+     "hours": "Open daily, park hours",
+     "url": "https://www.centralparknyc.org/",
+     "src": "https://theculturetrip.com/north-america/usa/new-york/new-york-city/articles/10-best-bike-paths-in-new-york-city/"
+    },
+    {
+     "name": "Prospect Park Loop",
+     "blurb": "A 3.35-mile loop around the inside of Prospect Park, about a 30-minute ride, passing the boathouse, the carousel and Grand Army Plaza. It is a gentle ride that leaves time to stop at park attractions. Check for set hours when the drives are closed to cars.",
+     "address": "Prospect Park, Brooklyn, NY 11215",
+     "phone": "",
+     "hours": "Open daily",
+     "url": "https://www.prospectpark.org/",
+     "src": "https://theculturetrip.com/north-america/usa/new-york/new-york-city/articles/10-best-bike-paths-in-new-york-city/"
+    },
+    {
+     "name": "Ocean Parkway Bike Path",
+     "blurb": "Believed to be the oldest bike path in the country, this 5.5-mile Olmsted and Vaux route runs from Prospect Park toward the Coney Island waterfront. It is a flat and straight ride. End the trip with a boardwalk stroll at Coney Island.",
+     "address": "Ocean Pkwy, Prospect Park to Coney Island, Brooklyn, NY",
+     "phone": "",
+     "hours": "Open 24 hours",
+     "url": "https://www.nycgovparks.org/facilities/bikeways",
+     "src": "https://theculturetrip.com/north-america/usa/new-york/new-york-city/articles/10-best-bike-paths-in-new-york-city/"
+    },
+    {
+     "name": "Brooklyn Waterfront Greenway",
+     "blurb": "A connected route along Brooklyn's waterfront between roughly DeGraw Street in Red Hook and North 14th Street in Greenpoint, linking parks, piers and views of Manhattan. Parts are protected paths and parts are on streets. It pairs well with a Citi Bike rental.",
+     "address": "DeGraw St & Van Brunt St to N 14th St & Kent Ave, Brooklyn, NY",
+     "phone": "",
+     "hours": "Open 24 hours",
+     "url": "https://www.nycgovparks.org/facilities/bikeways",
+     "src": "https://prd2.nycgovparks.org/facilities/bikeways"
+    },
+    {
+     "name": "Rockaways Ride",
+     "blurb": "A roughly seven-mile ride from Sheepshead Bay or Howard Beach through quiet streets to the beaches of the Rockaway Peninsula, ending near Jacob Riis Park. It crosses the Marine Parkway-Gil Hodges Memorial Bridge. Leave time for lunch at the beach bazaar.",
+     "address": "Sheepshead Bay to Jacob Riis Park, Brooklyn and Queens, NY",
+     "phone": "",
+     "hours": "Open 24 hours",
+     "url": "https://www.nycgovparks.org/facilities/bikeways",
+     "src": "https://theculturetrip.com/north-america/usa/new-york/new-york-city/articles/10-best-bike-paths-in-new-york-city/"
+    },
+    {
+     "name": "Randall's and Wards Island Bike Path",
+     "blurb": "A quiet path on the conjoined islands in the East River, with views of the Harlem River and Manhattan. It is rarely crowded and good for a relaxed ride. Reach it by the 103rd Street footbridge from East Harlem.",
+     "address": "Randalls Island Park, New York, NY 10035",
+     "phone": "",
+     "hours": "Open daily",
+     "url": "https://www.nycgovparks.org/parks/randalls-island-park",
+     "src": "https://theculturetrip.com/north-america/usa/new-york/new-york-city/articles/10-best-bike-paths-in-new-york-city/"
+    },
+    {
+     "name": "Bronx River Pathway and Greenway",
+     "blurb": "A long ribbon of path beside the Bronx River, passing Concrete Plant Park with its kayak launch and picnic spots. The Bronx Greenway also links Van Cortlandt and Pelham Bay parks. It is a peaceful ride away from the Manhattan crowds.",
+     "address": "Bronx River, Bronx, NY",
+     "phone": "",
+     "hours": "Open daily",
+     "url": "https://www.nycgovparks.org/facilities/bikeways",
+     "src": "https://theculturetrip.com/north-america/usa/new-york/new-york-city/articles/10-best-bike-paths-in-new-york-city/"
+    },
+    {
+     "name": "Governors Island Bike Loop",
+     "blurb": "Roads without cars and trails on a former military base in New York Harbor, with views of Lower Manhattan and the Statue of Liberty. The island is reached by ferry and bikes can be rented there in season. It is easy riding with plenty of places to stop.",
+     "address": "Governors Island, New York, NY 10004",
+     "phone": "",
+     "hours": "Seasonal; check ferry schedule",
+     "url": "https://www.govisland.com/",
+     "src": "https://theculturetrip.com/north-america/usa/new-york/new-york-city/articles/10-best-bike-paths-in-new-york-city/"
+    }
+   ]
+  },
+  {
+   "key": "views",
+   "title": "Views & Landmarks",
+   "items": [
+    {
+     "name": "Empire State Building",
+     "blurb": "The Art Deco icon offers an open-air deck on the 86th floor and an enclosed observatory on the 102nd, plus a history exhibit on the 69th floor. There is no on-site dining, so eat nearby first. Priority access is available and evening visits give a view of the city lights. Hours and ticket prices change, so confirm on the official site.",
+     "address": "20 W 34th St, New York, NY 10001",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://www.esbnyc.com/",
+     "src": "https://www.headout.com/blog/top-observation-decks-nyc/"
+    },
+    {
+     "name": "Top of the Rock",
+     "blurb": "The observation deck at Rockefeller Center rises to the 70th floor, with open-air 360-degree views and a Central Park outlook framed by Midtown towers. The elevator has a transparent ceiling and a stair leads to the top level for clean photos. Last entry is shortly before closing, so go at sunset for both day and night views.",
+     "address": "30 Rockefeller Plaza, New York, NY 10112",
+     "phone": "",
+     "hours": "8am-midnight daily; last entry 11:10pm (per guide, confirm online)",
+     "url": "https://www.rockefellercenter.com/attractions/top-of-the-rock-observation-deck/",
+     "src": "https://www.headout.com/blog/top-observation-decks-nyc/"
+    },
+    {
+     "name": "One World Observatory",
+     "blurb": "The fully enclosed deck on the 100th to 102nd floors of One World Trade Center shows Manhattan, the boroughs and the Statue of Liberty in any weather. The elevator ride includes a time-lapse of the city's history. It is the best match for visiting the 9/11 Memorial in the same trip.",
+     "address": "285 Fulton St, New York, NY 10007",
+     "phone": "",
+     "hours": "About 9am-9pm, varies by season; last entry an hour before closing",
+     "url": "https://www.oneworldobservatory.com/",
+     "src": "https://www.headout.com/blog/top-observation-decks-nyc/"
+    },
+    {
+     "name": "Edge at Hudson Yards",
+     "blurb": "An outdoor sky deck on the 100th floor with a glass floor and angled glass walls, on the west side near the High Line and the Vessel. Indoor viewing spaces are included, and a guided City Climb goes higher on the exterior. Check the official site for hours and booking.",
+     "address": "30 Hudson Yards, New York, NY 10001",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://www.edgenyc.com/",
+     "src": "https://www.headout.com/blog/top-observation-decks-nyc/"
+    },
+    {
+     "name": "SUMMIT One Vanderbilt",
+     "blurb": "An immersive viewing experience on floors 91 to 93 of a tower beside Grand Central, with mirrored rooms, art installations and an outdoor terrace. The Ascent glass elevator climbs even higher. Priority access is not offered, so book a timed entry in advance.",
+     "address": "45 E 42nd St, New York, NY 10017",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://summitov.com/",
+     "src": "https://www.headout.com/blog/top-observation-decks-nyc/"
+    },
+    {
+     "name": "Statue of Liberty",
+     "blurb": "Liberty Island is reached by ferry from Battery Park or Liberty State Park, and the monument is run by the National Park Service. Ferry tickets are sold by Statue City Cruises, and the official ticket office is at Castle Clinton. Do not buy from street sellers. The ferry also stops at Ellis Island.",
+     "address": "Liberty Island, New York, NY 10004",
+     "phone": "",
+     "hours": "Daily; hours vary by season",
+     "url": "https://www.nps.gov/stli/",
+     "src": "https://www.lonelyplanet.com/articles/best-parks-new-york-city"
+    },
+    {
+     "name": "Grand Central Terminal",
+     "blurb": "A Beaux-Arts rail hub with a famous main concourse, a starry ceiling, a food market and the Grand Central Oyster Bar below. There is no admission fee to walk through and makes a good break between sights. Look up at the main hall and visit the market for a quick bite.",
+     "address": "89 E 42nd St, New York, NY 10017",
+     "phone": "",
+     "hours": "Open daily, early morning to 2am",
+     "url": "https://www.grandcentralterminal.com/",
+     "src": "https://newyorkpass.com/en/things-to-do/best-food-markets-nyc"
+    },
+    {
+     "name": "St. Patrick's Cathedral",
+     "blurb": "A Gothic Revival Catholic cathedral directly across from Rockefeller Center, with large stained-glass windows and a quiet, ornate interior. Visitors are welcome outside services. It is a calm stop between Fifth Avenue shops.",
+     "address": "5th Ave between 50th and 51st Sts, New York, NY 10022",
+     "phone": "",
+     "hours": "Open daily",
+     "url": "https://saintpatrickscathedral.org/",
+     "src": "https://www.nyctourism.com/photo-galleries/top-nyc-attractions"
+    },
+    {
+     "name": "Times Square",
+     "blurb": "The bright crossroads of Broadway and Seventh Avenue is packed with billboards, theaters and street performers. It is best seen after dark and is the heart of the Theater District. Expect crowds and look for the red steps at the TKTS booth.",
+     "address": "Broadway & 7th Ave, New York, NY 10036",
+     "phone": "",
+     "hours": "Open 24 hours",
+     "url": "https://www.timessquarenyc.org/",
+     "src": "https://www.nyctourism.com/photo-galleries/top-nyc-attractions"
+    }
+   ]
+  },
+  {
+   "key": "history",
+   "title": "History & Museums",
+   "items": [
+    {
+     "name": "National September 11 Memorial & Museum",
+     "blurb": "Twin reflecting pools mark the footprints of the Twin Towers, and an underground museum documents the day and the people connected to it with artifacts and personal stories. It is a solemn, reflective visit. Allow at least two hours and book timed museum tickets ahead.",
+     "address": "180 Greenwich St, New York, NY 10007",
+     "phone": "",
+     "hours": "Memorial open daily; museum hours vary",
+     "url": "https://www.911memorial.org/",
+     "src": "https://www.newyork.com/articles/post/11-best-museums-new-york-city-complete-visitor-guide/"
+    },
+    {
+     "name": "Tenement Museum",
+     "blurb": "Guided tours take you inside restored apartments on the Lower East Side where immigrant families lived. It is a hands-on way to understand the city's immigrant history. Tours are by reservation, so book ahead.",
+     "address": "103 Orchard St, New York, NY 10002",
+     "phone": "",
+     "hours": "Tours daily; see official site",
+     "url": "https://www.tenement.org/",
+     "src": "https://www.nomadicmatt.com/travel-blogs/where-to-stay-nyc/"
+    },
+    {
+     "name": "Museum of the City of New York",
+     "blurb": "A Fifth Avenue museum devoted to the city's history, with photography, theater and everyday-life exhibits. It is on Museum Mile and a good counterpart to the big art museums. Check the site for current exhibitions.",
+     "address": "1220 Fifth Ave, New York, NY 10029",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://www.mcny.org/",
+     "src": "https://www.newyork.com/articles/post/11-best-museums-new-york-city-complete-visitor-guide/"
+    },
+    {
+     "name": "New York Transit Museum",
+     "blurb": "Housed in a decommissioned subway station in Brooklyn, with vintage subway cars you can walk through and exhibits on how the system was built. Kids can pose behind a bus wheel and try ticket machines. It is a favorite for train fans.",
+     "address": "99 Schermerhorn St, Brooklyn, NY 11201",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://www.nytransitmuseum.org/",
+     "src": "https://gocity.com/en/new-york/things-to-do/most-family-friendly-new-york-attractions"
+    },
+    {
+     "name": "Intrepid Sea, Air & Space Museum",
+     "blurb": "A real aircraft carrier moored on the Hudson, with fighter jets, a submarine tour and the space shuttle Enterprise pavilion. Guides share personal stories and there are flight simulators. Kids and military history fans both enjoy it.",
+     "address": "Pier 86, W 46th St & 12th Ave, New York, NY 10036",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://www.intrepidmuseum.org/",
+     "src": "https://gocity.com/en/new-york/things-to-do/most-family-friendly-new-york-attractions"
+    },
+    {
+     "name": "Fraunces Tavern Museum",
+     "blurb": "A building dating to 1719 where George Washington bid farewell to his officers in 1783. The upstairs museum displays Revolutionary War era artifacts, and the restaurant below serves colonial-inspired fare. It is a short walk from Battery Park.",
+     "address": "54 Pearl St, New York, NY 10004",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://www.frauncestavernmuseum.org/",
+     "src": "https://momskoop.com/?p=62521"
+    },
+    {
+     "name": "Ellis Island National Museum of Immigration",
+     "blurb": "Reached by ferry from Battery Park together with the Statue of Liberty, the main hall and museum tell the story of millions of arrivals. It is a moving visit for families with immigrant roots. Allow a half day for both islands.",
+     "address": "Ellis Island, New York, NY 10004",
+     "phone": "",
+     "hours": "Daily; hours vary by season",
+     "url": "https://www.nps.gov/elis/",
+     "src": "https://www.lonelyplanet.com/articles/best-parks-new-york-city"
+    },
+    {
+     "name": "Federal Hall National Memorial",
+     "blurb": "A Greek Revival building on Wall Street on the site where George Washington took the oath of office as the first president. It is run by the National Park Service and is a short visit. Statues and exhibits cover early American government.",
+     "address": "26 Wall St, New York, NY 10005",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://www.nps.gov/feha/",
+     "src": "https://www.nomadicmatt.com/travel-blogs/where-to-stay-nyc/"
+    },
+    {
+     "name": "Alice Austen House",
+     "blurb": "A museum in the historic Staten Island home of photographer Alice Austen, with about 7,000 of her photographs. The lawn looks over New York Harbor. It is a quiet stop after the Staten Island Ferry.",
+     "address": "2 Hylan Blvd, Staten Island, NY 10305",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://aliceausten.org/",
+     "src": "https://www.insidehook.com/new-york/guide-best-public-parks-all-five-nyc-boroughs/amp"
+    }
+   ]
+  },
+  {
+   "key": "art",
+   "title": "Art & Gardens",
+   "items": [
+    {
+     "name": "The Metropolitan Museum of Art",
+     "blurb": "One of the world's largest museums, with more than two million works from ancient Egypt to modern fashion. Kid-friendly guides are available at the entrance and a seasonal rooftop garden adds city views. Plan a full day or choose a few galleries.",
+     "address": "1000 Fifth Ave, New York, NY 10028",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://www.metmuseum.org/",
+     "src": "https://www.newyork.com/articles/post/11-best-museums-new-york-city-complete-visitor-guide/"
+    },
+    {
+     "name": "Museum of Modern Art (MoMA)",
+     "blurb": "Home to Van Gogh, Picasso and Warhol, with design, architecture and film programs. It is a good rainy-day choice in Midtown. Check the site for no-charge nights and timed tickets.",
+     "address": "11 W 53rd St, New York, NY 10019",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://www.moma.org/",
+     "src": "https://www.newyork.com/articles/post/11-best-museums-new-york-city-complete-visitor-guide/"
+    },
+    {
+     "name": "Solomon R. Guggenheim Museum",
+     "blurb": "Frank Lloyd Wright's spiral building on Fifth Avenue holds modern and contemporary exhibits. Walk the ramp from top to bottom. Central Park is right across the street.",
+     "address": "1071 Fifth Ave, New York, NY 10128",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://www.guggenheim.org/",
+     "src": "https://www.newyork.com/articles/post/11-best-museums-new-york-city-complete-visitor-guide/"
+    },
+    {
+     "name": "Whitney Museum of American Art",
+     "blurb": "A museum focused on American artists, with rooftop terraces overlooking the Hudson and the High Line. It sits in the Meatpacking District, so combine it with a High Line walk. Contemporary exhibits rotate often.",
+     "address": "99 Gansevoort St, New York, NY 10014",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://whitney.org/",
+     "src": "https://www.newyork.com/articles/post/11-best-museums-new-york-city-complete-visitor-guide/"
+    },
+    {
+     "name": "The Frick Collection",
+     "blurb": "Renaissance and Baroque masterpieces displayed in intimate rooms of a former mansion. It is quieter than the big museums and good for slower visits. Check the official site for the current location and tickets.",
+     "address": "1 E 70th St, New York, NY 10021",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://www.frick.org/",
+     "src": "https://www.newyork.com/articles/post/11-best-museums-new-york-city-complete-visitor-guide/"
+    },
+    {
+     "name": "The Museum at FIT",
+     "blurb": "A fashion museum with rotating couture exhibitions and textile history, admission without charge. It is a short stop near Chelsea. Check what is currently on view before going.",
+     "address": "227 W 27th St, New York, NY 10001",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://www.fitnyc.edu/museum/",
+     "src": "https://www.newyork.com/articles/post/11-best-museums-new-york-city-complete-visitor-guide/"
+    },
+    {
+     "name": "New York Botanical Garden",
+     "blurb": "A Bronx garden with rainforest and desert conservatories, an Everett Children's Adventure Garden and seasonal shows such as orchids and holiday trains. Picnic areas make it easy for families. Bicycles are not allowed on the grounds, though racks are provided.",
+     "address": "2900 Southern Blvd, Bronx, NY 10458",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://www.nybg.org/",
+     "src": "https://gocity.com/en/new-york/things-to-do/most-family-friendly-new-york-attractions"
+    },
+    {
+     "name": "Wave Hill Public Garden",
+     "blurb": "A former country estate above the Hudson in the Bronx with flower gardens, river views, art galleries and a seasonal cafe. It is quiet and good for a peaceful afternoon. Bikes, scooters and blankets are not allowed on the lawns.",
+     "address": "4900 Independence Ave, Bronx, NY 10471",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://www.wavehill.org/",
+     "src": "https://www.insidehook.com/new-york/guide-best-public-parks-all-five-nyc-boroughs/amp"
+    },
+    {
+     "name": "Snug Harbor Cultural Center & Botanical Garden",
+     "blurb": "A Staten Island campus with gardens, a rose garden, a shrubbery maze, a Chinese Scholar's Garden and a maritime museum. The gardens carry no entry charge. It is an easy day trip after the Staten Island Ferry plus a bus.",
+     "address": "1000 Richmond Terrace, Staten Island, NY 10301",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://snug-harbor.org/",
+     "src": "https://www.insidehook.com/new-york/guide-best-public-parks-all-five-nyc-boroughs/amp"
+    }
+   ]
+  },
+  {
+   "key": "family",
+   "title": "Family & Science",
+   "items": [
+    {
+     "name": "Central Park Zoo",
+     "blurb": "A compact zoo inside Central Park with sea lions, snow leopards and monkeys, a treetop canopy walk and an interactive children's zoo. Feeding times and shows run through the day. It is easy to combine with a park picnic.",
+     "address": "830 Fifth Ave, New York, NY 10065",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://centralparkzoo.com/",
+     "src": "https://gocity.com/en/new-york/things-to-do/most-family-friendly-new-york-attractions"
+    },
+    {
+     "name": "American Museum of Natural History",
+     "blurb": "Giant dinosaur skeletons, a blue whale, a gem hall, a planetarium and touchable meteorites. Scavenger hunts help young visitors, and exhibits rotate. It faces Central Park on the Upper West Side.",
+     "address": "200 Central Park West, New York, NY 10024",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://www.amnh.org/",
+     "src": "https://gocity.com/en/new-york/things-to-do/most-family-friendly-new-york-attractions"
+    },
+    {
+     "name": "Children's Museum of Manhattan",
+     "blurb": "Five floors of play-based exhibits, including a water play area and an art lab, plus storytelling corners and rotating installations. Toddlers and school-age kids both have plenty to do. Check the site before visiting since locations can change.",
+     "address": "212 W 83rd St, New York, NY 10024",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://cmom.org/",
+     "src": "https://gocity.com/en/new-york/things-to-do/most-family-friendly-new-york-attractions"
+    },
+    {
+     "name": "New York Hall of Science",
+     "blurb": "A hands-on science museum in Flushing Meadows Corona Park, in the same park as the Unisphere and the Queens Museum. Kids can explore interactive exhibits. It is a good Queens day with the park's lawns.",
+     "address": "47-01 111th St, Queens, NY 11368",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://nysci.org/",
+     "src": "https://www.insidehook.com/new-york/guide-best-public-parks-all-five-nyc-boroughs/amp"
+    },
+    {
+     "name": "Bronx Zoo",
+     "blurb": "A large zoo in the Bronx with sea lions and many wildlife exhibits. Plan a full day, with plenty of walking. The nearby New York Botanical Garden pairs well for a second outing.",
+     "address": "2300 Southern Blvd, Bronx, NY 10460",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://bronxzoo.com/",
+     "src": "https://www.nyctourism.com/photo-galleries/top-nyc-attractions"
+    },
+    {
+     "name": "New York Aquarium",
+     "blurb": "A Coney Island aquarium with a touch tank and sea lion training sessions. It sits near the boardwalk and Luna Park. Combine a visit with a beach stroll and a hot dog.",
+     "address": "602 Surf Ave, Brooklyn, NY 11224",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://nyaquarium.com/",
+     "src": "https://gocity.com/en/new-york/things-to-do/most-family-friendly-new-york-attractions"
+    },
+    {
+     "name": "Chelsea Piers",
+     "blurb": "A Hudson River sports complex with bowling, skating, golf simulators and rock climbing, good for rainy days. Strollers are welcome and cafes are on site. It sits on the Hudson River Greenway.",
+     "address": "Pier 60, 23rd St & Hudson River, New York, NY 10011",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://www.chelseapiers.com/",
+     "src": "https://gocity.com/en/new-york/things-to-do/most-family-friendly-new-york-attractions"
+    },
+    {
+     "name": "Luna Park at Coney Island",
+     "blurb": "A seaside amusement park with rides from gentle kiddie coasters to the historic Cyclone. Deno's Wonder Wheel has gently swaying cars for younger kids. Boardwalk food includes Nathan's hot dogs.",
+     "address": "1000 Surf Ave, Brooklyn, NY 11224",
+     "phone": "",
+     "hours": "Seasonal; see official site",
+     "url": "https://lunaparknyc.com/",
+     "src": "https://gocity.com/en/new-york/things-to-do/most-family-friendly-new-york-attractions"
+    },
+    {
+     "name": "Jane's Carousel",
+     "blurb": "A restored 1922 carousel in a glass pavilion at Brooklyn Bridge Park with a skyline view. It is a charming small ride for young children. Pair it with the playgrounds and the waterfront.",
+     "address": "Brooklyn Bridge Park, Old Fulton St, Brooklyn, NY 11201",
+     "phone": "",
+     "hours": "Seasonal; see official site",
+     "url": "https://www.janescarousel.com/",
+     "src": "https://www.insidehook.com/new-york/guide-best-public-parks-all-five-nyc-boroughs/amp"
+    }
+   ]
+  },
+  {
+   "key": "ferries",
+   "title": "Ferries & Boat Trips",
+   "items": [
+    {
+     "name": "Staten Island Ferry",
+     "blurb": "A no-charge ferry run by NYC DOT between the Whitehall terminal in Manhattan and St. George in Staten Island, with views of the Statue of Liberty and the harbor. It runs around the clock, about every 30 minutes by one guide. The ride takes about 25 minutes.",
+     "address": "4 South St (Whitehall Terminal), New York, NY 10004",
+     "phone": "",
+     "hours": "24 hours",
+     "url": "https://www.nyc.gov/html/dot/html/ferrybus/statenislandferry.shtml",
+     "src": "https://www.nyc.gov/html/dot/html/ferrybus/ferintro.shtml"
+    },
+    {
+     "name": "NYC Ferry",
+     "blurb": "A commuter ferry network serving the East River, the Rockaways and Governors Island, a scenic way to see the waterfront. Tickets are bought through the NYC Ferry app or ticket machines, and the system does not accept OMNY. Check ferry.nyc for current fares and routes.",
+     "address": "Pier 11 / Wall St, New York, NY 10005",
+     "phone": "(844) 4NY-FERRY",
+     "hours": "See ferry.nyc",
+     "url": "https://www.ferry.nyc/",
+     "src": "https://realstoursnyc.com/pt/post/54/nyc-public-transportation-guide-2025-how-to-travel-like-a-local"
+    },
+    {
+     "name": "Statue City Cruises: Statue of Liberty & Ellis Island",
+     "blurb": "The official operator for ferries to Liberty Island and Ellis Island, leaving from Battery Park. Buy tickets online or at the Castle Clinton ticket office, not from street sellers. Allow a half day to visit both islands.",
+     "address": "Castle Clinton, Battery Park, New York, NY 10004",
+     "phone": "",
+     "hours": "Daily; see official site",
+     "url": "https://www.cityexperiences.com/new-york/city-cruises/statue/",
+     "src": "https://www.lonelyplanet.com/articles/best-parks-new-york-city"
+    },
+    {
+     "name": "Governors Island Ferry",
+     "blurb": "Seasonal ferries from Manhattan's Battery Maritime Building and from Brooklyn Bridge Park Pier 6 take you to Governors Island, a harbor island without cars with views and events. The Manhattan ride is short. Check the official site for the current season and fare.",
+     "address": "10 South St (Battery Maritime Building), New York, NY 10004",
+     "phone": "",
+     "hours": "Seasonal",
+     "url": "https://www.govisland.com/",
+     "src": "https://www.nyc.gov/html/dot/html/ferrybus/ferintro.shtml"
+    },
+    {
+     "name": "Circle Line Sightseeing Cruises",
+     "blurb": "Sightseeing boats circle Manhattan or take shorter landmark tours. Departures are from Pier 83 at W 42nd Street on the Hudson and from Pier 16 at South Street Seaport on the East River. It is a good first-day overview of the skyline.",
+     "address": "Pier 83, W 42nd St & 12th Ave, New York, NY 10036",
+     "phone": "",
+     "hours": "Daily; see official site",
+     "url": "https://www.circleline.com/",
+     "src": "https://www.nyc.gov/html/dot/html/ferrybus/ferintro.shtml"
+    },
+    {
+     "name": "NY Water Taxi",
+     "blurb": "A water taxi service with a shuttle between Pier 11 and IKEA in Red Hook, Brooklyn, plus hop-on, hop-off day passes. It is a relaxed way to see the harbor. Check the current schedule before you go.",
+     "address": "Pier 11, South St, New York, NY 10005",
+     "phone": "",
+     "hours": "See official site",
+     "url": "https://www.nywatertaxi.com/",
+     "src": "https://www.nyc.gov/html/dot/html/ferrybus/ferintro.shtml"
+    },
+    {
+     "name": "Liberty Landing Ferry",
+     "blurb": "Connects Lower Manhattan's World Financial Center area with Jersey City. It is a quick harbor crossing with skyline views. Check the operator for the schedule and fare.",
+     "address": "Brookfield Place, 200 Vesey St, New York, NY 10281",
+     "phone": "",
+     "hours": "See operator",
+     "url": "https://www.libertylandingferry.com/",
+     "src": "https://www.nyc.gov/html/dot/html/ferrybus/ferintro.shtml"
+    },
+    {
+     "name": "New York Waterway",
+     "blurb": "Several ferry routes between New Jersey and Manhattan, handy for commuters and for a quick skyline view. It also runs sightseeing cruises. Check the operator for the schedule and fares.",
+     "address": "Pier 79, W 39th St, New York, NY 10018",
+     "phone": "",
+     "hours": "See operator",
+     "url": "https://www.nywaterway.com/",
+     "src": "https://www.nyc.gov/html/dot/html/ferrybus/ferintro.shtml"
+    },
+    {
+     "name": "NYC Ferry to the Rockaways",
+     "blurb": "The Rockaway route goes from Wall Street/Pier 11 to the beach community of Rockaway in Queens, a popular summer alternative to the A train. It's an easy way to reach Rockaway Beach and Jacob Riis Park. Buy tickets in the NYC Ferry app.",
+     "address": "Pier 11 / Wall St, New York, NY 10005",
+     "phone": "",
+     "hours": "See ferry.nyc",
+     "url": "https://www.ferry.nyc/",
+     "src": "https://www.lonelyplanet.com/articles/best-beaches-new-york-city"
+    }
+   ]
+  },
+  {
+   "key": "paddle",
+   "title": "Paddling & Sailing",
+   "items": [
+    {
+     "name": "Manhattan Community Boathouse",
+     "blurb": "A volunteer-run kayaking program at Pier 96 in Hudson River Park, with weekend afternoon sessions in season and some summer evenings. No reservations are needed. Younger paddlers must share a boat with an adult. Check the website for the current schedule.",
+     "address": "Pier 96, W 56th St, New York, NY 10019",
+     "phone": "",
+     "hours": "Seasonal weekends; see website",
+     "url": "http://www.manhattancommunityboathouse.org/",
+     "src": "https://mommypoppins.com/node/38740"
+    },
+    {
+     "name": "Brooklyn Bridge Park Boathouse",
+     "blurb": "Kayaking in a protected cove between Piers 1 and 2 at Brooklyn Bridge Park, with skyline views. Reservations are required and rides are short, about 20 minutes. Younger children paddle in double kayaks with a parent.",
+     "address": "Pier 2, Brooklyn Bridge Park, Brooklyn, NY 11201",
+     "phone": "",
+     "hours": "Seasonal; reservations required",
+     "url": "http://www.bbpboathouse.org/",
+     "src": "https://mommypoppins.com/node/38740"
+    },
+    {
+     "name": "Long Island City Community Boathouse",
+     "blurb": "A community boathouse on Hallets Cove, near Socrates Sculpture Park in Queens, with walk-up kayak rides on select summer days. Rides are limited to about 20 minutes and children must have an adult with them. Lockers are available (bring your own lock).",
+     "address": "46-01 5th St, Long Island City, NY 11101",
+     "phone": "",
+     "hours": "Select summer days",
+     "url": "https://www.licboathouse.org/",
+     "src": "https://mommypoppins.com/node/38740"
+    },
+    {
+     "name": "Downtown Boathouse",
+     "blurb": "Volunteer-run kayaking at Pier 26 on the Hudson near Tribeca, with equipment provided and no charge. Swimming is not allowed. Children can paddle with a parent or guardian, and sessions run on scheduled days from May to October.",
+     "address": "Pier 26, Hudson River Park, New York, NY 10013",
+     "phone": "",
+     "hours": "Seasonal, May-October",
+     "url": "http://www.downtownboathouse.org/",
+     "src": "https://www.cbsnews.com/newyork/news/best-ways-to-get-out-on-the-water-in-ny"
+    },
+    {
+     "name": "Kayak Staten Island",
+     "blurb": "An all-volunteer group offering short walk-up kayak sessions on select weekends from June to October. Kayaks, paddles and life jackets are supplied. An adult must accompany anyone under 18 and everyone signs a waiver.",
+     "address": "850 Page Ave, Staten Island, NY 10307",
+     "phone": "",
+     "hours": "Select weekends, June-October",
+     "url": "http://www.kayakstatenisland.org/",
+     "src": "https://mommypoppins.com/node/38740"
+    },
+    {
+     "name": "Red Hook Boaters",
+     "blurb": "A volunteer group offering short kayak rides at Louis Valentino Jr. Park and Pier in Red Hook, with double kayaks and kid-size paddles on hand. Sessions run on Thursday evenings and Sunday afternoons in warm months. Children under 14 ride with a caregiver.",
+     "address": "Coffey & Ferris Sts (Louis Valentino Jr. Park), Brooklyn, NY 11231",
+     "phone": "",
+     "hours": "Seasonal Thursday evenings and Sunday afternoons",
+     "url": "https://www.redhookboaters.org/home",
+     "src": "https://mommypoppins.com/node/38740"
+    },
+    {
+     "name": "Village Community Boathouse",
+     "blurb": "Volunteer rowing from Pier 40 at Houston Street on the Hudson. Wednesday rowing needs no sign-up and Sunday rowing requires one. Younger rowers need a parent, and the season runs roughly May to November.",
+     "address": "Pier 40, W Houston St, New York, NY 10014",
+     "phone": "",
+     "hours": "Wed, Fri, Sun in season",
+     "url": "http://www.villagecommunityboathouse.org/",
+     "src": "https://mommypoppins.com/node/38740"
+    },
+    {
+     "name": "Hudson River Community Sailing",
+     "blurb": "A nonprofit sailing center at Pier 66 in Chelsea. It teaches sailing to local youth, and adults can take lessons from a two-hour intro to full certification. It is a good way to try sailing on the Hudson.",
+     "address": "Pier 66, W 26th St, New York, NY 10001",
+     "phone": "(212) 924-1920",
+     "hours": "See website",
+     "url": "https://hudsonsailing.org/",
+     "src": "https://www.cbsnews.com/newyork/news/best-ways-to-get-out-on-the-water-in-ny"
+    },
+    {
+     "name": "Rocking the Boat",
+     "blurb": "A Bronx program in Hunts Point that builds wooden boats with local teens and offers community rowing and sailing sessions on the Bronx River on select Saturdays in warm months. Rides are short and an adult must accompany children.",
+     "address": "Hunts Point Riverside Park, 1409 Lafayette Ave, Bronx, NY 10474",
+     "phone": "",
+     "hours": "Select Saturdays in season",
+     "url": "http://rockingtheboat.org/",
+     "src": "https://mommypoppins.com/node/38740"
+    }
+   ]
+  },
+  {
+   "key": "markets",
+   "title": "Markets",
+   "items": [
+    {
+     "name": "Chelsea Market",
+     "blurb": "An indoor food hall in a former biscuit factory in the Meatpacking District, with lobster rolls, ramen, tacos, doughnuts and specialty shops. It is open rain or shine and a short walk from the High Line. Come hungry and plan to browse.",
+     "address": "75 Ninth Ave, New York, NY 10011",
+     "phone": "",
+     "hours": "Open daily; see website",
+     "url": "https://www.chelseamarketnyc.com/",
+     "src": "https://newyorkpass.com/en/things-to-do/best-food-markets-nyc"
+    },
+    {
+     "name": "Essex Market",
+     "blurb": "A two-story Lower East Side market with bread, tacos, Caribbean food, deli fare, pickles and handmade pasta. The upstairs seating area gives a good view. It is a good midday meal stop.",
+     "address": "88 Essex St, New York, NY 10002",
+     "phone": "",
+     "hours": "Open daily; see website",
+     "url": "https://www.essexmarket.nyc/",
+     "src": "https://newyorkpass.com/en/things-to-do/best-food-markets-nyc"
+    },
+    {
+     "name": "Smorgasburg",
+     "blurb": "Weekend open-air food markets with dozens of vendors, held outdoors in Williamsburg and in Prospect Park in season. Expect Korean barbecue sandwiches, fried chicken and desserts. Bring a blanket and come hungry.",
+     "address": "East River State Park, Williamsburg, and Breeze Hill, Prospect Park, Brooklyn, NY",
+     "phone": "",
+     "hours": "Weekends in season; see website",
+     "url": "https://www.smorgasburg.com/",
+     "src": "https://newyorkpass.com/en/things-to-do/best-food-markets-nyc"
+    },
+    {
+     "name": "Queens Night Market",
+     "blurb": "A Saturday-night street food market in Flushing Meadows Corona Park with dishes from many countries, most plates priced under $6. Live music adds to the festival feel. The season runs April through October.",
+     "address": "47-01 111th St (NY Hall of Science lot), Queens, NY 11368",
+     "phone": "",
+     "hours": "Saturday nights, April-October",
+     "url": "https://queensnightmarket.com/",
+     "src": "https://newyorkpass.com/en/things-to-do/best-food-markets-nyc"
+    },
+    {
+     "name": "Time Out Market New York",
+     "blurb": "A food hall on the Dumbo waterfront with vendors picked by Time Out editors, offering fried chicken, pizza and more. The rooftop is a good sunset spot. Pair it with the Brooklyn Bridge and Pebble Beach.",
+     "address": "55 Water St, Brooklyn, NY 11201",
+     "phone": "",
+     "hours": "Open daily; see website",
+     "url": "https://www.timeoutmarket.com/newyork/",
+     "src": "https://newyorkpass.com/en/things-to-do/best-food-markets-nyc"
+    },
+    {
+     "name": "DeKalb Market Hall",
+     "blurb": "A basement food hall under City Point in Downtown Brooklyn with pastrami sandwiches, Colombian food, pierogi, ramen and local beer. It is good for sampling many Brooklyn flavors in one place.",
+     "address": "445 Albee Sq W, Brooklyn, NY 11201",
+     "phone": "",
+     "hours": "Open daily; see website",
+     "url": "https://www.dekalbmarkethall.com/",
+     "src": "https://newyorkpass.com/en/things-to-do/best-food-markets-nyc"
+    },
+    {
+     "name": "Union Square Greenmarket",
+     "blurb": "An outdoor farmers market with local produce, bread, cider, jams, cheese, flowers and cider doughnuts. Wednesday and Saturday mornings are the best times. Bring cash for small vendors.",
+     "address": "Union Square Park, E 17th St & Broadway, New York, NY 10003",
+     "phone": "",
+     "hours": "Mon, Wed, Fri, Sat mornings; see website",
+     "url": "https://www.grownyc.org/greenmarket/manhattan-union-square-m",
+     "src": "https://newyorkpass.com/en/things-to-do/best-food-markets-nyc"
+    },
+    {
+     "name": "Eataly Flatiron",
+     "blurb": "A large Italian market and food hall with cheese, cured meats, focaccia, pastries, imported pasta and gelato, plus a standing espresso bar. The pizza and pasta counter is a popular lunch stop.",
+     "address": "200 Fifth Ave, New York, NY 10010",
+     "phone": "",
+     "hours": "Open daily; see website",
+     "url": "https://www.eataly.com/us_en/stores/nyc-flatiron/",
+     "src": "https://newyorkpass.com/en/things-to-do/best-food-markets-nyc"
+    },
+    {
+     "name": "Grand Central Market",
+     "blurb": "A corridor of food shops beside Grand Central Terminal with bagels, coffee, sushi, sandwiches and a cheese counter. Handy for a quick lunch between trains. Take time to see the terminal's architecture.",
+     "address": "Lexington Ave between 43rd and 44th Sts, New York, NY 10017",
+     "phone": "",
+     "hours": "Open daily; see website",
+     "url": "https://www.grandcentralterminal.com/market/",
+     "src": "https://newyorkpass.com/en/things-to-do/best-food-markets-nyc"
+    }
+   ]
+  },
+  {
+   "key": "treats",
+   "title": "Ice Cream & Treats",
+   "items": [
+    {
+     "name": "Van Leeuwen Ice Cream",
+     "blurb": "A New York ice cream brand that started as a truck, with many shops across the city and non-dairy options. A reliable stop anywhere in the five boroughs. Check the website for the location nearest you.",
+     "address": "Multiple NYC locations",
+     "phone": "",
+     "hours": "Hours vary by shop",
+     "url": "https://vanleeuwenicecream.com/",
+     "src": "https://www.6sqft.com/best-ice-cream-shops-new-york-city/"
+    },
+    {
+     "name": "Ample Hills Creamery",
+     "blurb": "A Brooklyn favorite founded in 2011, known for flavors such as Ooey Gooey Butter Cake and PB Wins the Cup. Shops are scattered across Brooklyn and Manhattan, with a factory in Red Hook. Kids love the playful flavors.",
+     "address": "Multiple Brooklyn and Manhattan locations",
+     "phone": "",
+     "hours": "Hours vary by shop",
+     "url": "https://amplehills.com/",
+     "src": "https://www.6sqft.com/best-ice-cream-shops-new-york-city/"
+    },
+    {
+     "name": "Oddfellows Ice Cream Co.",
+     "blurb": "A creative scoop shop with rotating daily flavors, with locations at Brooklyn Bridge Park Pier 5, Dumbo and Domino Park in Williamsburg. Matcha rocky road and olive oil sweet cream are among the featured flavors.",
+     "address": "Brooklyn Bridge Park Pier 5 and other locations, Brooklyn, NY",
+     "phone": "",
+     "hours": "Hours vary by shop",
+     "url": "https://www.oddfellowsnyc.com/",
+     "src": "https://www.6sqft.com/best-ice-cream-shops-new-york-city/"
+    },
+    {
+     "name": "Sugar Hill Creamery",
+     "blurb": "A Harlem-based creamery with flavors like Tuma Buna (coffee with turmeric and ginger candy) and a malted milkshake base. It sources locally when it can and supports the community. Find shops in Harlem.",
+     "address": "Sugar Hill, Harlem, New York, NY",
+     "phone": "",
+     "hours": "Hours vary",
+     "url": "https://sugarhillcreamery.com/",
+     "src": "https://www.6sqft.com/best-ice-cream-shops-new-york-city/"
+    },
+    {
+     "name": "Morgenstern's Finest Ice Cream",
+     "blurb": "A small-batch shop with about 88 flavors, including banana curry, plus burgers, fries and pies on the menu. The West Houston Street shop is in Greenwich Village. Check the website for current locations.",
+     "address": "W Houston St, Greenwich Village, New York, NY",
+     "phone": "",
+     "hours": "Hours vary",
+     "url": "https://morgensternsnyc.com/",
+     "src": "https://www.6sqft.com/best-ice-cream-shops-new-york-city/"
+    },
+    {
+     "name": "The Original Chinatown Ice Cream Factory",
+     "blurb": "A tiny Bayard Street shop that has been scooping since 1978 with flavors like almond cookie, black sesame, lychee, red bean and Thai iced tea. There are other branches on the Lower East Side and in Flushing.",
+     "address": "65 Bayard St, New York, NY 10013",
+     "phone": "",
+     "hours": "Hours vary",
+     "url": "https://chinatownicecreamfactory.com/",
+     "src": "https://www.6sqft.com/best-ice-cream-shops-new-york-city/"
+    },
+    {
+     "name": "Blue Marble Ice Cream",
+     "blurb": "A flagship ice cream shop on Underhill Avenue in Prospect Heights using organic grass-fed milk, with other branches in Industry City and on the Upper West Side. Part of its profits support a nonprofit for women in conflict areas.",
+     "address": "186 Underhill Ave, Brooklyn, NY 11238",
+     "phone": "",
+     "hours": "Hours vary",
+     "url": "https://www.bluemarbleicecream.com/",
+     "src": "https://www.6sqft.com/best-ice-cream-shops-new-york-city/"
+    },
+    {
+     "name": "Mikey Likes It Ice Cream",
+     "blurb": "Pop-culture-inspired flavors such as Jack & Jill (peanut butter with strawberry preserves) and Brady Bunch (banana pudding with wafers). Shops are in the East Village, Harlem and Hell's Kitchen's Gotham West Market.",
+     "address": "Avenue A, East Village, New York, NY",
+     "phone": "",
+     "hours": "Hours vary",
+     "url": "https://mikeylikesitnyc.com/",
+     "src": "https://www.6sqft.com/best-ice-cream-shops-new-york-city/"
+    },
+    {
+     "name": "Nathan's Famous",
+     "blurb": "The Coney Island hot dog stand next to the boardwalk, a classic treat after a beach day or ride on the Cyclone. It is a decades-old summer tradition. Nathan's also has other locations around the city.",
+     "address": "1310 Surf Ave, Brooklyn, NY 11224",
+     "phone": "",
+     "hours": "Hours vary by season",
+     "url": "https://www.nathansfamous.com/",
+     "src": "https://www.6sqft.com/the-7-best-beaches-in-nyc/"
+    }
+   ]
+  },
+  {
+   "key": "eat",
+   "title": "Eat & Drink",
+   "items": [
+    {
+     "name": "Katz's Delicatessen",
+     "blurb": "A Lower East Side deli open since 1888, famous for pastrami on rye. You take a ticket at the door and wait for your number to be called. Neon signs and old-school atmosphere add to the experience. Expect long lines on weekends.",
+     "address": "205 E Houston St, New York, NY 10002",
+     "phone": "",
+     "hours": "See website",
+     "url": "https://katzsdelicatessen.com/",
+     "src": "https://momskoop.com/?p=62521"
+    },
+    {
+     "name": "Russ & Daughters",
+     "blurb": "A Lower East Side appetizing shop open since 1914, selling smoked salmon, herring, caviar and bagels. The aisles are narrow and the staff will guide you through selections. It is a classic New York breakfast stop.",
+     "address": "179 E Houston St, New York, NY 10002",
+     "phone": "",
+     "hours": "See website",
+     "url": "https://www.russanddaughters.com/",
+     "src": "https://momskoop.com/?p=62521"
+    },
+    {
+     "name": "Grand Central Oyster Bar",
+     "blurb": "An underground restaurant beneath Grand Central Terminal open since 1913, with oysters, clam chowder and a vaulted tile ceiling. It serves commuters and travelers alike. Reservations are useful at busy times.",
+     "address": "Grand Central Terminal, Lower Level, 89 E 42nd St, New York, NY 10017",
+     "phone": "",
+     "hours": "See website",
+     "url": "https://www.oysterbarny.com/",
+     "src": "https://momskoop.com/?p=62521"
+    },
+    {
+     "name": "Nom Wah Tea Parlor",
+     "blurb": "A Chinatown dim sum hall founded in 1920, known as one of the oldest dim sum restaurants in the country. Order the pork buns and shrimp dumplings. Families gather here on weekends.",
+     "address": "13 Doyers St, New York, NY 10013",
+     "phone": "",
+     "hours": "See website",
+     "url": "https://nomwah.com/",
+     "src": "https://momskoop.com/?p=62521"
+    },
+    {
+     "name": "Keens Steakhouse",
+     "blurb": "A theater-district steakhouse open since 1885, known for its nearly two-pound mutton chop and a ceiling covered with clay pipes. It is a favorite after Broadway shows. Dress is relaxed and the dining rooms are historic.",
+     "address": "72 W 36th St, New York, NY 10018",
+     "phone": "",
+     "hours": "See website",
+     "url": "https://www.keens.com/",
+     "src": "https://momskoop.com/?p=62521"
+    },
+    {
+     "name": "Delmonico's",
+     "blurb": "A Financial District restaurant dating to 1837, credited with Eggs Benedict and Lobster Newberg. The menu mixes classic recipes with modern ones. It is a good stop for a special dinner downtown.",
+     "address": "56 Beaver St, New York, NY 10004",
+     "phone": "",
+     "hours": "See website",
+     "url": "https://www.delmonicosrestaurantgroup.com/",
+     "src": "https://momskoop.com/?p=62521"
+    },
+    {
+     "name": "Barney Greengrass",
+     "blurb": "An Upper West Side fish shop and restaurant open since 1908, with hand-sliced lox and sturgeon served with bagels. Seating is cramped and weekend brunch is busy. Come early for a quieter table.",
+     "address": "541 Amsterdam Ave, New York, NY 10024",
+     "phone": "",
+     "hours": "See website",
+     "url": "https://www.barneygreengrass.com/",
+     "src": "https://momskoop.com/?p=62521"
+    },
+    {
+     "name": "Yonah Schimmel Knish Bakery",
+     "blurb": "A narrow Lower East Side storefront open since 1910, baking potato, kasha, spinach and cheese knishes fresh daily. It is a quick, cheap snack. Stop in on a Lower East Side walk.",
+     "address": "137 E Houston St, New York, NY 10002",
+     "phone": "",
+     "hours": "See website",
+     "url": "https://www.knishery.com/",
+     "src": "https://momskoop.com/?p=62521"
+    },
+    {
+     "name": "Old Homestead Steakhouse",
+     "blurb": "A Meatpacking District steakhouse open since 1868, with a neon cow sign and dry-aged porterhouse and ribeye. White tablecloths and a notable wine list make it a special-occasion spot.",
+     "address": "56 Ninth Ave, New York, NY 10011",
+     "phone": "",
+     "hours": "See website",
+     "url": "https://www.theoldhomesteadsteakhouse.com/",
+     "src": "https://momskoop.com/?p=62521"
+    }
+   ]
+  },
+  {
+   "key": "music",
+   "title": "Music History",
+   "items": [
+    {
+     "name": "CBGB Site",
+     "blurb": "The birthplace of American punk at 315 Bowery hosted The Ramones, Television, Talking Heads and Blondie from 1973 until it closed in 2006, with Patti Smith playing the last show. The space is now a clothing store that keeps some of the old posters and graffiti on the walls. Pair a stop here with a walk down the Bowery and a visit to nearby venues.",
+     "address": "315 Bowery, New York, NY 10003",
+     "phone": "",
+     "hours": "Store hours vary",
+     "url": "https://www.popspotsnyc.com/music_landmarks",
+     "src": "https://www.untappedcities.com/rock-n-roll-sites-nyc/"
+    },
+    {
+     "name": "Apollo Theater",
+     "blurb": "Harlem's legendary stage, where Amateur Night has run since 1934 and helped launch Ella Fitzgerald, James Brown and the Jackson 5. It is still a working theater with a regular schedule of shows. Catch a concert or the Wednesday Amateur Night if you can.",
+     "address": "253 W 125th St, New York, NY 10027",
+     "phone": "",
+     "hours": "Box office hours vary; see website",
+     "url": "https://www.apollotheater.org/",
+     "src": "https://www.6sqft.com/nyc-iconic-venues-still-hosting-live-music/"
+    },
+    {
+     "name": "Electric Lady Studios",
+     "blurb": "Jimi Hendrix co-founded this Greenwich Village studio in 1970, and it is still a working recording studio where Stevie Wonder, Bob Dylan and Patti Smith have recorded. It is not open for walk-in tours, but the street-side facade is worth seeing. It sits on a block full of music history.",
+     "address": "52 W 8th St, New York, NY 10011",
+     "phone": "",
+     "hours": "Private studio; exterior viewing only",
+     "url": "https://www.electricladystudios.com/",
+     "src": "https://www.untappedcities.com/rock-n-roll-sites-nyc/"
+    },
+    {
+     "name": "Strawberry Fields, Central Park",
+     "blurb": "A landscaped section of Central Park near the Dakota building, named for the Beatles song and dedicated to John Lennon's memory. The Imagine mosaic at its center draws fans who leave flowers. Enter at West 72nd Street.",
+     "address": "Central Park West at 72nd St, New York, NY 10023",
+     "phone": "",
+     "hours": "Park hours, 6am-1am",
+     "url": "https://www.centralparknyc.org/locations/strawberry-fields",
+     "src": "https://www.untappedcities.com/rock-n-roll-sites-nyc/"
+    },
+    {
+     "name": "Village Vanguard",
+     "blurb": "A basement jazz club open for more than 80 years, where John Coltrane, Miles Davis and Bill Evans played. A big band has held a Monday-night residency since 1966. Seating is close and shows are by reservation.",
+     "address": "178 Seventh Ave S, New York, NY 10014",
+     "phone": "",
+     "hours": "Nightly shows; see website",
+     "url": "https://villagevanguard.com/",
+     "src": "https://www.timeout.com/newyork/music/classic-new-york-music-venues"
+    },
+    {
+     "name": "Brill Building",
+     "blurb": "The Midtown tower at 1619 Broadway where songwriters and producers turned out many pop and rock hits of the 1950s and 1960s. It is an office building, so viewing is from the sidewalk. The surrounding Broadway blocks hold more music history.",
+     "address": "1619 Broadway, New York, NY 10019",
+     "phone": "",
+     "hours": "Exterior only",
+     "url": "https://www.popspotsnyc.com/music_landmarks",
+     "src": "https://www.popspotsnyc.com/music_landmarks"
+    },
+    {
+     "name": "Cafe Wha?",
+     "blurb": "A MacDougal Street basement club that opened in 1959 and hosted early sets by Bob Dylan, Jimi Hendrix and Bruce Springsteen. A house band plays Thursday through Sunday and other acts book through the week. Expect a lively cover-band and original-act mix.",
+     "address": "115 MacDougal St, New York, NY 10012",
+     "phone": "",
+     "hours": "Nightly shows; see website",
+     "url": "https://www.cafewha.com/",
+     "src": "https://www.6sqft.com/nyc-iconic-venues-still-hosting-live-music/"
+    },
+    {
+     "name": "The Bitter End",
+     "blurb": "A Greenwich Village club from 1961 that nurtured Joni Mitchell, Neil Young and James Taylor and hosts live music almost nightly. The building is a city landmark. It's an easy stop on a Bleecker Street walk.",
+     "address": "147 Bleecker St, New York, NY 10012",
+     "phone": "",
+     "hours": "Nightly shows; see website",
+     "url": "https://www.bitterend.com/",
+     "src": "https://www.6sqft.com/nyc-iconic-venues-still-hosting-live-music/"
+    },
+    {
+     "name": "Carnegie Hall",
+     "blurb": "Built in 1891 and nearly demolished in 1960 before being saved, it has hosted Tchaikovsky, Gershwin, Louis Armstrong and the Beatles. It still presents classical, jazz, rock and pop. Tours and concerts are both worth booking.",
+     "address": "881 Seventh Ave, New York, NY 10019",
+     "phone": "",
+     "hours": "Box office hours vary",
+     "url": "https://www.carnegiehall.org/",
+     "src": "https://www.6sqft.com/nyc-iconic-venues-still-hosting-live-music/"
+    },
+    {
+     "name": "Ed Sullivan Theater",
+     "blurb": "The CBS theater where The Beatles made their 1964 American television debut and where Elvis and The Rolling Stones also appeared. It is now the home of The Late Show. Look for the marquee on Broadway.",
+     "address": "1697 Broadway, New York, NY 10019",
+     "phone": "",
+     "hours": "Exterior; tickets via the show",
+     "url": "https://www.cbs.com/shows/the-late-show-with-stephen-colbert/",
+     "src": "https://www.untappedcities.com/rock-n-roll-sites-nyc/"
+    },
+    {
+     "name": "Beacon Theatre",
+     "blurb": "A 1929 Art Deco theater on the Upper West Side that moved to live music in the 1970s and hosted the Allman Brothers Band hundreds of times. It was landmarked in 1979 and restored in 2009. Concerts and comedy fill the calendar.",
+     "address": "2124 Broadway, New York, NY 10023",
+     "phone": "",
+     "hours": "Event hours; see website",
+     "url": "https://www.beacontheatre.com/",
+     "src": "https://www.6sqft.com/nyc-iconic-venues-still-hosting-live-music/"
+    },
+    {
+     "name": "Radio City Music Hall",
+     "blurb": "The Art Deco showplace of Rockefeller Center, opened in 1932 and home to the Rockettes' Christmas Spectacular. The first rock concert there was in 1972. Concerts and holiday shows fill the calendar.",
+     "address": "1260 Sixth Ave, New York, NY 10020",
+     "phone": "",
+     "hours": "Event hours; tours daily",
+     "url": "https://www.msg.com/radio-city-music-hall/",
+     "src": "https://www.6sqft.com/nyc-iconic-venues-still-hosting-live-music/"
+    },
+    {
+     "name": "Kings Theatre",
+     "blurb": "A restored 1929 Loew's movie palace in Flatbush, reopened in 2015 after a major restoration, with concerts, comedy and film. Historic tours run about 75 minutes. It is one of Brooklyn's grandest rooms.",
+     "address": "1027 Flatbush Ave, Brooklyn, NY 11226",
+     "phone": "",
+     "hours": "Event hours; see website",
+     "url": "https://www.kingstheatre.com/",
+     "src": "https://www.6sqft.com/nyc-iconic-venues-still-hosting-live-music/"
+    },
+    {
+     "name": "Brooklyn Paramount",
+     "blurb": "A 1928 theater in Fort Greene that hosted 1950s rock and roll and jazz and was later turned into a university gymnasium. It reopened in March 2024 after a restoration with live shows again. Check the schedule for concerts.",
+     "address": "385 Flatbush Ave Ext, Brooklyn, NY 11201",
+     "phone": "",
+     "hours": "Event hours; see website",
+     "url": "https://www.brooklynparamount.com/",
+     "src": "https://www.6sqft.com/nyc-iconic-venues-still-hosting-live-music/"
+    },
+    {
+     "name": "Studio 54",
+     "blurb": "The legendary disco of the late 1970s on West 54th Street, which is now a Broadway theater. The facade still carries its history. Look at it on a theater-district walk.",
+     "address": "254 W 54th St, New York, NY 10019",
+     "phone": "",
+     "hours": "Event hours",
+     "url": "https://www.roundabouttheatre.org/",
+     "src": "https://www.popspotsnyc.com/music_landmarks"
+    }
+   ]
+  },
+  {
+   "key": "hoods",
+   "title": "Neighborhoods & Shopping",
+   "items": [
+    {
+     "name": "Greenwich Village",
+     "blurb": "Cobblestone streets, sidewalk cafes, Washington Square Park and many music landmarks, from Cafe Wha? to the Village Vanguard. Boutiques and bookshops fill the side streets. It is a good neighborhood to walk without a plan.",
+     "address": "Greenwich Village, New York, NY 10012",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.nyctourism.com/",
+     "src": "https://www.nomadicmatt.com/travel-blogs/where-to-stay-nyc/"
+    },
+    {
+     "name": "Lower East Side",
+     "blurb": "A diverse neighborhood of old delis, galleries, small shops, late-night venues and the Tenement Museum. Katz's and Russ & Daughters are anchors. Come hungry and plan time to browse Orchard and Ludlow Streets.",
+     "address": "Lower East Side, New York, NY 10002",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.nyctourism.com/",
+     "src": "https://www.nomadicmatt.com/travel-blogs/where-to-stay-nyc/"
+    },
+    {
+     "name": "Harlem",
+     "blurb": "Home to the Apollo Theater, historic churches, soul food and jazz clubs. West 125th Street is the main shopping and cultural stretch. Visit on a Sunday if you want to hear gospel music at services.",
+     "address": "W 125th St, New York, NY 10027",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.nyctourism.com/",
+     "src": "https://www.timeout.com/newyork/music/classic-new-york-music-venues"
+    },
+    {
+     "name": "DUMBO",
+     "blurb": "Cobblestone streets under the Brooklyn and Manhattan Bridges, with waterfront parks, Jane's Carousel and Time Out Market. It is great for photos. The view down Washington Street frames the bridge.",
+     "address": "Washington St & Water St, Brooklyn, NY 11201",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.dumbo.is/",
+     "src": "https://www.insidehook.com/new-york/guide-best-public-parks-all-five-nyc-boroughs/amp"
+    },
+    {
+     "name": "Williamsburg",
+     "blurb": "A buzzing Brooklyn neighborhood of restaurants, bars, music venues, vintage shops and waterfront parks. Smorgasburg and the Music Hall of Williamsburg are nearby. It is a short ride from Manhattan on the L train.",
+     "address": "Bedford Ave, Brooklyn, NY 11249",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.nyctourism.com/",
+     "src": "https://www.nomadicmatt.com/travel-blogs/where-to-stay-nyc/"
+    },
+    {
+     "name": "Astoria",
+     "blurb": "A Queens neighborhood with excellent Greek food, Astoria Park, the Museum of the Moving Image and the Noguchi Museum. It is residential and local-feeling. It is about 20 minutes from Times Square by subway.",
+     "address": "Astoria, Queens, NY 11102",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.nyctourism.com/",
+     "src": "https://www.nomadicmatt.com/travel-blogs/where-to-stay-nyc/"
+    },
+    {
+     "name": "Tribeca",
+     "blurb": "Former warehouses turned lofts, galleries and restaurants, quiet and upscale. It is close to the 9/11 Memorial and Hudson River Park. Stroll the cobblestone side streets.",
+     "address": "Tribeca, New York, NY 10013",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.nyctourism.com/",
+     "src": "https://www.nomadicmatt.com/travel-blogs/where-to-stay-nyc/"
+    },
+    {
+     "name": "Museum Mile, Upper East Side",
+     "blurb": "A stretch of Fifth Avenue from about 82nd to 105th Street with the Met, the Guggenheim and the Museum of the City of New York, bordered by Central Park. Upper East Side shopping and cafes are nearby. It is family-friendly and quieter than downtown.",
+     "address": "Fifth Ave, 82nd to 105th Sts, New York, NY 10028",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.nyctourism.com/",
+     "src": "https://www.nomadicmatt.com/travel-blogs/where-to-stay-nyc/"
+    },
+    {
+     "name": "Macy's Herald Square",
+     "blurb": "The flagship department store at Herald Square, one of the city's best-known shopping stops. It is near the Empire State Building and Penn Station. The store is especially busy during the holidays.",
+     "address": "151 W 34th St, New York, NY 10001",
+     "phone": "",
+     "hours": "See website",
+     "url": "https://www.macys.com/",
+     "src": "https://www.nyctourism.com/photo-galleries/top-nyc-attractions"
+    }
+   ]
+  },
+  {
+   "key": "stay",
+   "title": "Places to Stay",
+   "items": [
+    {
+     "name": "The Plaza Hotel",
+     "blurb": "A landmark hotel on Central Park's southern edge, on the corner of Fifth Avenue, known for appearing in many films. Its guest list has included the Beatles. It is a classic splurge in Midtown.",
+     "address": "768 Fifth Ave, New York, NY 10019",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.theplazany.com/",
+     "src": "https://theculturetrip.com/north-america/usa/new-york/articles/the-most-historic-hotels-in-new-york-city"
+    },
+    {
+     "name": "The Pierre",
+     "blurb": "A chateau-style luxury hotel at the southeast corner of Central Park, opened in 1930. It was a social hub with a big ballroom and has hosted many well-known guests. It is a short walk from Fifth Avenue shopping.",
+     "address": "2 E 61st St, New York, NY 10065",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.tajhotels.com/en-in/taj/the-pierre-new-york/",
+     "src": "https://theculturetrip.com/north-america/usa/new-york/articles/the-most-historic-hotels-in-new-york-city"
+    },
+    {
+     "name": "The Carlyle",
+     "blurb": "An Upper East Side hotel nicknamed the New York White House for hosting presidents. Bemelmans Bar has been open since 1947 and has nightly live music. It sits near Museum Mile.",
+     "address": "35 E 76th St, New York, NY 10021",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.rosewoodhotels.com/en/the-carlyle-new-york",
+     "src": "https://theculturetrip.com/north-america/usa/new-york/articles/the-most-historic-hotels-in-new-york-city"
+    },
+    {
+     "name": "The St. Regis New York",
+     "blurb": "Built by John Jacob Astor IV in 1904 with marble floors and chandeliers. The King Cole Bar is where the Bloody Mary was said to be invented. It is steps from Fifth Avenue.",
+     "address": "2 E 55th St, New York, NY 10022",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.stregisnewyork.com/",
+     "src": "https://theculturetrip.com/north-america/usa/new-york/articles/the-most-historic-hotels-in-new-york-city"
+    },
+    {
+     "name": "The Algonquin Hotel",
+     "blurb": "A Midtown literary landmark, described as one of the oldest hotels in the city, where The New Yorker magazine was founded. It has a long tradition of resident cats. It is close to Broadway and Bryant Park.",
+     "address": "59 W 44th St, New York, NY 10036",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.algonquinhotel.com/",
+     "src": "https://theculturetrip.com/north-america/usa/new-york/articles/the-most-historic-hotels-in-new-york-city"
+    },
+    {
+     "name": "JW Marriott Essex House",
+     "blurb": "An Art Deco hotel on Central Park South, begun in 1929, with its red neon sign lit in 1931. Its decor has been well preserved. It faces Central Park.",
+     "address": "160 Central Park S, New York, NY 10019",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.marriott.com/hotels/travel/nycjw-jw-marriott-essex-house-new-york/",
+     "src": "https://theculturetrip.com/north-america/usa/new-york/articles/the-most-historic-hotels-in-new-york-city"
+    },
+    {
+     "name": "Wythe Hotel",
+     "blurb": "A converted waterfront factory in Williamsburg with brick walls, heated floors and a rooftop bar with Manhattan views. Good for a Brooklyn stay near music venues and Smorgasburg.",
+     "address": "80 Wythe Ave, Brooklyn, NY 11249",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.wythehotel.com/",
+     "src": "https://www.nomadicmatt.com/travel-blogs/where-to-stay-nyc/"
+    },
+    {
+     "name": "The Beekman",
+     "blurb": "A historic Financial District hotel with a nine-story glass-roofed atrium and large marble bathrooms. It is close to the 9/11 Memorial and Brooklyn Bridge.",
+     "address": "123 Nassau St, New York, NY 10038",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.thebeekman.com/",
+     "src": "https://www.nomadicmatt.com/travel-blogs/where-to-stay-nyc/"
+    },
+    {
+     "name": "The Library Hotel",
+     "blurb": "A Midtown hotel with rooms themed on library categories and a breakfast included per one guide. It is near Grand Central and the New York Public Library.",
+     "address": "299 Madison Ave, New York, NY 10017",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.libraryhotel.com/",
+     "src": "https://www.nomadicmatt.com/travel-blogs/where-to-stay-nyc/"
+    }
+   ]
+  },
+  {
+   "key": "getting",
+   "title": "Getting Around",
+   "items": [
+    {
+     "name": "Subway",
+     "blurb": "The subway runs 24 hours a day. A ride costs $3.00 at last check, paid by tapping a contactless card or phone. No-charge subway-to-local-bus transfers apply within two hours. Check the MTA site for current fares and service changes.",
+     "address": "MTA stations citywide",
+     "phone": "",
+     "hours": "24 hours",
+     "url": "https://www.mta.info/",
+     "src": "https://www.nomadotravel.app/en/guides/getting-around-new-york-city"
+    },
+    {
+     "name": "OMNY Fare Payment",
+     "blurb": "MetroCards are no longer sold. Tap a contactless credit or debit card, phone or a physical OMNY card at the turnstile. After 12 paid rides in seven days on the same card or device, the rest of that week's rides are fare-capped. Up to three children under 44 inches ride with a paying adult.",
+     "address": "Reader at every subway turnstile and bus",
+     "phone": "",
+     "hours": "",
+     "url": "https://omny.info/",
+     "src": "https://realstoursnyc.com/pt/post/54/nyc-public-transportation-guide-2025-how-to-travel-like-a-local"
+    },
+    {
+     "name": "MTA Buses",
+     "blurb": "Local buses cost the same as the subway and accept OMNY, with no-charge transfers within two hours. Select Bus Service routes are faster and you pay at a kiosk before boarding. Express buses cost more.",
+     "address": "Citywide",
+     "phone": "",
+     "hours": "Varies by route",
+     "url": "https://www.mta.info/",
+     "src": "https://www.nomadotravel.app/en/guides/getting-around-new-york-city"
+    },
+    {
+     "name": "NYC Ferry",
+     "blurb": "The citywide ferry system serves the East River, the Rockaways and Governors Island. It does not accept OMNY, so buy tickets in the NYC Ferry app or at ticket machines. Check ferry.nyc for current fares.",
+     "address": "Pier 11 / Wall St, New York, NY 10005",
+     "phone": "(844) 4NY-FERRY",
+     "hours": "See ferry.nyc",
+     "url": "https://www.ferry.nyc/",
+     "src": "https://realstoursnyc.com/pt/post/54/nyc-public-transportation-guide-2025-how-to-travel-like-a-local"
+    },
+    {
+     "name": "Staten Island Ferry",
+     "blurb": "A no-charge ferry run by NYC DOT, running around the clock between Whitehall Terminal in Manhattan and St. George in Staten Island. It runs about every 30 minutes and takes about 25 minutes. Passengers get views of the Statue of Liberty.",
+     "address": "4 South St (Whitehall Terminal), New York, NY 10004",
+     "phone": "",
+     "hours": "24 hours",
+     "url": "https://www.nyc.gov/html/dot/html/ferrybus/statenislandferry.shtml",
+     "src": "https://www.nyc.gov/html/dot/html/ferrybus/ferintro.shtml"
+    },
+    {
+     "name": "Citi Bike",
+     "blurb": "The city's bike share system with docks citywide, useful for the Hudson River Greenway, Central Park and Brooklyn waterfront. One guide lists a day pass of $15 for unlimited 30-minute rides. E-bikes cost extra by the minute.",
+     "address": "Docks citywide",
+     "phone": "",
+     "hours": "24 hours",
+     "url": "https://citibikenyc.com/",
+     "src": "https://realstoursnyc.com/pt/post/54/nyc-public-transportation-guide-2025-how-to-travel-like-a-local"
+    },
+    {
+     "name": "JFK Airport",
+     "blurb": "Take the AirTrain from the terminals to the subway at Howard Beach or Jamaica, or the LIRR from Jamaica to Penn Station or Grand Central. One guide lists AirTrain plus subway at roughly $9.25 and a taxi at a flat rate. Confirm fares before you go.",
+     "address": "JFK Airport, Queens, NY 11430",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.jfkairport.com/",
+     "src": "https://realstoursnyc.com/pt/post/54/nyc-public-transportation-guide-2025-how-to-travel-like-a-local"
+    },
+    {
+     "name": "LaGuardia Airport",
+     "blurb": "There is no rail link. The Q70 Select Bus goes to the Jackson Heights-Roosevelt Avenue and Woodside stations for subway connections. Taxis and rideshares are common.",
+     "address": "LaGuardia Airport, Queens, NY 11371",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.laguardiaairport.com/",
+     "src": "https://realstoursnyc.com/pt/post/54/nyc-public-transportation-guide-2025-how-to-travel-like-a-local"
+    },
+    {
+     "name": "Newark Liberty Airport",
+     "blurb": "AirTrain Newark connects to NJ Transit and Amtrak, reaching New York Penn Station in about 30 minutes. NJ Transit fares are separate from MTA fares. Taxis cost more.",
+     "address": "Newark Liberty International Airport, Newark, NJ 07114",
+     "phone": "",
+     "hours": "",
+     "url": "https://www.newarkairport.com/",
+     "src": "https://www.nomadotravel.app/en/guides/getting-around-new-york-city"
+    }
+   ]
+  }
+ ]
 }
