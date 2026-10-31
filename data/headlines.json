@@ -137,15 +137,6 @@
    "rank": 15
   },
   {
-   "h": "Spooky NYC sites you can visit at no charge",
-   "sum": "A list of eerie spots around the city that cost nothing to explore.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/news/9-spooky-secrets-you-can-visit-in-nyc-for-free-102326",
-   "town": "Citywide",
-   "date": "2026-10-23",
-   "rank": 16
-  },
-  {
    "h": "Great Jack O'Lantern Blaze lights up Van Cortlandt Manor through Nov. 8",
    "sum": "Thousands of carved pumpkins glow at the Croton-on-Hudson attraction.",
    "outlet": "Time Out New York",
@@ -153,15 +144,6 @@
    "town": "Croton-on-Hudson",
    "date": "2026-10-30",
    "rank": 17
-  },
-  {
-   "h": "Gilded Age high tea at the Plaza runs through Nov. 10",
-   "sum": "The Plaza's Palm Court offers a themed afternoon tea tied to the TV series.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/things-to-do/high-society-tea-with-the-gilded-age",
-   "town": "Midtown, Manhattan",
-   "date": "2026-10-30",
-   "rank": 18
   },
   {
    "h": "Fall foliage harbor cruises on vintage boats continue to Nov. 15",
@@ -182,15 +164,6 @@
    "rank": 20
   },
   {
-   "h": "Transit advocates launch Fix the Bus rider campaign",
-   "sum": "A new campaign aims to organize bus riders behind faster bus service.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/nyc-transit/fix-the-bus-transit-advocates-organize-riders/",
-   "town": "Citywide",
-   "date": "2026-10-29",
-   "rank": 21
-  },
-  {
    "h": "Third Avenue safety overhaul in Sunset Park gets the green light",
    "sum": "A long-delayed street redesign in Brooklyn is slated for completion in 2028.",
    "outlet": "amNY",
@@ -198,33 +171,6 @@
    "town": "Sunset Park, Brooklyn",
    "date": "2026-10-28",
    "rank": 22
-  },
-  {
-   "h": "NYU launches shuttle bus for seniors in Manhattan and Brooklyn",
-   "sum": "A new shuttle service will carry older residents around parts of both boroughs.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/news/nyu-free-shuttle-bus-service-for-seniors/",
-   "town": "Manhattan and Brooklyn",
-   "date": "2026-10-28",
-   "rank": 23
-  },
-  {
-   "h": "Early voting guide: what's on the ballot",
-   "sum": "A ballot-information guide for the 2026 election and early voting.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/news/early-voting-guide-nyc-2026-election/",
-   "town": "Citywide",
-   "date": "",
-   "rank": 24
-  },
-  {
-   "h": "New Lower East Side restaurant draws on Amazonian ingredients",
-   "sum": "A newly opened spot builds its menu around ingredients from the Amazon.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/news/this-new-lower-east-side-restaurant-channels-the-ingredients-of-the-amazon-102726",
-   "town": "Lower East Side, Manhattan",
-   "date": "2026-10-27",
-   "rank": 25
   }
  ]
 }
