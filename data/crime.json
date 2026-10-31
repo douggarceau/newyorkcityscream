@@ -1,4 +1,35 @@
 {
- "asof": "2026-10-29T22:45:00-04:00",
- "items": []
+ "asof": "2026-10-31T14:15:00-04:00",
+ "items": [
+  {
+   "kind": "courts",
+   "headline": "Prosecutors say fraud ring stole $7 million in SNAP benefits",
+   "blurb": "",
+   "hood": "New York City",
+   "spd": [],
+   "date": "2026-10-30",
+   "url": "https://www.amny.com/police-fire/fraud-factory-snap-benefits-to-fund-luxury-cars/",
+   "outlet": "amNY"
+  },
+  {
+   "kind": "police",
+   "headline": "Police search for three people seen entering Woodside sewer through a manhole",
+   "blurb": "",
+   "hood": "Woodside, Queens",
+   "spd": [],
+   "date": "2026-10-29",
+   "url": "https://www.amny.com/news/three-people-entering-manhole-queens-woodside/",
+   "outlet": "amNY"
+  },
+  {
+   "kind": "theft",
+   "headline": "NYPD seeks suspect in two daytime tractor thefts from Forest Park",
+   "blurb": "",
+   "hood": "Forest Park, Queens",
+   "spd": [],
+   "date": "2026-10-27",
+   "url": "https://qns.com/2026/10/suspect-steals-tractors-forest-park/",
+   "outlet": "QNS"
+  }
+ ]
 }
