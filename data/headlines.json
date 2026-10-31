@@ -38,22 +38,13 @@
    "rank": 4
   },
   {
-   "h": "Spooky NYC sites you can visit at no charge",
-   "sum": "A list of eerie spots around the city that cost nothing to explore.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/news/9-spooky-secrets-you-can-visit-in-nyc-for-free-102326",
-   "town": "Citywide",
-   "date": "2026-10-23",
-   "rank": 5
-  },
-  {
    "h": "Record 160 car-free streets host Trick-or-Streets",
    "sum": "The city's largest Halloween celebration yet turns streets and plazas in all five boroughs into trick-or-treat zones.",
    "outlet": "Time Out New York",
    "url": "https://www.timeout.com/newyork/news/nyc-to-have-its-largest-halloween-celebration-yet-with-160-car-free-open-streets-and-city-plazas-100526",
    "town": "Citywide",
    "date": "2026-10-05",
-   "rank": 6
+   "rank": 5
   },
   {
    "h": "Boo at the Bronx Zoo runs through Nov. 1",
@@ -62,16 +53,7 @@
    "url": "https://www.timeout.com/newyork/events-calendar/october-events-calendar",
    "town": "Bronx",
    "date": "2026-10-30",
-   "rank": 7
-  },
-  {
-   "h": "Great Jack O'Lantern Blaze lights up Van Cortlandt Manor through Nov. 8",
-   "sum": "Thousands of carved pumpkins glow at the Croton-on-Hudson attraction.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/travel/guide-to-great-jack-o-lantern-blaze",
-   "town": "Croton-on-Hudson",
-   "date": "2026-10-30",
-   "rank": 8
+   "rank": 6
   },
   {
    "h": "Freaky Movie Fridays screens The Shining tonight at Foxtail",
@@ -80,25 +62,7 @@
    "url": "https://www.timeout.com/newyork/things-to-do/freaky-movie-fridays-at-foxtail",
    "town": "Manhattan",
    "date": "2026-10-30",
-   "rank": 9
-  },
-  {
-   "h": "Gilded Age high tea at the Plaza runs through Nov. 10",
-   "sum": "The Plaza's Palm Court offers a themed afternoon tea tied to the TV series.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/things-to-do/high-society-tea-with-the-gilded-age",
-   "town": "Midtown, Manhattan",
-   "date": "2026-10-30",
-   "rank": 10
-  },
-  {
-   "h": "Fall foliage harbor cruises on vintage boats continue to Nov. 15",
-   "sum": "Classic Harbor Line sails past Hudson River foliage and city landmarks.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/things-to-do/classic-harbor-line-fall-foliage-tours",
-   "town": "Hudson River",
-   "date": "2026-10-30",
-   "rank": 11
+   "rank": 7
   },
   {
    "h": "MTA marks Halloween with spooky station signs and collectible maps",
@@ -107,52 +71,7 @@
    "url": "https://www.amny.com/nyc-transit/mta-halloween-fun-spooky-station-signs-maps/",
    "town": "Citywide",
    "date": "2026-10-28",
-   "rank": 12
-  },
-  {
-   "h": "Weekend subway changes: shuttles for Flushing, Coney Island and more",
-   "sum": "The latest MTA Weekender lists station closures and shuttle buses across several lines.",
-   "outlet": "MTA",
-   "url": "https://www.mta.info/article/mta-weekender-october-23-26-2026",
-   "town": "Citywide",
-   "date": "2026-10-23",
-   "rank": 13
-  },
-  {
-   "h": "Transit advocates launch Fix the Bus rider campaign",
-   "sum": "A new campaign aims to organize bus riders behind faster bus service.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/nyc-transit/fix-the-bus-transit-advocates-organize-riders/",
-   "town": "Citywide",
-   "date": "2026-10-29",
-   "rank": 14
-  },
-  {
-   "h": "Third Avenue safety overhaul in Sunset Park gets the green light",
-   "sum": "A long-delayed street redesign in Brooklyn is slated for completion in 2028.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/news/mamdani-third-avenue-overhaul-sunset-park/",
-   "town": "Sunset Park, Brooklyn",
-   "date": "2026-10-28",
-   "rank": 15
-  },
-  {
-   "h": "NYU launches shuttle bus for seniors in Manhattan and Brooklyn",
-   "sum": "A new shuttle service will carry older residents around parts of both boroughs.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/news/nyu-free-shuttle-bus-service-for-seniors/",
-   "town": "Manhattan and Brooklyn",
-   "date": "2026-10-28",
-   "rank": 16
-  },
-  {
-   "h": "Early voting guide: what's on the ballot",
-   "sum": "A ballot-information guide for the 2026 election and early voting.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/news/early-voting-guide-nyc-2026-election/",
-   "town": "Citywide",
-   "date": "",
-   "rank": 17
+   "rank": 8
   },
   {
    "h": "JAY B and Def: two sides of the same soul",
@@ -161,7 +80,7 @@
    "url": "https://www.amny.com/entertainment/music/jay-b-def-two-sides-same-soul/",
    "town": "Manhattan",
    "date": "2026-10-29",
-   "rank": 18
+   "rank": 9
   },
   {
    "h": "Gillie and Marc and their civic bestiary",
@@ -170,7 +89,7 @@
    "url": "https://www.amny.com/entertainment/arts-entertainment/gillie-and-marc-the-new-civic-bestiary/",
    "town": "Manhattan",
    "date": "2026-10-29",
-   "rank": 19
+   "rank": 10
   },
   {
    "h": "Museum of Arts and Design at 70 looks to the future",
@@ -179,7 +98,7 @@
    "url": "https://www.amny.com/entertainment/arts-entertainment/mad-at-seventy-appetite-future/",
    "town": "Columbus Circle, Manhattan",
    "date": "2026-10-29",
-   "rank": 20
+   "rank": 11
   },
   {
    "h": "Review: Billy Crystal's one-man Broadway show",
@@ -188,7 +107,7 @@
    "url": "https://www.timeout.com/newyork/news/broadway-review-billy-crystal-in-860-102226",
    "town": "Broadway, Manhattan",
    "date": "2026-10-22",
-   "rank": 21
+   "rank": 12
   },
   {
    "h": "Review: The Imaginary Invalid on Broadway",
@@ -197,7 +116,7 @@
    "url": "https://www.timeout.com/newyork/news/broadway-review-the-imaginary-invalid-gasps-for-moliere-102326",
    "town": "Broadway, Manhattan",
    "date": "2026-10-23",
-   "rank": 22
+   "rank": 13
   },
   {
    "h": "Real Housewives stars headed to an Off-Broadway comedy",
@@ -206,7 +125,7 @@
    "url": "https://www.timeout.com/newyork/news/lisa-rinna-phaedra-parks-dolores-catania-and-more-housewives-will-star-in-this-off-broadway-comedy-next-year-102926",
    "town": "Off-Broadway, Manhattan",
    "date": "2026-10-29",
-   "rank": 23
+   "rank": 14
   },
   {
    "h": "Ai Fiori review: an artful distraction",
@@ -215,6 +134,87 @@
    "url": "https://www.amny.com/lifestyle/eat-and-drink/ai-fiori-an-artful-distraction/",
    "town": "Midtown, Manhattan",
    "date": "2026-10-29",
+   "rank": 15
+  },
+  {
+   "h": "Spooky NYC sites you can visit at no charge",
+   "sum": "A list of eerie spots around the city that cost nothing to explore.",
+   "outlet": "Time Out New York",
+   "url": "https://www.timeout.com/newyork/news/9-spooky-secrets-you-can-visit-in-nyc-for-free-102326",
+   "town": "Citywide",
+   "date": "2026-10-23",
+   "rank": 16
+  },
+  {
+   "h": "Great Jack O'Lantern Blaze lights up Van Cortlandt Manor through Nov. 8",
+   "sum": "Thousands of carved pumpkins glow at the Croton-on-Hudson attraction.",
+   "outlet": "Time Out New York",
+   "url": "https://www.timeout.com/newyork/travel/guide-to-great-jack-o-lantern-blaze",
+   "town": "Croton-on-Hudson",
+   "date": "2026-10-30",
+   "rank": 17
+  },
+  {
+   "h": "Gilded Age high tea at the Plaza runs through Nov. 10",
+   "sum": "The Plaza's Palm Court offers a themed afternoon tea tied to the TV series.",
+   "outlet": "Time Out New York",
+   "url": "https://www.timeout.com/newyork/things-to-do/high-society-tea-with-the-gilded-age",
+   "town": "Midtown, Manhattan",
+   "date": "2026-10-30",
+   "rank": 18
+  },
+  {
+   "h": "Fall foliage harbor cruises on vintage boats continue to Nov. 15",
+   "sum": "Classic Harbor Line sails past Hudson River foliage and city landmarks.",
+   "outlet": "Time Out New York",
+   "url": "https://www.timeout.com/newyork/things-to-do/classic-harbor-line-fall-foliage-tours",
+   "town": "Hudson River",
+   "date": "2026-10-30",
+   "rank": 19
+  },
+  {
+   "h": "Weekend subway changes: shuttles for Flushing, Coney Island and more",
+   "sum": "The latest MTA Weekender lists station closures and shuttle buses across several lines.",
+   "outlet": "MTA",
+   "url": "https://www.mta.info/article/mta-weekender-october-23-26-2026",
+   "town": "Citywide",
+   "date": "2026-10-23",
+   "rank": 20
+  },
+  {
+   "h": "Transit advocates launch Fix the Bus rider campaign",
+   "sum": "A new campaign aims to organize bus riders behind faster bus service.",
+   "outlet": "amNY",
+   "url": "https://www.amny.com/nyc-transit/fix-the-bus-transit-advocates-organize-riders/",
+   "town": "Citywide",
+   "date": "2026-10-29",
+   "rank": 21
+  },
+  {
+   "h": "Third Avenue safety overhaul in Sunset Park gets the green light",
+   "sum": "A long-delayed street redesign in Brooklyn is slated for completion in 2028.",
+   "outlet": "amNY",
+   "url": "https://www.amny.com/news/mamdani-third-avenue-overhaul-sunset-park/",
+   "town": "Sunset Park, Brooklyn",
+   "date": "2026-10-28",
+   "rank": 22
+  },
+  {
+   "h": "NYU launches shuttle bus for seniors in Manhattan and Brooklyn",
+   "sum": "A new shuttle service will carry older residents around parts of both boroughs.",
+   "outlet": "amNY",
+   "url": "https://www.amny.com/news/nyu-free-shuttle-bus-service-for-seniors/",
+   "town": "Manhattan and Brooklyn",
+   "date": "2026-10-28",
+   "rank": 23
+  },
+  {
+   "h": "Early voting guide: what's on the ballot",
+   "sum": "A ballot-information guide for the 2026 election and early voting.",
+   "outlet": "amNY",
+   "url": "https://www.amny.com/news/early-voting-guide-nyc-2026-election/",
+   "town": "Citywide",
+   "date": "",
    "rank": 24
   },
   {
