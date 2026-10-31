@@ -2,12 +2,22 @@
  "asof": "2026-10-31T07:20:00-04:00",
  "items": [
   {
+   "h": "Halloween in New York: Today and Tonight",
+   "sum": "Kids' parades and festivals in all five boroughs, the Village Halloween Parade up Sixth Avenue at 7, then Harry Styles at the Garden and a big night of music.",
+   "outlet": "New York City Scream",
+   "url": "?story=halloween-new-york-today-tonight-2026",
+   "story": "halloween-new-york-today-tonight-2026",
+   "box": true,
+   "town": "All five boroughs",
+   "date": "2026-10-31",
+   "rank": 1
+  },
+  {
    "h": "Harry Styles closes his Garden run on Halloween night",
    "sum": "Doors open at 7 pm Saturday for the Harryween show, with Jamie xx opening.",
    "outlet": "New York City Scream",
    "url": "?story=harry-styles-harryween-msg",
    "story": "harry-styles-harryween-msg",
-   "box": true,
    "town": "Midtown",
    "date": "2026-10-31",
    "rank": 2
