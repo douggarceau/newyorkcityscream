@@ -1,106 +1,36 @@
 {
- "asof": "2026-10-30T12:00:00-04:00",
+ "asof": "2026-10-31T07:20:00-04:00",
  "items": [
   {
-   "h": "Halloween Night in New York: What to Expect",
-   "sum": "The Village Halloween Parade marches up Sixth Avenue Saturday night, the kids hit the streets, and the clocks fall back an hour early Sunday.",
+   "h": "Harry Styles closes his Garden run on Halloween night",
+   "sum": "Doors open at 7 pm Saturday for the Harryween show, with Jamie xx opening.",
    "outlet": "New York City Scream",
-   "url": "?story=halloween-night-in-new-york",
-   "story": "halloween-night-in-new-york",
+   "url": "?story=harry-styles-harryween-msg",
+   "story": "harry-styles-harryween-msg",
    "box": true,
-   "town": "",
-   "date": "2026-10-30",
-   "rank": 2
-  },
-  {
-   "h": "Village Halloween Parade marches Saturday night",
-   "sum": "The costumed procession through Greenwich Village is set for Oct. 31, with tens of thousands of participants.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/events-festivals/village-halloween-parade-nyc-guide",
-   "town": "Greenwich Village, Manhattan",
+   "town": "Midtown",
    "date": "2026-10-31",
-   "rank": 1
-  },
-  {
-   "h": "NYC named the best U.S. city to celebrate Halloween",
-   "sum": "A new ranking puts New York at the top of American Halloween destinations for 2026.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/news/new-york-has-been-named-the-best-city-in-america-to-celebrate-halloween-in-2026-and-were-not-surprised-one-bit-102926",
-   "town": "Citywide",
-   "date": "2026-10-29",
    "rank": 2
   },
   {
-   "h": "Outdoor Paranormal Activity screening planned for Halloween night on Broadway",
-   "sum": "A Halloween-night outdoor movie screening on Broadway comes with a chance at theater tickets.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/news/a-free-paranormal-activity-outdoor-screening-is-taking-over-broadway-on-halloween-nightand-it-could-get-you-free-theater-tickets-102226",
-   "town": "Midtown, Manhattan",
-   "date": "2026-10-22",
+   "h": "Yannick Nézet-Séguin leads the Met Chamber Ensemble at Carnegie",
+   "sum": "Schubert and Janáček on the Stern Auditorium stage on Thursday, November 5.",
+   "outlet": "New York City Scream",
+   "url": "?story=met-chamber-ensemble-carnegie-stern",
+   "story": "met-chamber-ensemble-carnegie-stern",
+   "town": "Midtown",
+   "date": "2026-10-31",
    "rank": 3
   },
   {
-   "h": "Halloween in Dumbo, matched to your vibe",
-   "sum": "A guide to spending Halloween in Dumbo depending on what kind of night you want.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/news/heres-how-to-spend-halloween-in-dumbo-based-on-your-vibe-102026",
-   "town": "Dumbo, Brooklyn",
-   "date": "2026-10-20",
+   "h": "Patti Smith reads poetry at St. Mark's on All Saints' Day",
+   "sum": "Smith and early collaborators read at the East Village church where her first reading took place.",
+   "outlet": "New York City Scream",
+   "url": "?story=patti-smith-saints-and-scoundrels",
+   "story": "patti-smith-saints-and-scoundrels",
+   "town": "East Village",
+   "date": "2026-10-31",
    "rank": 4
-  },
-  {
-   "h": "Record 160 car-free streets host Trick-or-Streets",
-   "sum": "The city's largest Halloween celebration yet turns streets and plazas in all five boroughs into trick-or-treat zones.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/news/nyc-to-have-its-largest-halloween-celebration-yet-with-160-car-free-open-streets-and-city-plazas-100526",
-   "town": "Citywide",
-   "date": "2026-10-05",
-   "rank": 5
-  },
-  {
-   "h": "Boo at the Bronx Zoo runs through Nov. 1",
-   "sum": "Daytime weekend fun includes animal talks, carnival games, shows and a costume parade.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/events-calendar/october-events-calendar",
-   "town": "Bronx",
-   "date": "2026-10-30",
-   "rank": 6
-  },
-  {
-   "h": "Freaky Movie Fridays screens The Shining tonight at Foxtail",
-   "sum": "Horror screenings with film-inspired menu specials continue Oct. 30.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/things-to-do/freaky-movie-fridays-at-foxtail",
-   "town": "Manhattan",
-   "date": "2026-10-30",
-   "rank": 7
-  },
-  {
-   "h": "MTA marks Halloween with spooky station signs and collectible maps",
-   "sum": "The transit agency is adding Halloween touches including sticker-style station signs and special maps.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/nyc-transit/mta-halloween-fun-spooky-station-signs-maps/",
-   "town": "Citywide",
-   "date": "2026-10-28",
-   "rank": 8
-  },
-  {
-   "h": "JAY B and Def: two sides of the same soul",
-   "sum": "A music feature profiles the two artists and their shared sound.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/entertainment/music/jay-b-def-two-sides-same-soul/",
-   "town": "Manhattan",
-   "date": "2026-10-29",
-   "rank": 9
-  },
-  {
-   "h": "Gillie and Marc and their civic bestiary",
-   "sum": "An arts feature on the artist duo and their public animal-themed work.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/entertainment/arts-entertainment/gillie-and-marc-the-new-civic-bestiary/",
-   "town": "Manhattan",
-   "date": "2026-10-29",
-   "rank": 10
   },
   {
    "h": "Museum of Arts and Design at 70 looks to the future",
@@ -109,25 +39,64 @@
    "url": "https://www.amny.com/entertainment/arts-entertainment/mad-at-seventy-appetite-future/",
    "town": "Columbus Circle, Manhattan",
    "date": "2026-10-29",
+   "rank": 5
+  },
+  {
+   "h": "Jean Rondeau brings Couperin and Rameau to Weill Recital Hall",
+   "sum": "A Friday harpsichord recital in Midtown drawn from the French baroque masters.",
+   "outlet": "New York City Scream",
+   "url": "?story=jean-rondeau-harpsichord-weill",
+   "story": "jean-rondeau-harpsichord-weill",
+   "town": "Midtown",
+   "date": "2026-10-31",
+   "rank": 6
+  },
+  {
+   "h": "Halloween Night in New York: What to Expect",
+   "sum": "The Village Halloween Parade marches up Sixth Avenue Saturday night, the kids hit the streets, and the clocks fall back an hour early Sunday.",
+   "outlet": "New York City Scream",
+   "url": "?story=halloween-night-in-new-york",
+   "story": "halloween-night-in-new-york",
+   "town": "",
+   "date": "2026-10-30",
+   "rank": 7
+  },
+  {
+   "h": "Harlem Gospel Choir sings at the Blue Note on a Sunday",
+   "sum": "A gospel afternoon in Greenwich Village with the choir headlining, doors at 1:30 pm.",
+   "outlet": "New York City Scream",
+   "url": "?story=harlem-gospel-choir-blue-note",
+   "story": "harlem-gospel-choir-blue-note",
+   "town": "Greenwich Village",
+   "date": "2026-10-31",
+   "rank": 8
+  },
+  {
+   "h": "Village Halloween Parade marches Saturday night",
+   "sum": "The costumed procession through Greenwich Village is set for Oct. 31, with tens of thousands of participants.",
+   "outlet": "Time Out New York",
+   "url": "https://www.timeout.com/newyork/events-festivals/village-halloween-parade-nyc-guide",
+   "town": "Greenwich Village, Manhattan",
+   "date": "2026-10-31",
+   "rank": 10
+  },
+  {
+   "h": "Gillie and Marc and their civic bestiary",
+   "sum": "An arts feature on the artist duo and their public animal-themed work.",
+   "outlet": "amNY",
+   "url": "https://www.amny.com/entertainment/arts-entertainment/gillie-and-marc-the-new-civic-bestiary/",
+   "town": "Manhattan",
+   "date": "2026-10-29",
    "rank": 11
   },
   {
-   "h": "Review: Billy Crystal's one-man Broadway show",
-   "sum": "Time Out reviews Billy Crystal's Broadway show.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/news/broadway-review-billy-crystal-in-860-102226",
-   "town": "Broadway, Manhattan",
-   "date": "2026-10-22",
+   "h": "JAY B and Def: two sides of the same soul",
+   "sum": "A music feature profiles the two artists and their shared sound.",
+   "outlet": "amNY",
+   "url": "https://www.amny.com/entertainment/music/jay-b-def-two-sides-same-soul/",
+   "town": "Manhattan",
+   "date": "2026-10-29",
    "rank": 12
-  },
-  {
-   "h": "Review: The Imaginary Invalid on Broadway",
-   "sum": "A Moliere revival gets reviewed by Time Out.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/news/broadway-review-the-imaginary-invalid-gasps-for-moliere-102326",
-   "town": "Broadway, Manhattan",
-   "date": "2026-10-23",
-   "rank": 13
   },
   {
    "h": "Real Housewives stars headed to an Off-Broadway comedy",
@@ -136,7 +105,7 @@
    "url": "https://www.timeout.com/newyork/news/lisa-rinna-phaedra-parks-dolores-catania-and-more-housewives-will-star-in-this-off-broadway-comedy-next-year-102926",
    "town": "Off-Broadway, Manhattan",
    "date": "2026-10-29",
-   "rank": 14
+   "rank": 13
   },
   {
    "h": "Ai Fiori review: an artful distraction",
@@ -145,7 +114,7 @@
    "url": "https://www.amny.com/lifestyle/eat-and-drink/ai-fiori-an-artful-distraction/",
    "town": "Midtown, Manhattan",
    "date": "2026-10-29",
-   "rank": 15
+   "rank": 14
   },
   {
    "h": "Great Jack O'Lantern Blaze lights up Van Cortlandt Manor through Nov. 8",
@@ -154,7 +123,7 @@
    "url": "https://www.timeout.com/newyork/travel/guide-to-great-jack-o-lantern-blaze",
    "town": "Croton-on-Hudson",
    "date": "2026-10-30",
-   "rank": 17
+   "rank": 15
   },
   {
    "h": "Fall foliage harbor cruises on vintage boats continue to Nov. 15",
@@ -163,25 +132,16 @@
    "url": "https://www.timeout.com/newyork/things-to-do/classic-harbor-line-fall-foliage-tours",
    "town": "Hudson River",
    "date": "2026-10-30",
-   "rank": 19
+   "rank": 16
   },
   {
-   "h": "Weekend subway changes: shuttles for Flushing, Coney Island and more",
-   "sum": "The latest MTA Weekender lists station closures and shuttle buses across several lines.",
-   "outlet": "MTA",
-   "url": "https://www.mta.info/article/mta-weekender-october-23-26-2026",
-   "town": "Citywide",
-   "date": "2026-10-23",
-   "rank": 20
-  },
-  {
-   "h": "Third Avenue safety overhaul in Sunset Park gets the green light",
-   "sum": "A long-delayed street redesign in Brooklyn is slated for completion in 2028.",
+   "h": "MTA marks Halloween with spooky station signs and collectible maps",
+   "sum": "The transit agency is adding Halloween touches including sticker-style station signs and special maps.",
    "outlet": "amNY",
-   "url": "https://www.amny.com/news/mamdani-third-avenue-overhaul-sunset-park/",
-   "town": "Sunset Park, Brooklyn",
+   "url": "https://www.amny.com/nyc-transit/mta-halloween-fun-spooky-station-signs-maps/",
+   "town": "Citywide",
    "date": "2026-10-28",
-   "rank": 22
+   "rank": 17
   }
  ]
 }
