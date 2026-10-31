@@ -2,6 +2,17 @@
  "asof": "2026-10-30T12:00:00-04:00",
  "items": [
   {
+   "h": "Halloween Night in New York: What to Expect",
+   "sum": "The Village Halloween Parade marches up Sixth Avenue Saturday night, the kids hit the streets, and the clocks fall back an hour early Sunday.",
+   "outlet": "New York City Scream",
+   "url": "?story=halloween-night-in-new-york",
+   "story": "halloween-night-in-new-york",
+   "box": true,
+   "town": "",
+   "date": "2026-10-30",
+   "rank": 2
+  },
+  {
    "h": "Village Halloween Parade marches Saturday night",
    "sum": "The costumed procession through Greenwich Village is set for Oct. 31, with tens of thousands of participants.",
    "outlet": "Time Out New York",
