@@ -1768,7 +1768,7 @@ function vInk(){const L=STORIES.filter(s=>s.topic==='ink');return `<h2 class="ro
 /* national features live on the cover, not in the Stories tab (New York news only) */
 const FEATURES=new Set([]);
 function vStories(){
-  const LS=STORIES.filter(s=>!FEATURES.has(s.slug));
+  const LS=STORIES.filter(s=>!FEATURES.has(s.slug)).sort((a,b)=>String(b.date||'').localeCompare(String(a.date||'')));
   return `<h2 class="room">New York City Stories</h2>
   <div class="sgrid">${LS.map(storyCard).join('')}</div>`;
 }
