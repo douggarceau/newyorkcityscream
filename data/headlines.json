@@ -1,27 +1,6 @@
 {
- "asof": "2026-10-31T07:20:00-04:00",
+ "asof": "2026-11-03T09:45:00-05:00",
  "items": [
-  {
-   "h": "Halloween in New York: Today and Tonight",
-   "sum": "Kids' parades and festivals in all five boroughs, the Village Halloween Parade up Sixth Avenue at 7, then Harry Styles at the Garden and a big night of music.",
-   "outlet": "New York City Scream",
-   "url": "?story=halloween-new-york-today-tonight-2026",
-   "story": "halloween-new-york-today-tonight-2026",
-   "box": true,
-   "town": "All five boroughs",
-   "date": "2026-10-31",
-   "rank": 1
-  },
-  {
-   "h": "Harry Styles closes his Garden run on Halloween night",
-   "sum": "Doors open at 7 pm Saturday for the Harryween show, with Jamie xx opening.",
-   "outlet": "New York City Scream",
-   "url": "?story=harry-styles-harryween-msg",
-   "story": "harry-styles-harryween-msg",
-   "town": "Midtown",
-   "date": "2026-10-31",
-   "rank": 2
-  },
   {
    "h": "Yannick Nézet-Séguin leads the Met Chamber Ensemble at Carnegie",
    "sum": "Schubert and Janáček on the Stern Auditorium stage on Thursday, November 5.",
@@ -31,16 +10,6 @@
    "town": "Midtown",
    "date": "2026-10-31",
    "rank": 3
-  },
-  {
-   "h": "Patti Smith reads poetry at St. Mark's on All Saints' Day",
-   "sum": "Smith and early collaborators read at the East Village church where her first reading took place.",
-   "outlet": "New York City Scream",
-   "url": "?story=patti-smith-saints-and-scoundrels",
-   "story": "patti-smith-saints-and-scoundrels",
-   "town": "East Village",
-   "date": "2026-10-31",
-   "rank": 4
   },
   {
    "h": "Museum of Arts and Design at 70 looks to the future",
@@ -62,16 +31,6 @@
    "rank": 6
   },
   {
-   "h": "Halloween Night in New York: What to Expect",
-   "sum": "The Village Halloween Parade marches up Sixth Avenue Saturday night, the kids hit the streets, and the clocks fall back an hour early Sunday.",
-   "outlet": "New York City Scream",
-   "url": "?story=halloween-night-in-new-york",
-   "story": "halloween-night-in-new-york",
-   "town": "",
-   "date": "2026-10-30",
-   "rank": 7
-  },
-  {
    "h": "Harlem Gospel Choir sings at the Blue Note on a Sunday",
    "sum": "A gospel afternoon in Greenwich Village with the choir headlining, doors at 1:30 pm.",
    "outlet": "New York City Scream",
@@ -80,15 +39,6 @@
    "town": "Greenwich Village",
    "date": "2026-10-31",
    "rank": 8
-  },
-  {
-   "h": "Village Halloween Parade marches Saturday night",
-   "sum": "The costumed procession through Greenwich Village is set for Oct. 31, with tens of thousands of participants.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/events-festivals/village-halloween-parade-nyc-guide",
-   "town": "Greenwich Village, Manhattan",
-   "date": "2026-10-31",
-   "rank": 10
   },
   {
    "h": "Gillie and Marc and their civic bestiary",
@@ -152,6 +102,45 @@
    "town": "Citywide",
    "date": "2026-10-28",
    "rank": 17
+  },
+  {
+   "h": "Sonya Yoncheva stars in Cherubini's Medea at the Met through Nov. 21",
+   "sum": "David McVicar's staging of the opera runs at the Metropolitan Opera until November 21.",
+   "outlet": "New York City Scream",
+   "url": "?story=met-opera-medea-yoncheva-mcvicar",
+   "story": "met-opera-medea-yoncheva-mcvicar",
+   "town": "Lincoln Center",
+   "date": "2026-11-03",
+   "rank": 3
+  },
+  {
+   "h": "Cellist Santiago Cañón-Valencia makes his Carnegie Hall debut",
+   "sum": "A November 10 recital in Weill Recital Hall with pianist Victor Santiago Asunción.",
+   "outlet": "New York City Scream",
+   "url": "?story=santiago-canon-valencia-carnegie-debut",
+   "story": "santiago-canon-valencia-carnegie-debut",
+   "town": "Midtown",
+   "date": "2026-11-03",
+   "rank": 4
+  },
+  {
+   "h": "Jesse Cook plays Adler Hall at the Ethical Culture Society",
+   "sum": "A Friday evening concert on November 13 on the Upper West Side.",
+   "outlet": "New York City Scream",
+   "url": "?story=jesse-cook-adler-hall-ethical-culture",
+   "story": "jesse-cook-adler-hall-ethical-culture",
+   "town": "Upper West Side",
+   "date": "2026-11-03",
+   "rank": 6
+  },
+  {
+   "h": "MasterVoices brings Handel to Carnegie Hall on December 15",
+   "sum": "Excerpts from Handel's operas and oratorios with Erin Morley and Jakub Józef Orliński.",
+   "outlet": "Playbill",
+   "url": "https://playbill.com/article/mastervoices-to-present-celebrating-handel-at-carnegie-hall",
+   "town": "Midtown",
+   "date": "2026-11-02",
+   "rank": 5
   }
  ]
 }
