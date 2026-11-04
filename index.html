@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <base href="/">
+<script id="fetchOnce">/* Page scripts share one download of each data file per minute. */(()=>{const f=window.fetch,m=new Map(),re=/^(?:\/|\.\/)?data\/[\w-]+\.json(?:\?\d+)?$/;window.fetch=function(u,o){if(typeof u!=='string'||(o&&o.method&&o.method!=='GET')||!re.test(u))return f.apply(this,arguments);const k=u.split('?')[0].replace(/^\.?\//,''),t=Date.now(),h=m.get(k);if(h&&t-h.t<6e4)return h.p.then(r=>r.clone());const p=f.call(this,u,o);m.set(k,{t,p});p.catch(()=>m.delete(k));return p.then(r=>r.clone())}})();</script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-96L6LFKMZB"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-96L6LFKMZB');</script>
 
 
@@ -24,6 +25,7 @@
 <meta name="twitter:description" content="New York City news, music, food and the city calendar.">
 <meta name="twitter:image" content="https://newyorkcityscream.com/img/og-share.jpg">
 <link rel="canonical" href="https://newyorkcityscream.com/">
+<link rel="alternate" type="application/rss+xml" title="New York City Scream" href="/feed.xml">
 <link rel="icon" type="image/png" href="app/favicon.png">
 <link rel="manifest" href="manifest.webmanifest">
 <meta name="theme-color" content="#0b0d10">
@@ -1547,7 +1549,7 @@ function techRow(n){return `<a class="bwr" href="${esc(n.u)}" target="_blank" re
 function rogueCard(r){const k=TK[r.kind]||'#2fd3c8';return `<a class="rg" style="--k:${k}" href="${esc(r.url)}" target="_blank" rel="noopener"><span class="kick" style="--tc:${k}"><span class="dot"></span>${esc(r.kind)}<time>${esc(mday(r.date))}</time></span><h4>${esc(r.title)}</h4><p>${esc(r.detail)}</p>${r.why?`<span class="why">${esc(r.why)}</span>`:''}<span class="sc meta" style="all:unset;font:600 11px/1.2 var(--body);color:var(--mute)">${esc(r.org||'')}</span></a>`}
 function vTech(){const T=TECH||{},B=T.bell||{};const ts=STORIES.filter(s=>['the-swarm','ai-flash','robot-price-tag','pink-slip-city'].includes(s.slug));
   return `<div class="troom"><h2 class="room">Tech &amp; AI</h2>
-  <a class="pmlink pmred" href="https://douggarceau.com/nyc/tech/"><span class="pm-tag">EXCLUSIVE!</span><b>Tech &amp; AI <i>Power Map</i></b><span class="pm-go">Who controls AI and Big Tech →</span></a>
+  <a class="pmlink pmred" href="https://seattlesinner.com/tech/"><span class="pm-tag">EXCLUSIVE!</span><b>Tech &amp; AI <i>Power Map</i></b><span class="pm-go">Who controls AI and Big Tech →</span></a>
   <div class="intro"><b>Wired in from AI Signals</b><p>Machines, money and the people building both. Headlines come from the AI Signals Tech &amp; AI Power Map and refresh every morning.</p></div>
   <div class="lbl"><b>AI gone rogue</b><span>when the models misbehave</span></div><div class="tgrid">${(T.rogue||[]).map(rogueCard).join('')}</div>
   <div class="tsplit"><section class="box" style="--c:#2fd3c8"><div class="bh"><b>Tech &amp; AI headlines</b><span>${(T.news||[]).length} items</span></div><div class="bwl">${(T.news||[]).slice(0,24).map(techRow).join('')||'<div class="empty">Feed is loading.</div>'}</div></section>
@@ -2213,8 +2215,8 @@ p.addEventListener('click',e=>{const a=e.target.closest('[data-sh]');if(!a)retur
 (function(){
 const NS='https://newspace.douggarceau.workers.dev/signup';
 const PM=[
- {tag:"NEW SOFTWARE",img:"img/promo-powermap.jpg",round:2,name:"Tech & AI Power Map",sub:"Who controls AI and Big Tech",go:"Open the map",theme:"pm",href:"https://douggarceau.com/nyc/tech/"},
- {tag:"POWER MAP",big:"140<em>companies</em>",name:"Investors, contracts, chips and money flows",go:"Open the map",theme:"pm2",href:"https://douggarceau.com/nyc/tech/"}];
+ {tag:"NEW SOFTWARE",img:"img/promo-powermap.jpg",round:2,name:"Tech & AI Power Map",sub:"Who controls AI and Big Tech",go:"Open the map",theme:"pm",href:"https://seattlesinner.com/tech/"},
+ {tag:"POWER MAP",big:"140<em>companies</em>",name:"Investors, contracts, chips and money flows",go:"Open the map",theme:"pm2",href:"https://seattlesinner.com/tech/"}];
 const NW=[];const NWX=()=>{try{if(typeof STF!=='undefined'&&STF.length)return STF.slice().reverse()}catch(_){}return CWX};
 let CWX=[{tag:"CRIME WATCH",big:"Who's<em>out there tonight</em>",name:"Crime Watch",sub:"Police log, fire and crime news for New York",go:"Check your block",theme:"cw",href:"#crime",view:"crime"}];
 let ST=[];try{const bySlug={};STORIES.forEach(x=>bySlug[x.slug]=x);
@@ -2277,7 +2279,7 @@ window.__fill0=(a,s)=>fill0(a,s);function fill0(a,s){if(!a||!s)return;try{const 
  a.setAttribute('aria-label',s.bigText||s.name);box.style.setProperty('--k',s.k||'');if(!s.k)box.style.removeProperty('--k');if(s.sty)box.dataset.adv=s.sty;else delete box.dataset.adv;
  const mid=s.img?'<img src="'+s.img+'" alt=""'+(s.round?' class="round'+(s.round>1?' dark':'')+'"':'')+'>':'<span class="ls-big">'+(s.bigText?esc(s.bigText):s.big)+'</span>';
  a.innerHTML='<span class="ls-tag">'+esc(s.tag)+'</span>'+mid+'<span><b>'+esc(s.name)+'</b>'+(s.when?'<i>'+esc(s.when)+'</i>':'')+(s.sub?'<small>'+esc(s.sub)+'</small>':'')+'<span class="ls-go">'+esc(s.go)+' →</span></span>';if(box.classList.contains('evp')){box.classList.remove('evp');['border','border-top','outline'].forEach(x=>box.style.removeProperty(x))}if(s.theme==='mu'&&s.ev&&window.evPoster)window.evPoster(a,s);else if(s.theme==='st'&&window.artCard)window.artCard(a,s)}
-function pmTeaser(a){if(!a)return;const box=a.parentNode;box.className=box.className.replace(/\bt-\S+/g,'').trim()+' t-pmx';a.href='https://douggarceau.com/nyc/tech/';a.removeAttribute('target');a.setAttribute('aria-label','Tech & AI Power Map: who controls AI and Big Tech');
+function pmTeaser(a){if(!a)return;const box=a.parentNode;box.className=box.className.replace(/\bt-\S+/g,'').trim()+' t-pmx';a.href='https://seattlesinner.com/tech/';a.removeAttribute('target');a.setAttribute('aria-label','Tech & AI Power Map: who controls AI and Big Tech');
  const pads=()=>'<span class="pmx-pads">'+'<b></b>'.repeat(15)+'</span>';
  a.innerHTML='<span class="pmx-bar"><span>■ Power Map</span><i>AI Signals live</i></span><span class="pmx-top">'+pads()+'<span class="pmx-eye"><img src="img/promo-powermap.jpg" alt=""></span>'+pads()+'</span><span class="pmx-ttl">Tech &amp; AI Power Map</span><span class="pmx-by">New software</span><span class="pmx-stk"><span class="tk">····</span><span class="pr"></span><span class="nm">Loading the market</span><span class="ch"></span></span><span class="pmx-rk"><h5>Power ranking</h5><ol><li></li><li></li><li></li><li></li></ol></span><span class="pmx-log">establishing link</span><span class="pmx-go">Enter the map →</span>';
  const still=matchMedia('(prefers-reduced-motion:reduce)').matches,live=()=>!document.hidden&&!still;
@@ -2375,7 +2377,7 @@ document.addEventListener('click',e=>{const a=e.target.closest&&e.target.closest
     }else if(android){
       st.innerHTML='<ol><li>Tap the <b>⋮</b> menu at the top right of Chrome.</li><li>Tap <b>Add to Home screen</b>.</li><li>Tap <b>Add</b>.</li></ol>';
     }else{
-      st.innerHTML='<p>Open <b>douggarceau.com/nyc</b> on your phone and tap <b>Get the App</b>.</p>';
+      st.innerHTML='<p>Open <b>newyorkcityscream.com</b> on your phone and tap <b>Get the App</b>.</p>';
     }
     sh.hidden=false;
   };
