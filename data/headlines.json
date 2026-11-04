@@ -1,6 +1,27 @@
 {
- "asof": "2026-11-03T09:45:00-05:00",
+ "asof": "2026-11-04T07:26:14-05:00",
  "items": [
+  {
+   "h": "New York Today and Tonight: Medea, the Philharmonic, Punch Brothers",
+   "sum": "Tonight's best picks: Medea at the Met at 7:30 PM, the New York Philharmonic at Lincoln Center and Punch Brothers at Carnegie Hall.",
+   "outlet": "New York City Scream",
+   "url": "?story=today-and-tonight-2026-11-04",
+   "story": "today-and-tonight-2026-11-04",
+   "town": "All five boroughs",
+   "date": "2026-11-04",
+   "rank": 1
+  },
+  {
+   "h": "Sonya Yoncheva Stars in Cherubini's Medea at the Met Opera",
+   "sum": "Wednesday, November 4 at 7:30 PM at the Metropolitan Opera House, Lincoln Center, with performances through November 21.",
+   "outlet": "New York City Scream",
+   "url": "?story=met-opera-medea-yoncheva-mcvicar",
+   "story": "met-opera-medea-yoncheva-mcvicar",
+   "box": true,
+   "town": "Lincoln Center",
+   "date": "2026-11-04",
+   "rank": 2
+  },
   {
    "h": "Yannick Nézet-Séguin leads the Met Chamber Ensemble at Carnegie",
    "sum": "Schubert and Janáček on the Stern Auditorium stage on Thursday, November 5.",
@@ -12,12 +33,41 @@
    "rank": 3
   },
   {
+   "h": "Yo-Yo Ma and Rhiannon Giddens lead Silkroad Ensemble at Carnegie",
+   "sum": "A 25th-anniversary concert at Stern Auditorium on Saturday, November 14.",
+   "outlet": "New York City Scream",
+   "url": "?story=silkroad-ensemble-yo-yo-ma-rhiannon-giddens-carnegie",
+   "story": "silkroad-ensemble-yo-yo-ma-rhiannon-giddens-carnegie",
+   "town": "Midtown",
+   "date": "2026-11-04",
+   "rank": 3
+  },
+  {
+   "h": "Cellist Santiago Cañón-Valencia makes his Carnegie Hall debut",
+   "sum": "A November 10 recital in Weill Recital Hall with pianist Victor Santiago Asunción.",
+   "outlet": "New York City Scream",
+   "url": "?story=santiago-canon-valencia-carnegie-debut",
+   "story": "santiago-canon-valencia-carnegie-debut",
+   "town": "Midtown",
+   "date": "2026-11-03",
+   "rank": 4
+  },
+  {
    "h": "Museum of Arts and Design at 70 looks to the future",
    "sum": "MAD marks its seventieth year with an eye on what comes next.",
    "outlet": "amNY",
    "url": "https://www.amny.com/entertainment/arts-entertainment/mad-at-seventy-appetite-future/",
    "town": "Columbus Circle, Manhattan",
    "date": "2026-10-29",
+   "rank": 5
+  },
+  {
+   "h": "MasterVoices brings Handel to Carnegie Hall on December 15",
+   "sum": "Excerpts from Handel's operas and oratorios with Erin Morley and Jakub Józef Orliński.",
+   "outlet": "Playbill",
+   "url": "https://playbill.com/article/mastervoices-to-present-celebrating-handel-at-carnegie-hall",
+   "town": "Midtown",
+   "date": "2026-11-02",
    "rank": 5
   },
   {
@@ -28,6 +78,16 @@
    "story": "jean-rondeau-harpsichord-weill",
    "town": "Midtown",
    "date": "2026-10-31",
+   "rank": 6
+  },
+  {
+   "h": "Jesse Cook plays Adler Hall at the Ethical Culture Society",
+   "sum": "A Friday evening concert on November 13 on the Upper West Side.",
+   "outlet": "New York City Scream",
+   "url": "?story=jesse-cook-adler-hall-ethical-culture",
+   "story": "jesse-cook-adler-hall-ethical-culture",
+   "town": "Upper West Side",
+   "date": "2026-11-03",
    "rank": 6
   },
   {
@@ -102,45 +162,6 @@
    "town": "Citywide",
    "date": "2026-10-28",
    "rank": 17
-  },
-  {
-   "h": "Sonya Yoncheva stars in Cherubini's Medea at the Met through Nov. 21",
-   "sum": "David McVicar's staging of the opera runs at the Metropolitan Opera until November 21.",
-   "outlet": "New York City Scream",
-   "url": "?story=met-opera-medea-yoncheva-mcvicar",
-   "story": "met-opera-medea-yoncheva-mcvicar",
-   "town": "Lincoln Center",
-   "date": "2026-11-03",
-   "rank": 3
-  },
-  {
-   "h": "Cellist Santiago Cañón-Valencia makes his Carnegie Hall debut",
-   "sum": "A November 10 recital in Weill Recital Hall with pianist Victor Santiago Asunción.",
-   "outlet": "New York City Scream",
-   "url": "?story=santiago-canon-valencia-carnegie-debut",
-   "story": "santiago-canon-valencia-carnegie-debut",
-   "town": "Midtown",
-   "date": "2026-11-03",
-   "rank": 4
-  },
-  {
-   "h": "Jesse Cook plays Adler Hall at the Ethical Culture Society",
-   "sum": "A Friday evening concert on November 13 on the Upper West Side.",
-   "outlet": "New York City Scream",
-   "url": "?story=jesse-cook-adler-hall-ethical-culture",
-   "story": "jesse-cook-adler-hall-ethical-culture",
-   "town": "Upper West Side",
-   "date": "2026-11-03",
-   "rank": 6
-  },
-  {
-   "h": "MasterVoices brings Handel to Carnegie Hall on December 15",
-   "sum": "Excerpts from Handel's operas and oratorios with Erin Morley and Jakub Józef Orliński.",
-   "outlet": "Playbill",
-   "url": "https://playbill.com/article/mastervoices-to-present-celebrating-handel-at-carnegie-hall",
-   "town": "Midtown",
-   "date": "2026-11-02",
-   "rank": 5
   }
  ]
 }
