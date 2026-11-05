@@ -1,26 +1,26 @@
 {
- "asof": "2026-11-04T07:26:14-05:00",
+ "asof": "2026-11-05T07:29:22-05:00",
  "items": [
-  {
-   "h": "New York Today and Tonight: Medea, the Philharmonic, Punch Brothers",
-   "sum": "Tonight's best picks: Medea at the Met at 7:30 PM, the New York Philharmonic at Lincoln Center and Punch Brothers at Carnegie Hall.",
-   "outlet": "New York City Scream",
-   "url": "?story=today-and-tonight-2026-11-04",
-   "story": "today-and-tonight-2026-11-04",
-   "town": "All five boroughs",
-   "date": "2026-11-04",
-   "rank": 1
-  },
   {
    "h": "Sonya Yoncheva Stars in Cherubini's Medea at the Met Opera",
    "sum": "Wednesday, November 4 at 7:30 PM at the Metropolitan Opera House, Lincoln Center, with performances through November 21.",
    "outlet": "New York City Scream",
    "url": "?story=met-opera-medea-yoncheva-mcvicar",
    "story": "met-opera-medea-yoncheva-mcvicar",
-   "box": true,
    "town": "Lincoln Center",
    "date": "2026-11-04",
    "rank": 2
+  },
+  {
+   "h": "Dave Chappelle Brings Stand-Up to Madison Square Garden Friday",
+   "sum": "Friday, November 6 at 7:30 PM at Madison Square Garden, 4 Pennsylvania Plaza, as part of the New York Comedy Festival.",
+   "outlet": "New York City Scream",
+   "url": "?story=dave-chappelle-madison-square-garden-friday-comedy",
+   "story": "dave-chappelle-madison-square-garden-friday-comedy",
+   "town": "Midtown",
+   "date": "2026-11-05",
+   "rank": 2,
+   "box": true
   },
   {
    "h": "Yannick Nézet-Séguin leads the Met Chamber Ensemble at Carnegie",
@@ -43,6 +43,26 @@
    "rank": 3
   },
   {
+   "h": "Seven Guitars Begins Previews at Lincoln Center Theater Tonight",
+   "sum": "Previews begin Thursday, November 5 at the Mitzi E. Newhouse Theater, with opening night on Monday, November 23.",
+   "outlet": "New York City Scream",
+   "url": "?story=seven-guitars-lincoln-center-newhouse-2026",
+   "story": "seven-guitars-lincoln-center-newhouse-2026",
+   "town": "Lincoln Center",
+   "date": "2026-11-05",
+   "rank": 3
+  },
+  {
+   "h": "Wynton Marsalis Leads Swinging Cities at Jazz at Lincoln Center",
+   "sum": "Friday and Saturday, November 6 and 7 at 7:30 PM in the Rose Theater, Broadway at West 60th Street.",
+   "outlet": "New York City Scream",
+   "url": "?story=marsalis-swinging-cities-rose-theater-2026",
+   "story": "marsalis-swinging-cities-rose-theater-2026",
+   "town": "Lincoln Center",
+   "date": "2026-11-05",
+   "rank": 3
+  },
+  {
    "h": "Cellist Santiago Cañón-Valencia makes his Carnegie Hall debut",
    "sum": "A November 10 recital in Weill Recital Hall with pianist Victor Santiago Asunción.",
    "outlet": "New York City Scream",
@@ -50,6 +70,16 @@
    "story": "santiago-canon-valencia-carnegie-debut",
    "town": "Midtown",
    "date": "2026-11-03",
+   "rank": 4
+  },
+  {
+   "h": "The Senior Concert Orchestra of New York Plays Carnegie Hall Sunday",
+   "sum": "Sunday, November 8 at 1 PM in Stern Auditorium at Carnegie Hall, 881 Seventh Avenue.",
+   "outlet": "New York City Scream",
+   "url": "?story=senior-concert-orchestra-of-new-york-carnegie-2026",
+   "story": "senior-concert-orchestra-of-new-york-carnegie-2026",
+   "town": "Midtown",
+   "date": "2026-11-05",
    "rank": 4
   },
   {
@@ -91,6 +121,16 @@
    "rank": 6
   },
   {
+   "h": "Pianist Cristiana Pegoraro Plays Weill Recital Hall on November 12",
+   "sum": "Thursday, November 12 at 8 PM in Weill Recital Hall at Carnegie Hall, presented by LKI Artists International.",
+   "outlet": "New York City Scream",
+   "url": "?story=cristiana-pegoraro-weill-recital-hall-2026",
+   "story": "cristiana-pegoraro-weill-recital-hall-2026",
+   "town": "Midtown",
+   "date": "2026-11-05",
+   "rank": 6
+  },
+  {
    "h": "Harlem Gospel Choir sings at the Blue Note on a Sunday",
    "sum": "A gospel afternoon in Greenwich Village with the choir headlining, doors at 1:30 pm.",
    "outlet": "New York City Scream",
@@ -98,6 +138,16 @@
    "story": "harlem-gospel-choir-blue-note",
    "town": "Greenwich Village",
    "date": "2026-10-31",
+   "rank": 8
+  },
+  {
+   "h": "Salcedo's Latin Soul Sunday Afternoon at Kupferberg Center in Flushing",
+   "sum": "Sunday, November 15 at 3 PM in LeFrak Concert Hall, Kupferberg Center for the Arts, 65-30 Kissena Boulevard, Flushing.",
+   "outlet": "New York City Scream",
+   "url": "?story=salcedos-latin-soul-kupferberg-lefrak-2026",
+   "story": "salcedos-latin-soul-kupferberg-lefrak-2026",
+   "town": "Flushing",
+   "date": "2026-11-05",
    "rank": 8
   },
   {
@@ -153,15 +203,6 @@
    "town": "Hudson River",
    "date": "2026-10-30",
    "rank": 16
-  },
-  {
-   "h": "MTA marks Halloween with spooky station signs and collectible maps",
-   "sum": "The transit agency is adding Halloween touches including sticker-style station signs and special maps.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/nyc-transit/mta-halloween-fun-spooky-station-signs-maps/",
-   "town": "Citywide",
-   "date": "2026-10-28",
-   "rank": 17
   }
  ]
 }
