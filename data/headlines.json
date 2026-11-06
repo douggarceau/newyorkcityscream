@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-05T07:29:22-05:00",
+ "asof": "2026-11-06T07:21:00-05:00",
  "items": [
   {
    "h": "Sonya Yoncheva Stars in Cherubini's Medea at the Met Opera",
@@ -18,19 +18,9 @@
    "url": "?story=dave-chappelle-madison-square-garden-friday-comedy",
    "story": "dave-chappelle-madison-square-garden-friday-comedy",
    "town": "Midtown",
-   "date": "2026-11-05",
+   "date": "2026-11-06",
    "rank": 2,
    "box": true
-  },
-  {
-   "h": "Yannick Nézet-Séguin leads the Met Chamber Ensemble at Carnegie",
-   "sum": "Schubert and Janáček on the Stern Auditorium stage on Thursday, November 5.",
-   "outlet": "New York City Scream",
-   "url": "?story=met-chamber-ensemble-carnegie-stern",
-   "story": "met-chamber-ensemble-carnegie-stern",
-   "town": "Midtown",
-   "date": "2026-10-31",
-   "rank": 3
   },
   {
    "h": "Yo-Yo Ma and Rhiannon Giddens lead Silkroad Ensemble at Carnegie",
@@ -81,15 +71,6 @@
    "town": "Midtown",
    "date": "2026-11-05",
    "rank": 4
-  },
-  {
-   "h": "Museum of Arts and Design at 70 looks to the future",
-   "sum": "MAD marks its seventieth year with an eye on what comes next.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/entertainment/arts-entertainment/mad-at-seventy-appetite-future/",
-   "town": "Columbus Circle, Manhattan",
-   "date": "2026-10-29",
-   "rank": 5
   },
   {
    "h": "MasterVoices brings Handel to Carnegie Hall on December 15",
@@ -151,42 +132,6 @@
    "rank": 8
   },
   {
-   "h": "Gillie and Marc and their civic bestiary",
-   "sum": "An arts feature on the artist duo and their public animal-themed work.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/entertainment/arts-entertainment/gillie-and-marc-the-new-civic-bestiary/",
-   "town": "Manhattan",
-   "date": "2026-10-29",
-   "rank": 11
-  },
-  {
-   "h": "JAY B and Def: two sides of the same soul",
-   "sum": "A music feature profiles the two artists and their shared sound.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/entertainment/music/jay-b-def-two-sides-same-soul/",
-   "town": "Manhattan",
-   "date": "2026-10-29",
-   "rank": 12
-  },
-  {
-   "h": "Real Housewives stars headed to an Off-Broadway comedy",
-   "sum": "Several reality-TV personalities are set to star in an Off-Broadway comedy next year.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/news/lisa-rinna-phaedra-parks-dolores-catania-and-more-housewives-will-star-in-this-off-broadway-comedy-next-year-102926",
-   "town": "Off-Broadway, Manhattan",
-   "date": "2026-10-29",
-   "rank": 13
-  },
-  {
-   "h": "Ai Fiori review: an artful distraction",
-   "sum": "amNY's dining column visits the Midtown Italian-leaning restaurant.",
-   "outlet": "amNY",
-   "url": "https://www.amny.com/lifestyle/eat-and-drink/ai-fiori-an-artful-distraction/",
-   "town": "Midtown, Manhattan",
-   "date": "2026-10-29",
-   "rank": 14
-  },
-  {
    "h": "Great Jack O'Lantern Blaze lights up Van Cortlandt Manor through Nov. 8",
    "sum": "Thousands of carved pumpkins glow at the Croton-on-Hudson attraction.",
    "outlet": "Time Out New York",
@@ -203,6 +148,16 @@
    "town": "Hudson River",
    "date": "2026-10-30",
    "rank": 16
+  },
+  {
+   "h": "Thomas Dunford and Léa Desandre: Baroque Arias at Weill Recital Hall",
+   "sum": "Tuesday, November 17, doors 7:30 PM, Weill Recital Hall at Carnegie Hall, Midtown.",
+   "outlet": "New York City Scream",
+   "url": "?story=thomas-dunford-leas-desandre-weill-recital-hall-2026",
+   "story": "thomas-dunford-leas-desandre-weill-recital-hall-2026",
+   "town": "Midtown",
+   "date": "2026-11-06",
+   "rank": 3
   }
  ]
 }
