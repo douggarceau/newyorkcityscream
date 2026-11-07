@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-06T07:21:00-05:00",
+ "asof": "2026-11-07T07:20:00-05:00",
  "items": [
   {
    "h": "Sonya Yoncheva Stars in Cherubini's Medea at the Met Opera",
@@ -10,17 +10,6 @@
    "town": "Lincoln Center",
    "date": "2026-11-04",
    "rank": 2
-  },
-  {
-   "h": "Dave Chappelle Brings Stand-Up to Madison Square Garden Friday",
-   "sum": "Friday, November 6 at 7:30 PM at Madison Square Garden, 4 Pennsylvania Plaza, as part of the New York Comedy Festival.",
-   "outlet": "New York City Scream",
-   "url": "?story=dave-chappelle-madison-square-garden-friday-comedy",
-   "story": "dave-chappelle-madison-square-garden-friday-comedy",
-   "town": "Midtown",
-   "date": "2026-11-06",
-   "rank": 2,
-   "box": true
   },
   {
    "h": "Yo-Yo Ma and Rhiannon Giddens lead Silkroad Ensemble at Carnegie",
@@ -82,16 +71,6 @@
    "rank": 5
   },
   {
-   "h": "Jean Rondeau brings Couperin and Rameau to Weill Recital Hall",
-   "sum": "A Friday harpsichord recital in Midtown drawn from the French baroque masters.",
-   "outlet": "New York City Scream",
-   "url": "?story=jean-rondeau-harpsichord-weill",
-   "story": "jean-rondeau-harpsichord-weill",
-   "town": "Midtown",
-   "date": "2026-10-31",
-   "rank": 6
-  },
-  {
    "h": "Jesse Cook plays Adler Hall at the Ethical Culture Society",
    "sum": "A Friday evening concert on November 13 on the Upper West Side.",
    "outlet": "New York City Scream",
@@ -132,24 +111,6 @@
    "rank": 8
   },
   {
-   "h": "Great Jack O'Lantern Blaze lights up Van Cortlandt Manor through Nov. 8",
-   "sum": "Thousands of carved pumpkins glow at the Croton-on-Hudson attraction.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/travel/guide-to-great-jack-o-lantern-blaze",
-   "town": "Croton-on-Hudson",
-   "date": "2026-10-30",
-   "rank": 15
-  },
-  {
-   "h": "Fall foliage harbor cruises on vintage boats continue to Nov. 15",
-   "sum": "Classic Harbor Line sails past Hudson River foliage and city landmarks.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/things-to-do/classic-harbor-line-fall-foliage-tours",
-   "town": "Hudson River",
-   "date": "2026-10-30",
-   "rank": 16
-  },
-  {
    "h": "Thomas Dunford and Léa Desandre: Baroque Arias at Weill Recital Hall",
    "sum": "Tuesday, November 17, doors 7:30 PM, Weill Recital Hall at Carnegie Hall, Midtown.",
    "outlet": "New York City Scream",
@@ -157,6 +118,27 @@
    "story": "thomas-dunford-leas-desandre-weill-recital-hall-2026",
    "town": "Midtown",
    "date": "2026-11-06",
+   "rank": 3
+  },
+  {
+   "h": "Disney Worlds Collide Brings Descendants, ZOMBIES and Camp Rock to Barclays Center Tonight",
+   "sum": "Tonight's 7 p.m. arena show combines hits from three Disney franchises, with Camp Rock joining for the first time.",
+   "outlet": "New York City Scream",
+   "url": "?story=disney-worlds-collide-barclays-2026",
+   "story": "disney-worlds-collide-barclays-2026",
+   "box": true,
+   "town": "Brooklyn",
+   "date": "2026-11-07",
+   "rank": 2
+  },
+  {
+   "h": "Gustavo Dudamel Leads the Philharmonic in Tosca at Carnegie Hall",
+   "sum": "Two concert performances of Puccini's Tosca, November 13 and 15, mark Dudamel's first Philharmonic podium at Carnegie Hall.",
+   "outlet": "New York City Scream",
+   "url": "?story=dudamel-tosca-carnegie-hall-2026",
+   "story": "dudamel-tosca-carnegie-hall-2026",
+   "town": "Midtown",
+   "date": "2026-11-07",
    "rank": 3
   }
  ]
