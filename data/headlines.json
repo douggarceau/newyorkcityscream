@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-07T07:20:00-05:00",
+ "asof": "2026-11-08T07:30:00-05:00",
  "items": [
   {
    "h": "Sonya Yoncheva Stars in Cherubini's Medea at the Met Opera",
@@ -27,16 +27,6 @@
    "outlet": "New York City Scream",
    "url": "?story=seven-guitars-lincoln-center-newhouse-2026",
    "story": "seven-guitars-lincoln-center-newhouse-2026",
-   "town": "Lincoln Center",
-   "date": "2026-11-05",
-   "rank": 3
-  },
-  {
-   "h": "Wynton Marsalis Leads Swinging Cities at Jazz at Lincoln Center",
-   "sum": "Friday and Saturday, November 6 and 7 at 7:30 PM in the Rose Theater, Broadway at West 60th Street.",
-   "outlet": "New York City Scream",
-   "url": "?story=marsalis-swinging-cities-rose-theater-2026",
-   "story": "marsalis-swinging-cities-rose-theater-2026",
    "town": "Lincoln Center",
    "date": "2026-11-05",
    "rank": 3
@@ -91,16 +81,6 @@
    "rank": 6
   },
   {
-   "h": "Harlem Gospel Choir sings at the Blue Note on a Sunday",
-   "sum": "A gospel afternoon in Greenwich Village with the choir headlining, doors at 1:30 pm.",
-   "outlet": "New York City Scream",
-   "url": "?story=harlem-gospel-choir-blue-note",
-   "story": "harlem-gospel-choir-blue-note",
-   "town": "Greenwich Village",
-   "date": "2026-10-31",
-   "rank": 8
-  },
-  {
    "h": "Salcedo's Latin Soul Sunday Afternoon at Kupferberg Center in Flushing",
    "sum": "Sunday, November 15 at 3 PM in LeFrak Concert Hall, Kupferberg Center for the Arts, 65-30 Kissena Boulevard, Flushing.",
    "outlet": "New York City Scream",
@@ -121,17 +101,6 @@
    "rank": 3
   },
   {
-   "h": "Disney Worlds Collide Brings Descendants, ZOMBIES and Camp Rock to Barclays Center Tonight",
-   "sum": "Tonight's 7 p.m. arena show combines hits from three Disney franchises, with Camp Rock joining for the first time.",
-   "outlet": "New York City Scream",
-   "url": "?story=disney-worlds-collide-barclays-2026",
-   "story": "disney-worlds-collide-barclays-2026",
-   "box": true,
-   "town": "Brooklyn",
-   "date": "2026-11-07",
-   "rank": 2
-  },
-  {
    "h": "Gustavo Dudamel Leads the Philharmonic in Tosca at Carnegie Hall",
    "sum": "Two concert performances of Puccini's Tosca, November 13 and 15, mark Dudamel's first Philharmonic podium at Carnegie Hall.",
    "outlet": "New York City Scream",
@@ -140,6 +109,78 @@
    "town": "Midtown",
    "date": "2026-11-07",
    "rank": 3
+  },
+  {
+   "h": "Holiday Season Arrives: The 100th Macy's Parade, the Tree and the Rockettes",
+   "sum": "The Rockefeller Center tree arrived November 7, and the Rockettes are dancing at Radio City for the holidays.",
+   "outlet": "New York City Scream",
+   "url": "?story=macys-parade-100th-rockefeller-tree-christmas-spectacular",
+   "story": "macys-parade-100th-rockefeller-tree-christmas-spectacular",
+   "lead": true,
+   "town": "Midtown",
+   "date": "2026-11-08",
+   "rank": 2
+  },
+  {
+   "h": "Six the Musical Plays Broadway Tonight at 7 PM",
+   "sum": "The Henry VIII musical takes the Lena Horne Theatre stage at 7 PM on Sunday.",
+   "outlet": "New York City Scream",
+   "url": "?story=six-the-musical-lena-horne-theatre-tonight-2026",
+   "story": "six-the-musical-lena-horne-theatre-tonight-2026",
+   "box": true,
+   "town": "Midtown",
+   "date": "2026-11-08",
+   "rank": 2
+  },
+  {
+   "h": "Today and Tonight: Carnegie, the Blue Note and Six",
+   "sum": "Three arts picks for Sunday, from a 1 PM orchestra concert to a 7 PM Broadway show.",
+   "outlet": "New York City Scream",
+   "url": "?story=today-and-tonight-2026-11-08",
+   "story": "today-and-tonight-2026-11-08",
+   "town": "All five boroughs",
+   "date": "2026-11-08",
+   "rank": 1
+  },
+  {
+   "h": "Lincoln in the Bardo Closes at the Met on November 14",
+   "sum": "Missy Mazzoli's opera after George Saunders' novel has its last performances through November 14.",
+   "outlet": "New York City Scream",
+   "url": "?story=lincoln-in-the-bardo-met-opera-closing-2026",
+   "story": "lincoln-in-the-bardo-met-opera-closing-2026",
+   "town": "Lincoln Center",
+   "date": "2026-11-08",
+   "rank": 3
+  },
+  {
+   "h": "JACK Quartet Plays Feldman at The Met Cloisters",
+   "sum": "A Saturday afternoon of Morton Feldman's string music in the chapel at The Met Cloisters.",
+   "outlet": "New York City Scream",
+   "url": "?story=met-feldman-jack-quartet-cloisters-2026",
+   "story": "met-feldman-jack-quartet-cloisters-2026",
+   "town": "Washington Heights",
+   "date": "2026-11-08",
+   "rank": 3
+  },
+  {
+   "h": "Rihab Chaieb Sings Arabic Poetry at Carnegie",
+   "sum": "A November 18 recital in Weill Recital Hall includes a US premiere.",
+   "outlet": "New York City Scream",
+   "url": "?story=rihab-chaieb-weill-recital-hall-2026",
+   "story": "rihab-chaieb-weill-recital-hall-2026",
+   "town": "Midtown",
+   "date": "2026-11-08",
+   "rank": 4
+  },
+  {
+   "h": "Black Belt Eagle Scout Plays the Met Auditorium",
+   "sum": "Tuesday, November 17 at 7 PM, with Joe Rainey, in the Met's concert and lecture hall.",
+   "outlet": "New York City Scream",
+   "url": "?story=black-belt-eagle-scout-met-auditorium-2026",
+   "story": "black-belt-eagle-scout-met-auditorium-2026",
+   "town": "Upper East Side",
+   "date": "2026-11-08",
+   "rank": 6
   }
  ]
 }
