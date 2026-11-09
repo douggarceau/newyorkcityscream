@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-08T07:30:00-05:00",
+ "asof": "2026-11-09T07:25:00-05:00",
  "items": [
   {
    "h": "Sonya Yoncheva Stars in Cherubini's Medea at the Met Opera",
@@ -9,6 +9,28 @@
    "story": "met-opera-medea-yoncheva-mcvicar",
    "town": "Lincoln Center",
    "date": "2026-11-04",
+   "rank": 2
+  },
+  {
+   "h": "Holiday Season Arrives: The 100th Macy's Parade, the Tree and the Rockettes",
+   "sum": "The Rockefeller Center tree arrives Nov. 7, the Christmas Spectacular is underway at Radio City, and Macy's marches for the 100th time on Thanksgiving morning.",
+   "outlet": "New York City Scream",
+   "url": "?story=macys-parade-100th-rockefeller-tree-christmas-spectacular",
+   "story": "macys-parade-100th-rockefeller-tree-christmas-spectacular",
+   "town": "Midtown",
+   "date": "2026-11-09",
+   "rank": 2,
+   "lead": true
+  },
+  {
+   "h": "Puccini's Tosca opens at the Met tonight",
+   "sum": "Curtain rises at 7:30 PM at the Metropolitan Opera House at Lincoln Center for one of Puccini's best-loved operas.",
+   "outlet": "New York City Scream",
+   "url": "?story=met-opera-tosca-tonight-2026-11-09",
+   "story": "met-opera-tosca-tonight-2026-11-09",
+   "box": true,
+   "town": "Lincoln Center",
+   "date": "2026-11-09",
    "rank": 2
   },
   {
@@ -32,6 +54,66 @@
    "rank": 3
   },
   {
+   "h": "Thomas Dunford and Léa Desandre: Baroque Arias at Weill Recital Hall",
+   "sum": "Tuesday, November 17, doors 7:30 PM, Weill Recital Hall at Carnegie Hall, Midtown.",
+   "outlet": "New York City Scream",
+   "url": "?story=thomas-dunford-leas-desandre-weill-recital-hall-2026",
+   "story": "thomas-dunford-leas-desandre-weill-recital-hall-2026",
+   "town": "Midtown",
+   "date": "2026-11-06",
+   "rank": 3
+  },
+  {
+   "h": "Gustavo Dudamel Leads the Philharmonic in Tosca at Carnegie Hall",
+   "sum": "Two concert performances of Puccini's Tosca, November 13 and 15, mark Dudamel's first Philharmonic podium at Carnegie Hall.",
+   "outlet": "New York City Scream",
+   "url": "?story=dudamel-tosca-carnegie-hall-2026",
+   "story": "dudamel-tosca-carnegie-hall-2026",
+   "town": "Midtown",
+   "date": "2026-11-07",
+   "rank": 3
+  },
+  {
+   "h": "Lincoln in the Bardo Closes at the Met on November 14",
+   "sum": "Missy Mazzoli's opera after George Saunders' novel has its last performances through November 14.",
+   "outlet": "New York City Scream",
+   "url": "?story=lincoln-in-the-bardo-met-opera-closing-2026",
+   "story": "lincoln-in-the-bardo-met-opera-closing-2026",
+   "town": "Lincoln Center",
+   "date": "2026-11-08",
+   "rank": 3
+  },
+  {
+   "h": "JACK Quartet Plays Feldman at The Met Cloisters",
+   "sum": "A Saturday afternoon of Morton Feldman's string music in the chapel at The Met Cloisters.",
+   "outlet": "New York City Scream",
+   "url": "?story=met-feldman-jack-quartet-cloisters-2026",
+   "story": "met-feldman-jack-quartet-cloisters-2026",
+   "town": "Washington Heights",
+   "date": "2026-11-08",
+   "rank": 3
+  },
+  {
+   "h": "Siena bronzes fill the Frick through January 18",
+   "sum": "Nearly forty Sienese works, including pieces by Donatello, form the Frick's first survey of Siena's bronze sculpture.",
+   "outlet": "New York City Scream",
+   "url": "?story=siena-the-art-of-bronze-frick-2026",
+   "story": "siena-the-art-of-bronze-frick-2026",
+   "town": "Upper East Side",
+   "date": "2026-11-09",
+   "rank": 3
+  },
+  {
+   "h": "Iris van Herpen's Sculpting the Senses at the Brooklyn Museum",
+   "sum": "More than 140 couture works and natural history specimens fill the galleries through December 6 in the designer's North American debut.",
+   "outlet": "New York City Scream",
+   "url": "?story=iris-van-herpen-sculpting-the-senses-brooklyn-2026",
+   "story": "iris-van-herpen-sculpting-the-senses-brooklyn-2026",
+   "town": "Prospect Heights",
+   "date": "2026-11-09",
+   "rank": 3
+  },
+  {
    "h": "Cellist Santiago Cañón-Valencia makes his Carnegie Hall debut",
    "sum": "A November 10 recital in Weill Recital Hall with pianist Victor Santiago Asunción.",
    "outlet": "New York City Scream",
@@ -42,13 +124,22 @@
    "rank": 4
   },
   {
-   "h": "The Senior Concert Orchestra of New York Plays Carnegie Hall Sunday",
-   "sum": "Sunday, November 8 at 1 PM in Stern Auditorium at Carnegie Hall, 881 Seventh Avenue.",
+   "h": "New York Comedy Festival brings 100 shows to the five boroughs",
+   "sum": "Over 100 shows by more than 200 comedians run November 6 through 15, with headliners including Marc Maron and Ilana Glazer.",
+   "outlet": "Time Out New York",
+   "url": "https://www.timeout.com/newyork/things-to-do/things-to-do-in-nyc-this-weekend",
+   "town": "All five boroughs",
+   "date": "2026-11-06",
+   "rank": 4
+  },
+  {
+   "h": "Rihab Chaieb Sings Arabic Poetry at Carnegie",
+   "sum": "A November 18 recital in Weill Recital Hall includes a US premiere.",
    "outlet": "New York City Scream",
-   "url": "?story=senior-concert-orchestra-of-new-york-carnegie-2026",
-   "story": "senior-concert-orchestra-of-new-york-carnegie-2026",
+   "url": "?story=rihab-chaieb-weill-recital-hall-2026",
+   "story": "rihab-chaieb-weill-recital-hall-2026",
    "town": "Midtown",
-   "date": "2026-11-05",
+   "date": "2026-11-08",
    "rank": 4
   },
   {
@@ -58,6 +149,15 @@
    "url": "https://playbill.com/article/mastervoices-to-present-celebrating-handel-at-carnegie-hall",
    "town": "Midtown",
    "date": "2026-11-02",
+   "rank": 5
+  },
+  {
+   "h": "Rockefeller Center's 2026 tree arrives from West Edmeston",
+   "sum": "The Norway spruce reached Midtown on November 7, ahead of the December 2 lighting ceremony.",
+   "outlet": "NY1",
+   "url": "https://ny1.com/nyc/all-boroughs/news/2026/10/26/rockefeller-center-2026-christmas-tree-new-york",
+   "town": "Midtown",
+   "date": "2026-11-07",
    "rank": 5
   },
   {
@@ -81,98 +181,6 @@
    "rank": 6
   },
   {
-   "h": "Salcedo's Latin Soul Sunday Afternoon at Kupferberg Center in Flushing",
-   "sum": "Sunday, November 15 at 3 PM in LeFrak Concert Hall, Kupferberg Center for the Arts, 65-30 Kissena Boulevard, Flushing.",
-   "outlet": "New York City Scream",
-   "url": "?story=salcedos-latin-soul-kupferberg-lefrak-2026",
-   "story": "salcedos-latin-soul-kupferberg-lefrak-2026",
-   "town": "Flushing",
-   "date": "2026-11-05",
-   "rank": 8
-  },
-  {
-   "h": "Thomas Dunford and Léa Desandre: Baroque Arias at Weill Recital Hall",
-   "sum": "Tuesday, November 17, doors 7:30 PM, Weill Recital Hall at Carnegie Hall, Midtown.",
-   "outlet": "New York City Scream",
-   "url": "?story=thomas-dunford-leas-desandre-weill-recital-hall-2026",
-   "story": "thomas-dunford-leas-desandre-weill-recital-hall-2026",
-   "town": "Midtown",
-   "date": "2026-11-06",
-   "rank": 3
-  },
-  {
-   "h": "Gustavo Dudamel Leads the Philharmonic in Tosca at Carnegie Hall",
-   "sum": "Two concert performances of Puccini's Tosca, November 13 and 15, mark Dudamel's first Philharmonic podium at Carnegie Hall.",
-   "outlet": "New York City Scream",
-   "url": "?story=dudamel-tosca-carnegie-hall-2026",
-   "story": "dudamel-tosca-carnegie-hall-2026",
-   "town": "Midtown",
-   "date": "2026-11-07",
-   "rank": 3
-  },
-  {
-   "h": "Holiday Season Arrives: The 100th Macy's Parade, the Tree and the Rockettes",
-   "sum": "The Rockefeller Center tree arrived November 7, and the Rockettes are dancing at Radio City for the holidays.",
-   "outlet": "New York City Scream",
-   "url": "?story=macys-parade-100th-rockefeller-tree-christmas-spectacular",
-   "story": "macys-parade-100th-rockefeller-tree-christmas-spectacular",
-   "lead": true,
-   "town": "Midtown",
-   "date": "2026-11-08",
-   "rank": 2
-  },
-  {
-   "h": "Six the Musical Plays Broadway Tonight at 7 PM",
-   "sum": "The Henry VIII musical takes the Lena Horne Theatre stage at 7 PM on Sunday.",
-   "outlet": "New York City Scream",
-   "url": "?story=six-the-musical-lena-horne-theatre-tonight-2026",
-   "story": "six-the-musical-lena-horne-theatre-tonight-2026",
-   "box": true,
-   "town": "Midtown",
-   "date": "2026-11-08",
-   "rank": 2
-  },
-  {
-   "h": "Today and Tonight: Carnegie, the Blue Note and Six",
-   "sum": "Three arts picks for Sunday, from a 1 PM orchestra concert to a 7 PM Broadway show.",
-   "outlet": "New York City Scream",
-   "url": "?story=today-and-tonight-2026-11-08",
-   "story": "today-and-tonight-2026-11-08",
-   "town": "All five boroughs",
-   "date": "2026-11-08",
-   "rank": 1
-  },
-  {
-   "h": "Lincoln in the Bardo Closes at the Met on November 14",
-   "sum": "Missy Mazzoli's opera after George Saunders' novel has its last performances through November 14.",
-   "outlet": "New York City Scream",
-   "url": "?story=lincoln-in-the-bardo-met-opera-closing-2026",
-   "story": "lincoln-in-the-bardo-met-opera-closing-2026",
-   "town": "Lincoln Center",
-   "date": "2026-11-08",
-   "rank": 3
-  },
-  {
-   "h": "JACK Quartet Plays Feldman at The Met Cloisters",
-   "sum": "A Saturday afternoon of Morton Feldman's string music in the chapel at The Met Cloisters.",
-   "outlet": "New York City Scream",
-   "url": "?story=met-feldman-jack-quartet-cloisters-2026",
-   "story": "met-feldman-jack-quartet-cloisters-2026",
-   "town": "Washington Heights",
-   "date": "2026-11-08",
-   "rank": 3
-  },
-  {
-   "h": "Rihab Chaieb Sings Arabic Poetry at Carnegie",
-   "sum": "A November 18 recital in Weill Recital Hall includes a US premiere.",
-   "outlet": "New York City Scream",
-   "url": "?story=rihab-chaieb-weill-recital-hall-2026",
-   "story": "rihab-chaieb-weill-recital-hall-2026",
-   "town": "Midtown",
-   "date": "2026-11-08",
-   "rank": 4
-  },
-  {
    "h": "Black Belt Eagle Scout Plays the Met Auditorium",
    "sum": "Tuesday, November 17 at 7 PM, with Joe Rainey, in the Met's concert and lecture hall.",
    "outlet": "New York City Scream",
@@ -181,6 +189,16 @@
    "town": "Upper East Side",
    "date": "2026-11-08",
    "rank": 6
+  },
+  {
+   "h": "Salcedo's Latin Soul Sunday Afternoon at Kupferberg Center in Flushing",
+   "sum": "Sunday, November 15 at 3 PM in LeFrak Concert Hall, Kupferberg Center for the Arts, 65-30 Kissena Boulevard, Flushing.",
+   "outlet": "New York City Scream",
+   "url": "?story=salcedos-latin-soul-kupferberg-lefrak-2026",
+   "story": "salcedos-latin-soul-kupferberg-lefrak-2026",
+   "town": "Flushing",
+   "date": "2026-11-05",
+   "rank": 8
   }
  ]
 }
