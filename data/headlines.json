@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-09T07:25:00-05:00",
+ "asof": "2026-11-10T07:30:00-05:00",
  "items": [
   {
    "h": "Sonya Yoncheva Stars in Cherubini's Medea at the Met Opera",
@@ -18,19 +18,19 @@
    "url": "?story=macys-parade-100th-rockefeller-tree-christmas-spectacular",
    "story": "macys-parade-100th-rockefeller-tree-christmas-spectacular",
    "town": "Midtown",
-   "date": "2026-11-09",
+   "date": "2026-11-10",
    "rank": 2,
    "lead": true
   },
   {
-   "h": "Puccini's Tosca opens at the Met tonight",
-   "sum": "Curtain rises at 7:30 PM at the Metropolitan Opera House at Lincoln Center for one of Puccini's best-loved operas.",
+   "h": "Stevie Wonder brings Songs in the Key of Life to the Garden",
+   "sum": "The Madison Square Garden show on Thursday, Nov. 19 marks 50 years of the landmark album.",
    "outlet": "New York City Scream",
-   "url": "?story=met-opera-tosca-tonight-2026-11-09",
-   "story": "met-opera-tosca-tonight-2026-11-09",
+   "url": "?story=stevie-wonder-songs-in-the-key-of-life-msg",
+   "story": "stevie-wonder-songs-in-the-key-of-life-msg",
    "box": true,
-   "town": "Lincoln Center",
-   "date": "2026-11-09",
+   "town": "Midtown – Penn Station",
+   "date": "2026-11-10",
    "rank": 2
   },
   {
@@ -44,7 +44,7 @@
    "rank": 3
   },
   {
-   "h": "Seven Guitars Begins Previews at Lincoln Center Theater Tonight",
+   "h": "Seven Guitars Begins Previews at Lincoln Center Theater",
    "sum": "Previews begin Thursday, November 5 at the Mitzi E. Newhouse Theater, with opening night on Monday, November 23.",
    "outlet": "New York City Scream",
    "url": "?story=seven-guitars-lincoln-center-newhouse-2026",
@@ -114,6 +114,26 @@
    "rank": 3
   },
   {
+   "h": "MasterVoices celebrates Handel at Carnegie Hall on Dec. 15",
+   "sum": "Ted Sperling leads the MasterVoices Chorus and New York Baroque in a holiday Handel program.",
+   "outlet": "New York City Scream",
+   "url": "?story=mastervoices-celebrating-handel-carnegie-2026",
+   "story": "mastervoices-celebrating-handel-carnegie-2026",
+   "town": "Midtown",
+   "date": "2026-11-10",
+   "rank": 3
+  },
+  {
+   "h": "Galileo begins Broadway previews at the Shubert Theatre",
+   "sum": "Raúl Esparza stars in the new musical about Galileo Galilei, which opens Dec. 6.",
+   "outlet": "New York City Scream",
+   "url": "?story=galileo-broadway-shubert-2026",
+   "story": "galileo-broadway-shubert-2026",
+   "town": "Theater District",
+   "date": "2026-11-10",
+   "rank": 3
+  },
+  {
    "h": "Cellist Santiago Cañón-Valencia makes his Carnegie Hall debut",
    "sum": "A November 10 recital in Weill Recital Hall with pianist Victor Santiago Asunción.",
    "outlet": "New York City Scream",
@@ -143,13 +163,14 @@
    "rank": 4
   },
   {
-   "h": "MasterVoices brings Handel to Carnegie Hall on December 15",
-   "sum": "Excerpts from Handel's operas and oratorios with Erin Morley and Jakub Józef Orliński.",
-   "outlet": "Playbill",
-   "url": "https://playbill.com/article/mastervoices-to-present-celebrating-handel-at-carnegie-hall",
+   "h": "Apollo's Fire and Jeanine De Bique at Zankel Hall",
+   "sum": "A Baroque program led by Jeannette Sorrell on Sunday, Nov. 15.",
+   "outlet": "New York City Scream",
+   "url": "?story=apollos-fire-jeanine-de-bique-zankel-2026",
+   "story": "apollos-fire-jeanine-de-bique-zankel-2026",
    "town": "Midtown",
-   "date": "2026-11-02",
-   "rank": 5
+   "date": "2026-11-10",
+   "rank": 4
   },
   {
    "h": "Rockefeller Center's 2026 tree arrives from West Edmeston",
