@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-10T07:30:00-05:00",
+ "asof": "2026-11-11T07:21:00-05:00",
  "items": [
   {
    "h": "Sonya Yoncheva Stars in Cherubini's Medea at the Met Opera",
@@ -18,20 +18,20 @@
    "url": "?story=macys-parade-100th-rockefeller-tree-christmas-spectacular",
    "story": "macys-parade-100th-rockefeller-tree-christmas-spectacular",
    "town": "Midtown",
-   "date": "2026-11-10",
+   "date": "2026-11-11",
    "rank": 2,
    "lead": true
   },
   {
-   "h": "Stevie Wonder brings Songs in the Key of Life to the Garden",
-   "sum": "The Madison Square Garden show on Thursday, Nov. 19 marks 50 years of the landmark album.",
+   "h": "Stevie Wonder Brings 'Songs in the Key of Life' to the Garden",
+   "sum": "Stevie Wonder marks 50 years of his landmark double album with a Madison Square Garden show on Thursday, Nov. 19.",
    "outlet": "New York City Scream",
    "url": "?story=stevie-wonder-songs-in-the-key-of-life-msg",
    "story": "stevie-wonder-songs-in-the-key-of-life-msg",
-   "box": true,
-   "town": "Midtown – Penn Station",
-   "date": "2026-11-10",
-   "rank": 2
+   "town": "Midtown",
+   "date": "2026-11-11",
+   "rank": 2,
+   "box": true
   },
   {
    "h": "Yo-Yo Ma and Rhiannon Giddens lead Silkroad Ensemble at Carnegie",
@@ -132,16 +132,6 @@
    "town": "Theater District",
    "date": "2026-11-10",
    "rank": 3
-  },
-  {
-   "h": "Cellist Santiago Cañón-Valencia makes his Carnegie Hall debut",
-   "sum": "A November 10 recital in Weill Recital Hall with pianist Victor Santiago Asunción.",
-   "outlet": "New York City Scream",
-   "url": "?story=santiago-canon-valencia-carnegie-debut",
-   "story": "santiago-canon-valencia-carnegie-debut",
-   "town": "Midtown",
-   "date": "2026-11-03",
-   "rank": 4
   },
   {
    "h": "New York Comedy Festival brings 100 shows to the five boroughs",
