@@ -1,27 +1,6 @@
 {
- "asof": "2026-11-11T07:21:00-05:00",
+ "asof": "2026-11-12T07:33:53-05:00",
  "items": [
-  {
-   "h": "Sonya Yoncheva Stars in Cherubini's Medea at the Met Opera",
-   "sum": "Wednesday, November 4 at 7:30 PM at the Metropolitan Opera House, Lincoln Center, with performances through November 21.",
-   "outlet": "New York City Scream",
-   "url": "?story=met-opera-medea-yoncheva-mcvicar",
-   "story": "met-opera-medea-yoncheva-mcvicar",
-   "town": "Lincoln Center",
-   "date": "2026-11-04",
-   "rank": 2
-  },
-  {
-   "h": "Holiday Season Arrives: The 100th Macy's Parade, the Tree and the Rockettes",
-   "sum": "The Rockefeller Center tree arrives Nov. 7, the Christmas Spectacular is underway at Radio City, and Macy's marches for the 100th time on Thanksgiving morning.",
-   "outlet": "New York City Scream",
-   "url": "?story=macys-parade-100th-rockefeller-tree-christmas-spectacular",
-   "story": "macys-parade-100th-rockefeller-tree-christmas-spectacular",
-   "town": "Midtown",
-   "date": "2026-11-11",
-   "rank": 2,
-   "lead": true
-  },
   {
    "h": "Stevie Wonder Brings 'Songs in the Key of Life' to the Garden",
    "sum": "Stevie Wonder marks 50 years of his landmark double album with a Madison Square Garden show on Thursday, Nov. 19.",
@@ -30,18 +9,7 @@
    "story": "stevie-wonder-songs-in-the-key-of-life-msg",
    "town": "Midtown",
    "date": "2026-11-11",
-   "rank": 2,
-   "box": true
-  },
-  {
-   "h": "Yo-Yo Ma and Rhiannon Giddens lead Silkroad Ensemble at Carnegie",
-   "sum": "A 25th-anniversary concert at Stern Auditorium on Saturday, November 14.",
-   "outlet": "New York City Scream",
-   "url": "?story=silkroad-ensemble-yo-yo-ma-rhiannon-giddens-carnegie",
-   "story": "silkroad-ensemble-yo-yo-ma-rhiannon-giddens-carnegie",
-   "town": "Midtown",
-   "date": "2026-11-04",
-   "rank": 3
+   "rank": 2
   },
   {
    "h": "Seven Guitars Begins Previews at Lincoln Center Theater",
@@ -172,16 +140,6 @@
    "rank": 5
   },
   {
-   "h": "Jesse Cook plays Adler Hall at the Ethical Culture Society",
-   "sum": "A Friday evening concert on November 13 on the Upper West Side.",
-   "outlet": "New York City Scream",
-   "url": "?story=jesse-cook-adler-hall-ethical-culture",
-   "story": "jesse-cook-adler-hall-ethical-culture",
-   "town": "Upper West Side",
-   "date": "2026-11-03",
-   "rank": 6
-  },
-  {
    "h": "Pianist Cristiana Pegoraro Plays Weill Recital Hall on November 12",
    "sum": "Thursday, November 12 at 8 PM in Weill Recital Hall at Carnegie Hall, presented by LKI Artists International.",
    "outlet": "New York City Scream",
@@ -209,6 +167,88 @@
    "story": "salcedos-latin-soul-kupferberg-lefrak-2026",
    "town": "Flushing",
    "date": "2026-11-05",
+   "rank": 8
+  },
+  {
+   "h": "Holiday Season Arrives: The 100th Macy's Parade, the Tree and the Rockettes",
+   "sum": "The Rockefeller Center tree arrives Nov. 7, the Christmas Spectacular is underway at Radio City, and Macy's marches for the 100th time on Thanksgiving morning.",
+   "outlet": "New York City Scream",
+   "url": "?story=macys-parade-100th-rockefeller-tree-christmas-spectacular",
+   "story": "macys-parade-100th-rockefeller-tree-christmas-spectacular",
+   "lead": true,
+   "town": "Midtown",
+   "date": "2026-11-12",
+   "rank": 2
+  },
+  {
+   "h": "Dave Matthews Band Back at the Garden for Two Nights",
+   "sum": "Dave Matthews Band plays Madison Square Garden Nov. 12 and 13 on its Fall Tour 2026, with a different setlist each night.",
+   "outlet": "New York City Scream",
+   "url": "?story=dave-matthews-band-madison-square-garden-november",
+   "story": "dave-matthews-band-madison-square-garden-november",
+   "box": true,
+   "town": "Midtown",
+   "date": "2026-11-12",
+   "rank": 2
+  },
+  {
+   "h": "New York Today and Tonight: Dave Matthews at MSG, Piano at Carnegie",
+   "sum": "Thursday night brings Dave Matthews Band to Madison Square Garden at 7:30 PM and pianist Cristiana Pegoraro to Weill Recital Hall at 8 PM.",
+   "outlet": "New York City Scream",
+   "url": "?story=today-and-tonight-2026-11-12",
+   "story": "today-and-tonight-2026-11-12",
+   "town": "All five boroughs",
+   "date": "2026-11-12",
+   "rank": 1
+  },
+  {
+   "h": "Frank Huang Plays Mendelssohn With the New York Philharmonic",
+   "sum": "Thursday, November 19 at 7:30 PM at David Geffen Hall in Lincoln Center, with further concerts on November 20 and 21.",
+   "outlet": "New York City Scream",
+   "url": "?story=nyphil-frank-huang-mendelssohn-geffen-2026",
+   "story": "nyphil-frank-huang-mendelssohn-geffen-2026",
+   "town": "Upper West Side",
+   "date": "2026-11-12",
+   "rank": 3
+  },
+  {
+   "h": "Morton Feldman's For Philip Guston Fills the Met's Lehman Wing",
+   "sum": "Friday, November 13 from 3 to 7:30 PM in the Robert Lehman Wing at the Met on Fifth Avenue in the Upper East Side.",
+   "outlet": "New York City Scream",
+   "url": "?story=met-feldman-for-philip-guston-lehman-2026",
+   "story": "met-feldman-for-philip-guston-lehman-2026",
+   "town": "Upper East Side",
+   "date": "2026-11-12",
+   "rank": 3
+  },
+  {
+   "h": "Glykeria and Kostas Ageris Sing in Manhattan on November 14",
+   "sum": "Saturday, November 14 at 9 PM in the Grand Ballroom at Manhattan Center in Midtown.",
+   "outlet": "New York City Scream",
+   "url": "?story=glykeria-kostas-ageris-manhattan-center-2026",
+   "story": "glykeria-kostas-ageris-manhattan-center-2026",
+   "town": "Midtown",
+   "date": "2026-11-12",
+   "rank": 4
+  },
+  {
+   "h": "Harlem Gospel Choir Sings at the Blue Note on Sunday, November 22",
+   "sum": "Sunday, November 22 at 1:30 PM at the Blue Note jazz club in Greenwich Village.",
+   "outlet": "New York City Scream",
+   "url": "?story=harlem-gospel-choir-blue-note-2026",
+   "story": "harlem-gospel-choir-blue-note-2026",
+   "town": "Greenwich Village",
+   "date": "2026-11-12",
+   "rank": 6
+  },
+  {
+   "h": "Sitarist Rishab Rikhiram Sharma Plays Carnegie Hall on November 21",
+   "sum": "Saturday, November 21 at Stern Auditorium in Carnegie Hall, Midtown.",
+   "outlet": "New York City Scream",
+   "url": "?story=rishab-rikhiram-sharma-carnegie-stern-2026",
+   "story": "rishab-rikhiram-sharma-carnegie-stern-2026",
+   "town": "Midtown",
+   "date": "2026-11-12",
    "rank": 8
   }
  ]
