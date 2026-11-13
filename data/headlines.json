@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-12T07:33:53-05:00",
+ "asof": "2026-11-13T07:20:00-05:00",
  "items": [
   {
    "h": "Stevie Wonder Brings 'Songs in the Key of Life' to the Garden",
@@ -10,16 +10,6 @@
    "town": "Midtown",
    "date": "2026-11-11",
    "rank": 2
-  },
-  {
-   "h": "Seven Guitars Begins Previews at Lincoln Center Theater",
-   "sum": "Previews begin Thursday, November 5 at the Mitzi E. Newhouse Theater, with opening night on Monday, November 23.",
-   "outlet": "New York City Scream",
-   "url": "?story=seven-guitars-lincoln-center-newhouse-2026",
-   "story": "seven-guitars-lincoln-center-newhouse-2026",
-   "town": "Lincoln Center",
-   "date": "2026-11-05",
-   "rank": 3
   },
   {
    "h": "Thomas Dunford and Léa Desandre: Baroque Arias at Weill Recital Hall",
@@ -140,16 +130,6 @@
    "rank": 5
   },
   {
-   "h": "Pianist Cristiana Pegoraro Plays Weill Recital Hall on November 12",
-   "sum": "Thursday, November 12 at 8 PM in Weill Recital Hall at Carnegie Hall, presented by LKI Artists International.",
-   "outlet": "New York City Scream",
-   "url": "?story=cristiana-pegoraro-weill-recital-hall-2026",
-   "story": "cristiana-pegoraro-weill-recital-hall-2026",
-   "town": "Midtown",
-   "date": "2026-11-05",
-   "rank": 6
-  },
-  {
    "h": "Black Belt Eagle Scout Plays the Met Auditorium",
    "sum": "Tuesday, November 17 at 7 PM, with Joe Rainey, in the Met's concert and lecture hall.",
    "outlet": "New York City Scream",
@@ -160,25 +140,15 @@
    "rank": 6
   },
   {
-   "h": "Salcedo's Latin Soul Sunday Afternoon at Kupferberg Center in Flushing",
-   "sum": "Sunday, November 15 at 3 PM in LeFrak Concert Hall, Kupferberg Center for the Arts, 65-30 Kissena Boulevard, Flushing.",
-   "outlet": "New York City Scream",
-   "url": "?story=salcedos-latin-soul-kupferberg-lefrak-2026",
-   "story": "salcedos-latin-soul-kupferberg-lefrak-2026",
-   "town": "Flushing",
-   "date": "2026-11-05",
-   "rank": 8
-  },
-  {
    "h": "Holiday Season Arrives: The 100th Macy's Parade, the Tree and the Rockettes",
    "sum": "The Rockefeller Center tree arrives Nov. 7, the Christmas Spectacular is underway at Radio City, and Macy's marches for the 100th time on Thanksgiving morning.",
    "outlet": "New York City Scream",
    "url": "?story=macys-parade-100th-rockefeller-tree-christmas-spectacular",
    "story": "macys-parade-100th-rockefeller-tree-christmas-spectacular",
-   "lead": true,
    "town": "Midtown",
-   "date": "2026-11-12",
-   "rank": 2
+   "date": "2026-11-13",
+   "rank": 2,
+   "lead": true
   },
   {
    "h": "Dave Matthews Band Back at the Garden for Two Nights",
@@ -186,20 +156,10 @@
    "outlet": "New York City Scream",
    "url": "?story=dave-matthews-band-madison-square-garden-november",
    "story": "dave-matthews-band-madison-square-garden-november",
-   "box": true,
    "town": "Midtown",
-   "date": "2026-11-12",
-   "rank": 2
-  },
-  {
-   "h": "New York Today and Tonight: Dave Matthews at MSG, Piano at Carnegie",
-   "sum": "Thursday night brings Dave Matthews Band to Madison Square Garden at 7:30 PM and pianist Cristiana Pegoraro to Weill Recital Hall at 8 PM.",
-   "outlet": "New York City Scream",
-   "url": "?story=today-and-tonight-2026-11-12",
-   "story": "today-and-tonight-2026-11-12",
-   "town": "All five boroughs",
-   "date": "2026-11-12",
-   "rank": 1
+   "date": "2026-11-13",
+   "rank": 2,
+   "box": true
   },
   {
    "h": "Frank Huang Plays Mendelssohn With the New York Philharmonic",
@@ -250,6 +210,95 @@
    "town": "Midtown",
    "date": "2026-11-12",
    "rank": 8
+  },
+  {
+   "h": "Paul Taylor Dance Company Brings Three Premieres to Lincoln Center",
+   "sum": "The company's November run at the David H. Koch Theater includes new works by Lovette, Battle and Tanowitz through November 22.",
+   "outlet": "New York City Scream",
+   "url": "?story=paul-taylor-dance-company-koch-theater-2026",
+   "story": "paul-taylor-dance-company-koch-theater-2026",
+   "town": "Upper West Side",
+   "date": "2026-11-13",
+   "rank": 3
+  },
+  {
+   "h": "Saint-Saëns's Samson et Dalila Comes to the Met on December 18",
+   "sum": "The Metropolitan Opera lists the Friday evening performance at 7 p.m. in its December season.",
+   "outlet": "New York City Scream",
+   "url": "?story=samson-et-dalila-met-opera-december-2026",
+   "story": "samson-et-dalila-met-opera-december-2026",
+   "town": "Upper West Side",
+   "date": "2026-11-13",
+   "rank": 3
+  },
+  {
+   "h": "LaGuardia Students Stage Godspell Through November 22",
+   "sum": "Student performers take on the 1971 musical across five performances at the college's Performing Arts Center.",
+   "outlet": "New York City Scream",
+   "url": "?story=godspell-laguardia-queens-2026",
+   "story": "godspell-laguardia-queens-2026",
+   "town": "Queens",
+   "date": "2026-11-13",
+   "rank": 4
+  },
+  {
+   "h": "Trinity Church Pairs Marianna Martines With Mozart on November 18",
+   "sum": "A one-hour Concerts at One program brings rarely heard Vienna music to lower Manhattan.",
+   "outlet": "New York City Scream",
+   "url": "?story=trinity-mozart-martines-concerts-at-one-2026",
+   "story": "trinity-mozart-martines-concerts-at-one-2026",
+   "town": "Lower Manhattan",
+   "date": "2026-11-13",
+   "rank": 6
+  },
+  {
+   "h": "Grand Bazaar's Autumn Bazaar Brings Makers and Vintage Sunday",
+   "sum": "Vintage collectors, local makers, artists and food vendors gather on Columbus Avenue from 10 a.m. to 5 p.m.",
+   "outlet": "New York City Scream",
+   "url": "?story=grand-bazaar-autumn-bazaar-upper-west-side-2026",
+   "story": "grand-bazaar-autumn-bazaar-upper-west-side-2026",
+   "town": "Upper West Side",
+   "date": "2026-11-13",
+   "rank": 8
+  },
+  {
+   "h": "Sandbox Percussion Plays Steve Reich's Drumming at Trinity Church",
+   "sum": "Sandbox Percussion and its mentored students perform the minimalist landmark on November 19 at 6:30 p.m.",
+   "outlet": "New York City Scream",
+   "url": "?story=trinity-sandbox-percussion-reich-drumming-2026",
+   "story": "trinity-sandbox-percussion-reich-drumming-2026",
+   "town": "Lower Manhattan",
+   "date": "2026-11-13",
+   "rank": 10
+  },
+  {
+   "h": "NYBG's Holiday Train Show Opens Saturday in the Bronx",
+   "sum": "Model trains run past about 200 miniature New York landmarks through January 10 at the Enid A. Haupt Conservatory.",
+   "outlet": "New York City Scream",
+   "url": "?story=nybg-holiday-train-show-2026",
+   "story": "nybg-holiday-train-show-2026",
+   "town": "Bronx",
+   "date": "2026-11-13",
+   "rank": 12
+  },
+  {
+   "h": "Met Opera Streams Lincoln in the Bardo at No Charge Saturday",
+   "sum": "The Met streams its Lincoln in the Bardo production online Saturday at 8 p.m. as the run nears its close.",
+   "outlet": "Time Out New York",
+   "url": "https://www.timeout.com/newyork/things-to-do/things-to-do-in-nyc-this-weekend",
+   "town": "Upper West Side",
+   "date": "2026-11-11",
+   "rank": 6
+  },
+  {
+   "h": "New York Today and Tonight: Dudamel's Tosca, Dave Matthews at MSG",
+   "sum": "Friday, November 13: Gustavo Dudamel leads Tosca at 7:30 p.m. at Carnegie Hall, and Dave Matthews Band plays Madison Square Garden tonight.",
+   "outlet": "New York City Scream",
+   "url": "?story=today-and-tonight-2026-11-13",
+   "story": "today-and-tonight-2026-11-13",
+   "town": "All five boroughs",
+   "date": "2026-11-13",
+   "rank": 1
   }
  ]
 }
