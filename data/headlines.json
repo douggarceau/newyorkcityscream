@@ -1,6 +1,16 @@
 {
- "asof": "2026-11-13T07:20:00-05:00",
+ "asof": "2026-11-14T07:30:00-05:00",
  "items": [
+  {
+   "h": "New York Today and Tonight: Met Tosca, Yo-Yo Ma at Carnegie, Sting",
+   "sum": "The Met's Tosca matinee at 1 p.m., Silkroad Ensemble with Yo-Yo Ma at Carnegie Hall and Sting at Brooklyn Paramount headline a busy Saturday.",
+   "outlet": "New York City Scream",
+   "url": "?story=today-and-tonight-2026-11-14",
+   "story": "today-and-tonight-2026-11-14",
+   "town": "All five boroughs",
+   "date": "2026-11-14",
+   "rank": 1
+  },
   {
    "h": "Stevie Wonder Brings 'Songs in the Key of Life' to the Garden",
    "sum": "Stevie Wonder marks 50 years of his landmark double album with a Madison Square Garden show on Thursday, Nov. 19.",
@@ -12,14 +22,26 @@
    "rank": 2
   },
   {
-   "h": "Thomas Dunford and Léa Desandre: Baroque Arias at Weill Recital Hall",
-   "sum": "Tuesday, November 17, doors 7:30 PM, Weill Recital Hall at Carnegie Hall, Midtown.",
+   "h": "Holiday Season Arrives: The 100th Macy's Parade, the Tree and the Rockettes",
+   "sum": "The Rockefeller Center tree arrives Nov. 7, the Christmas Spectacular is underway at Radio City, and Macy's marches for the 100th time on Thanksgiving morning.",
    "outlet": "New York City Scream",
-   "url": "?story=thomas-dunford-leas-desandre-weill-recital-hall-2026",
-   "story": "thomas-dunford-leas-desandre-weill-recital-hall-2026",
+   "url": "?story=macys-parade-100th-rockefeller-tree-christmas-spectacular",
+   "story": "macys-parade-100th-rockefeller-tree-christmas-spectacular",
    "town": "Midtown",
-   "date": "2026-11-06",
-   "rank": 3
+   "date": "2026-11-14",
+   "rank": 2,
+   "lead": true
+  },
+  {
+   "h": "Sting Settles In for Eight Nights at Brooklyn Paramount",
+   "sum": "Sting brings his stripped-down STING 3.0 trio to Downtown Brooklyn for eight shows between Nov. 11 and Nov. 21.",
+   "outlet": "New York City Scream",
+   "url": "?story=sting-brooklyn-paramount-residency",
+   "story": "sting-brooklyn-paramount-residency",
+   "town": "Downtown Brooklyn",
+   "date": "2026-11-14",
+   "rank": 2,
+   "box": true
   },
   {
    "h": "Gustavo Dudamel Leads the Philharmonic in Tosca at Carnegie Hall",
@@ -92,76 +114,6 @@
    "rank": 3
   },
   {
-   "h": "New York Comedy Festival brings 100 shows to the five boroughs",
-   "sum": "Over 100 shows by more than 200 comedians run November 6 through 15, with headliners including Marc Maron and Ilana Glazer.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/things-to-do/things-to-do-in-nyc-this-weekend",
-   "town": "All five boroughs",
-   "date": "2026-11-06",
-   "rank": 4
-  },
-  {
-   "h": "Rihab Chaieb Sings Arabic Poetry at Carnegie",
-   "sum": "A November 18 recital in Weill Recital Hall includes a US premiere.",
-   "outlet": "New York City Scream",
-   "url": "?story=rihab-chaieb-weill-recital-hall-2026",
-   "story": "rihab-chaieb-weill-recital-hall-2026",
-   "town": "Midtown",
-   "date": "2026-11-08",
-   "rank": 4
-  },
-  {
-   "h": "Apollo's Fire and Jeanine De Bique at Zankel Hall",
-   "sum": "A Baroque program led by Jeannette Sorrell on Sunday, Nov. 15.",
-   "outlet": "New York City Scream",
-   "url": "?story=apollos-fire-jeanine-de-bique-zankel-2026",
-   "story": "apollos-fire-jeanine-de-bique-zankel-2026",
-   "town": "Midtown",
-   "date": "2026-11-10",
-   "rank": 4
-  },
-  {
-   "h": "Rockefeller Center's 2026 tree arrives from West Edmeston",
-   "sum": "The Norway spruce reached Midtown on November 7, ahead of the December 2 lighting ceremony.",
-   "outlet": "NY1",
-   "url": "https://ny1.com/nyc/all-boroughs/news/2026/10/26/rockefeller-center-2026-christmas-tree-new-york",
-   "town": "Midtown",
-   "date": "2026-11-07",
-   "rank": 5
-  },
-  {
-   "h": "Black Belt Eagle Scout Plays the Met Auditorium",
-   "sum": "Tuesday, November 17 at 7 PM, with Joe Rainey, in the Met's concert and lecture hall.",
-   "outlet": "New York City Scream",
-   "url": "?story=black-belt-eagle-scout-met-auditorium-2026",
-   "story": "black-belt-eagle-scout-met-auditorium-2026",
-   "town": "Upper East Side",
-   "date": "2026-11-08",
-   "rank": 6
-  },
-  {
-   "h": "Holiday Season Arrives: The 100th Macy's Parade, the Tree and the Rockettes",
-   "sum": "The Rockefeller Center tree arrives Nov. 7, the Christmas Spectacular is underway at Radio City, and Macy's marches for the 100th time on Thanksgiving morning.",
-   "outlet": "New York City Scream",
-   "url": "?story=macys-parade-100th-rockefeller-tree-christmas-spectacular",
-   "story": "macys-parade-100th-rockefeller-tree-christmas-spectacular",
-   "town": "Midtown",
-   "date": "2026-11-13",
-   "rank": 2,
-   "lead": true
-  },
-  {
-   "h": "Dave Matthews Band Back at the Garden for Two Nights",
-   "sum": "Dave Matthews Band plays Madison Square Garden Nov. 12 and 13 on its Fall Tour 2026, with a different setlist each night.",
-   "outlet": "New York City Scream",
-   "url": "?story=dave-matthews-band-madison-square-garden-november",
-   "story": "dave-matthews-band-madison-square-garden-november",
-   "town": "Midtown",
-   "date": "2026-11-13",
-   "rank": 2,
-   "box": true
-  },
-  {
    "h": "Frank Huang Plays Mendelssohn With the New York Philharmonic",
    "sum": "Thursday, November 19 at 7:30 PM at David Geffen Hall in Lincoln Center, with further concerts on November 20 and 21.",
    "outlet": "New York City Scream",
@@ -170,46 +122,6 @@
    "town": "Upper West Side",
    "date": "2026-11-12",
    "rank": 3
-  },
-  {
-   "h": "Morton Feldman's For Philip Guston Fills the Met's Lehman Wing",
-   "sum": "Friday, November 13 from 3 to 7:30 PM in the Robert Lehman Wing at the Met on Fifth Avenue in the Upper East Side.",
-   "outlet": "New York City Scream",
-   "url": "?story=met-feldman-for-philip-guston-lehman-2026",
-   "story": "met-feldman-for-philip-guston-lehman-2026",
-   "town": "Upper East Side",
-   "date": "2026-11-12",
-   "rank": 3
-  },
-  {
-   "h": "Glykeria and Kostas Ageris Sing in Manhattan on November 14",
-   "sum": "Saturday, November 14 at 9 PM in the Grand Ballroom at Manhattan Center in Midtown.",
-   "outlet": "New York City Scream",
-   "url": "?story=glykeria-kostas-ageris-manhattan-center-2026",
-   "story": "glykeria-kostas-ageris-manhattan-center-2026",
-   "town": "Midtown",
-   "date": "2026-11-12",
-   "rank": 4
-  },
-  {
-   "h": "Harlem Gospel Choir Sings at the Blue Note on Sunday, November 22",
-   "sum": "Sunday, November 22 at 1:30 PM at the Blue Note jazz club in Greenwich Village.",
-   "outlet": "New York City Scream",
-   "url": "?story=harlem-gospel-choir-blue-note-2026",
-   "story": "harlem-gospel-choir-blue-note-2026",
-   "town": "Greenwich Village",
-   "date": "2026-11-12",
-   "rank": 6
-  },
-  {
-   "h": "Sitarist Rishab Rikhiram Sharma Plays Carnegie Hall on November 21",
-   "sum": "Saturday, November 21 at Stern Auditorium in Carnegie Hall, Midtown.",
-   "outlet": "New York City Scream",
-   "url": "?story=rishab-rikhiram-sharma-carnegie-stern-2026",
-   "story": "rishab-rikhiram-sharma-carnegie-stern-2026",
-   "town": "Midtown",
-   "date": "2026-11-12",
-   "rank": 8
   },
   {
    "h": "Paul Taylor Dance Company Brings Three Premieres to Lincoln Center",
@@ -232,6 +144,55 @@
    "rank": 3
   },
   {
+   "h": "Kevin Puts's Bassoon Concerto Gets Its World Premiere at Geffen Hall",
+   "sum": "Santtu-Matias Rouvali leads the New York Philharmonic at the Wu Tsai Theater on Nov. 25, 27 and 28 and Dec. 1 at 7:30 p.m., with bassoonist Judith LeClair.",
+   "outlet": "New York City Scream",
+   "url": "?story=kevin-puts-bassoon-concerto-world-premiere-geffen-2026",
+   "story": "kevin-puts-bassoon-concerto-world-premiere-geffen-2026",
+   "town": "Upper West Side",
+   "date": "2026-11-14",
+   "rank": 3
+  },
+  {
+   "h": "Rihab Chaieb Sings Arabic Poetry at Carnegie",
+   "sum": "A November 18 recital in Weill Recital Hall includes a US premiere.",
+   "outlet": "New York City Scream",
+   "url": "?story=rihab-chaieb-weill-recital-hall-2026",
+   "story": "rihab-chaieb-weill-recital-hall-2026",
+   "town": "Midtown",
+   "date": "2026-11-08",
+   "rank": 4
+  },
+  {
+   "h": "Apollo's Fire and Jeanine De Bique at Zankel Hall",
+   "sum": "A Baroque program led by Jeannette Sorrell on Sunday, Nov. 15.",
+   "outlet": "New York City Scream",
+   "url": "?story=apollos-fire-jeanine-de-bique-zankel-2026",
+   "story": "apollos-fire-jeanine-de-bique-zankel-2026",
+   "town": "Midtown",
+   "date": "2026-11-10",
+   "rank": 4
+  },
+  {
+   "h": "Here There Are Blueberries Earns Four Stars on Broadway",
+   "sum": "Time Out's critic calls the new Broadway play a feast of strange fruit.",
+   "outlet": "Time Out New York",
+   "url": "https://www.timeout.com/newyork/news/broadway-review-here-there-are-blueberries-is-a-feast-of-strange-fruit-111026",
+   "town": "Midtown",
+   "date": "2026-11-10",
+   "rank": 4
+  },
+  {
+   "h": "Glykeria and Kostas Ageris Sing in Manhattan on November 14",
+   "sum": "Saturday, November 14 at 9 PM in the Grand Ballroom at Manhattan Center in Midtown.",
+   "outlet": "New York City Scream",
+   "url": "?story=glykeria-kostas-ageris-manhattan-center-2026",
+   "story": "glykeria-kostas-ageris-manhattan-center-2026",
+   "town": "Midtown",
+   "date": "2026-11-12",
+   "rank": 4
+  },
+  {
    "h": "LaGuardia Students Stage Godspell Through November 22",
    "sum": "Student performers take on the 1971 musical across five performances at the college's Performing Arts Center.",
    "outlet": "New York City Scream",
@@ -240,6 +201,63 @@
    "town": "Queens",
    "date": "2026-11-13",
    "rank": 4
+  },
+  {
+   "h": "Jeannette Sorrell Conducts Handel's Messiah at David Geffen Hall",
+   "sum": "Four performances from Wednesday, Dec. 9 to Sunday, Dec. 13 in the Wu Tsai Theater at Lincoln Center, with Apollo's Singers and four soloists.",
+   "outlet": "New York City Scream",
+   "url": "?story=handel-messiah-jeannette-sorrell-geffen-2026",
+   "story": "handel-messiah-jeannette-sorrell-geffen-2026",
+   "town": "Upper West Side",
+   "date": "2026-11-14",
+   "rank": 4
+  },
+  {
+   "h": "Rockefeller Center's 2026 tree arrives from West Edmeston",
+   "sum": "The Norway spruce reached Midtown on November 7, ahead of the December 2 lighting ceremony.",
+   "outlet": "NY1",
+   "url": "https://ny1.com/nyc/all-boroughs/news/2026/10/26/rockefeller-center-2026-christmas-tree-new-york",
+   "town": "Midtown",
+   "date": "2026-11-07",
+   "rank": 5
+  },
+  {
+   "h": "A 750-Person Music Venue Is Opening Inside Williamsburg's Domino Sugar Refinery",
+   "sum": "A new live-music room is opening inside the historic sugar refinery on the Williamsburg waterfront.",
+   "outlet": "Time Out New York",
+   "url": "https://www.timeout.com/newyork/news/a-750-person-music-venue-is-opening-inside-williamsburgs-domino-sugar-refinery-111326",
+   "town": "Williamsburg",
+   "date": "2026-11-13",
+   "rank": 5
+  },
+  {
+   "h": "Black Belt Eagle Scout Plays the Met Auditorium",
+   "sum": "Tuesday, November 17 at 7 PM, with Joe Rainey, in the Met's concert and lecture hall.",
+   "outlet": "New York City Scream",
+   "url": "?story=black-belt-eagle-scout-met-auditorium-2026",
+   "story": "black-belt-eagle-scout-met-auditorium-2026",
+   "town": "Upper East Side",
+   "date": "2026-11-08",
+   "rank": 6
+  },
+  {
+   "h": "Met Opera Streams Lincoln in the Bardo at No Charge Saturday",
+   "sum": "The Met streams its Lincoln in the Bardo production online Saturday at 8 p.m. as the run nears its close.",
+   "outlet": "Time Out New York",
+   "url": "https://www.timeout.com/newyork/things-to-do/things-to-do-in-nyc-this-weekend",
+   "town": "Upper West Side",
+   "date": "2026-11-11",
+   "rank": 6
+  },
+  {
+   "h": "Harlem Gospel Choir Sings at the Blue Note on Sunday, November 22",
+   "sum": "Sunday, November 22 at 1:30 PM at the Blue Note jazz club in Greenwich Village.",
+   "outlet": "New York City Scream",
+   "url": "?story=harlem-gospel-choir-blue-note-2026",
+   "story": "harlem-gospel-choir-blue-note-2026",
+   "town": "Greenwich Village",
+   "date": "2026-11-12",
+   "rank": 6
   },
   {
    "h": "Trinity Church Pairs Marianna Martines With Mozart on November 18",
@@ -252,6 +270,35 @@
    "rank": 6
   },
   {
+   "h": "The Vanguard Jazz Orchestra Brings Big-Band Jazz to Trinity Church",
+   "sum": "Sunday, Nov. 22 at 4 p.m. at Trinity Church on Broadway, part of the Jazz Icons series. The concert is sold out but can be watched online.",
+   "outlet": "New York City Scream",
+   "url": "?story=jazz-icons-vanguard-jazz-orchestra-trinity-2026",
+   "story": "jazz-icons-vanguard-jazz-orchestra-trinity-2026",
+   "town": "Lower Manhattan",
+   "date": "2026-11-14",
+   "rank": 6
+  },
+  {
+   "h": "The Union Square Holiday Market Officially Opens",
+   "sum": "The seasonal market opened in Union Square as the holiday shopping season gets underway.",
+   "outlet": "Time Out New York",
+   "url": "https://www.timeout.com/newyork/news/the-union-square-holiday-market-officially-opens-today-111226",
+   "town": "Union Square",
+   "date": "2026-11-12",
+   "rank": 7
+  },
+  {
+   "h": "Sitarist Rishab Rikhiram Sharma Plays Carnegie Hall on November 21",
+   "sum": "Saturday, November 21 at Stern Auditorium in Carnegie Hall, Midtown.",
+   "outlet": "New York City Scream",
+   "url": "?story=rishab-rikhiram-sharma-carnegie-stern-2026",
+   "story": "rishab-rikhiram-sharma-carnegie-stern-2026",
+   "town": "Midtown",
+   "date": "2026-11-12",
+   "rank": 8
+  },
+  {
    "h": "Grand Bazaar's Autumn Bazaar Brings Makers and Vintage Sunday",
    "sum": "Vintage collectors, local makers, artists and food vendors gather on Columbus Avenue from 10 a.m. to 5 p.m.",
    "outlet": "New York City Scream",
@@ -260,6 +307,15 @@
    "town": "Upper West Side",
    "date": "2026-11-13",
    "rank": 8
+  },
+  {
+   "h": "The Famous Phoenicia Diner Pops Up in Brooklyn This Weekend",
+   "sum": "The Catskills diner is setting up a weekend pop-up in Brooklyn.",
+   "outlet": "Time Out New York",
+   "url": "https://www.timeout.com/newyork/news/the-catskills-famous-phoenicia-diner-is-popping-up-in-brooklyn-this-weekend-111326",
+   "town": "Brooklyn",
+   "date": "2026-11-13",
+   "rank": 9
   },
   {
    "h": "Sandbox Percussion Plays Steve Reich's Drumming at Trinity Church",
@@ -272,6 +328,15 @@
    "rank": 10
   },
   {
+   "h": "Voodoo Doughnut Opens Next Week With a Glazed Doughnut Hot Dog",
+   "sum": "The doughnut shop opens next week with a glazed doughnut hot dog on the menu.",
+   "outlet": "Time Out New York",
+   "url": "https://www.timeout.com/newyork/news/voodoo-doughnut-opens-next-week-with-a-glazed-doughnut-hot-dog-111326",
+   "town": "New York City",
+   "date": "2026-11-13",
+   "rank": 11
+  },
+  {
    "h": "NYBG's Holiday Train Show Opens Saturday in the Bronx",
    "sum": "Model trains run past about 200 miniature New York landmarks through January 10 at the Enid A. Haupt Conservatory.",
    "outlet": "New York City Scream",
@@ -282,23 +347,13 @@
    "rank": 12
   },
   {
-   "h": "Met Opera Streams Lincoln in the Bardo at No Charge Saturday",
-   "sum": "The Met streams its Lincoln in the Bardo production online Saturday at 8 p.m. as the run nears its close.",
+   "h": "A New Mexican Restaurant Opens Downtown With a 10-Course Taco Tasting",
+   "sum": "The new downtown restaurant opens with a ten-course taco tasting menu.",
    "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/things-to-do/things-to-do-in-nyc-this-weekend",
-   "town": "Upper West Side",
-   "date": "2026-11-11",
-   "rank": 6
-  },
-  {
-   "h": "New York Today and Tonight: Dudamel's Tosca, Dave Matthews at MSG",
-   "sum": "Friday, November 13: Gustavo Dudamel leads Tosca at 7:30 p.m. at Carnegie Hall, and Dave Matthews Band plays Madison Square Garden tonight.",
-   "outlet": "New York City Scream",
-   "url": "?story=today-and-tonight-2026-11-13",
-   "story": "today-and-tonight-2026-11-13",
-   "town": "All five boroughs",
+   "url": "https://www.timeout.com/newyork/news/a-new-mexican-restaurant-with-a-10-course-taco-tasting-opens-downtown-today-111326",
+   "town": "Downtown",
    "date": "2026-11-13",
-   "rank": 1
+   "rank": 13
   }
  ]
 }
