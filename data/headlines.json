@@ -1,15 +1,77 @@
 {
- "asof": "2026-11-14T07:30:00-05:00",
+ "asof": "2026-11-15T07:33:49-05:00",
  "items": [
   {
-   "h": "New York Today and Tonight: Met Tosca, Yo-Yo Ma at Carnegie, Sting",
-   "sum": "The Met's Tosca matinee at 1 p.m., Silkroad Ensemble with Yo-Yo Ma at Carnegie Hall and Sting at Brooklyn Paramount headline a busy Saturday.",
+   "h": "New York Today and Tonight: Tosca, Latin Soul and Holiday Trains",
+   "sum": "Sunday, November 15: the holiday train show and Autumn Bazaar open at 10 a.m., Dudamel's Tosca starts at 2 p.m. at Carnegie Hall, and Salcedo's Latin Soul plays at 3 p.m. in Flushing.",
    "outlet": "New York City Scream",
-   "url": "?story=today-and-tonight-2026-11-14",
-   "story": "today-and-tonight-2026-11-14",
+   "url": "?story=today-and-tonight-2026-11-15",
+   "story": "today-and-tonight-2026-11-15",
    "town": "All five boroughs",
-   "date": "2026-11-14",
+   "date": "2026-11-15",
    "rank": 1
+  },
+  {
+   "h": "Holiday Season Arrives: The 100th Macy's Parade, the Tree and the Rockettes",
+   "sum": "The Rockefeller Center tree arrives Nov. 7, the Christmas Spectacular is underway at Radio City, and Macy's marches for the 100th time on Thanksgiving morning.",
+   "outlet": "New York City Scream",
+   "url": "?story=macys-parade-100th-rockefeller-tree-christmas-spectacular",
+   "story": "macys-parade-100th-rockefeller-tree-christmas-spectacular",
+   "town": "Midtown",
+   "date": "2026-11-15",
+   "rank": 2,
+   "lead": true
+  },
+  {
+   "h": "Gustavo Dudamel Leads the New York Philharmonic in Tosca at Carnegie Hall",
+   "sum": "Friday, November 13 at 7:30 p.m. and Sunday, November 15 at 2 p.m., Stern Auditorium at Carnegie Hall in Midtown Manhattan.",
+   "outlet": "New York City Scream",
+   "url": "?story=dudamel-tosca-carnegie-hall-2026",
+   "story": "dudamel-tosca-carnegie-hall-2026",
+   "town": "Midtown",
+   "date": "2026-11-15",
+   "rank": 2,
+   "box": true
+  },
+  {
+   "h": "Architects of Liberation at MoMA: Modernism in Western Africa",
+   "sum": "On view on the third floor of MoMA's Robert B. Menschel Galleries through January 2, 2027, with about 400 objects from seven countries.",
+   "outlet": "New York City Scream",
+   "url": "?story=moma-architects-of-liberation-2026",
+   "story": "moma-architects-of-liberation-2026",
+   "town": "Midtown",
+   "date": "2026-11-15",
+   "rank": 3
+  },
+  {
+   "h": "Handel's Messiah Returns to Carnegie Hall on Dec. 21",
+   "sum": "Monday, December 21 at 7 p.m. in Stern Auditorium at Carnegie Hall in Midtown, with soloists Jen Zetlan, Daniel Moody, Brian Giebler and Jonathan Woody.",
+   "outlet": "New York City Scream",
+   "url": "?story=osny-messiah-stern-auditorium-2026",
+   "story": "osny-messiah-stern-auditorium-2026",
+   "town": "Midtown",
+   "date": "2026-11-15",
+   "rank": 3
+  },
+  {
+   "h": "Biltmore Bazaar Brings Makers and Vintage to Track 42",
+   "sum": "Tuesday, November 17 from 8 a.m. in Grand Central Terminal's Track 42, with independent New York makers and vintage sellers.",
+   "outlet": "New York City Scream",
+   "url": "?story=biltmore-bazaar-grand-central-2026",
+   "story": "biltmore-bazaar-grand-central-2026",
+   "town": "Midtown",
+   "date": "2026-11-15",
+   "rank": 4
+  },
+  {
+   "h": "Broadway Magic Hour Brings a Family Matinee on Nov. 21",
+   "sum": "Saturday, November 21 from 2 to 3 p.m., with Jim Vines and Carl Mercurio, a one-hour family show currently listed as sold out.",
+   "outlet": "New York City Scream",
+   "url": "?story=broadway-magic-hour-family-2026",
+   "story": "broadway-magic-hour-family-2026",
+   "town": "Midtown",
+   "date": "2026-11-15",
+   "rank": 6
   },
   {
    "h": "Stevie Wonder Brings 'Songs in the Key of Life' to the Garden",
@@ -22,17 +84,6 @@
    "rank": 2
   },
   {
-   "h": "Holiday Season Arrives: The 100th Macy's Parade, the Tree and the Rockettes",
-   "sum": "The Rockefeller Center tree arrives Nov. 7, the Christmas Spectacular is underway at Radio City, and Macy's marches for the 100th time on Thanksgiving morning.",
-   "outlet": "New York City Scream",
-   "url": "?story=macys-parade-100th-rockefeller-tree-christmas-spectacular",
-   "story": "macys-parade-100th-rockefeller-tree-christmas-spectacular",
-   "town": "Midtown",
-   "date": "2026-11-14",
-   "rank": 2,
-   "lead": true
-  },
-  {
    "h": "Sting Settles In for Eight Nights at Brooklyn Paramount",
    "sum": "Sting brings his stripped-down STING 3.0 trio to Downtown Brooklyn for eight shows between Nov. 11 and Nov. 21.",
    "outlet": "New York City Scream",
@@ -40,38 +91,7 @@
    "story": "sting-brooklyn-paramount-residency",
    "town": "Downtown Brooklyn",
    "date": "2026-11-14",
-   "rank": 2,
-   "box": true
-  },
-  {
-   "h": "Gustavo Dudamel Leads the Philharmonic in Tosca at Carnegie Hall",
-   "sum": "Two concert performances of Puccini's Tosca, November 13 and 15, mark Dudamel's first Philharmonic podium at Carnegie Hall.",
-   "outlet": "New York City Scream",
-   "url": "?story=dudamel-tosca-carnegie-hall-2026",
-   "story": "dudamel-tosca-carnegie-hall-2026",
-   "town": "Midtown",
-   "date": "2026-11-07",
-   "rank": 3
-  },
-  {
-   "h": "Lincoln in the Bardo Closes at the Met on November 14",
-   "sum": "Missy Mazzoli's opera after George Saunders' novel has its last performances through November 14.",
-   "outlet": "New York City Scream",
-   "url": "?story=lincoln-in-the-bardo-met-opera-closing-2026",
-   "story": "lincoln-in-the-bardo-met-opera-closing-2026",
-   "town": "Lincoln Center",
-   "date": "2026-11-08",
-   "rank": 3
-  },
-  {
-   "h": "JACK Quartet Plays Feldman at The Met Cloisters",
-   "sum": "A Saturday afternoon of Morton Feldman's string music in the chapel at The Met Cloisters.",
-   "outlet": "New York City Scream",
-   "url": "?story=met-feldman-jack-quartet-cloisters-2026",
-   "story": "met-feldman-jack-quartet-cloisters-2026",
-   "town": "Washington Heights",
-   "date": "2026-11-08",
-   "rank": 3
+   "rank": 2
   },
   {
    "h": "Siena bronzes fill the Frick through January 18",
@@ -183,16 +203,6 @@
    "rank": 4
   },
   {
-   "h": "Glykeria and Kostas Ageris Sing in Manhattan on November 14",
-   "sum": "Saturday, November 14 at 9 PM in the Grand Ballroom at Manhattan Center in Midtown.",
-   "outlet": "New York City Scream",
-   "url": "?story=glykeria-kostas-ageris-manhattan-center-2026",
-   "story": "glykeria-kostas-ageris-manhattan-center-2026",
-   "town": "Midtown",
-   "date": "2026-11-12",
-   "rank": 4
-  },
-  {
    "h": "LaGuardia Students Stage Godspell Through November 22",
    "sum": "Student performers take on the 1971 musical across five performances at the college's Performing Arts Center.",
    "outlet": "New York City Scream",
@@ -211,15 +221,6 @@
    "town": "Upper West Side",
    "date": "2026-11-14",
    "rank": 4
-  },
-  {
-   "h": "Rockefeller Center's 2026 tree arrives from West Edmeston",
-   "sum": "The Norway spruce reached Midtown on November 7, ahead of the December 2 lighting ceremony.",
-   "outlet": "NY1",
-   "url": "https://ny1.com/nyc/all-boroughs/news/2026/10/26/rockefeller-center-2026-christmas-tree-new-york",
-   "town": "Midtown",
-   "date": "2026-11-07",
-   "rank": 5
   },
   {
    "h": "A 750-Person Music Venue Is Opening Inside Williamsburg's Domino Sugar Refinery",
