@@ -1,14 +1,46 @@
 {
- "asof": "2026-11-16T07:30:00-05:00",
+ "asof": "2026-11-17T07:30:00-05:00",
  "items": [
+  {
+   "h": "New York Today and Tonight: Carnegie Baroque, the Met and Sting",
+   "sum": "Tonight includes a baroque recital at Carnegie Hall at 7:30 PM, Black Belt Eagle Scout at the Met at 7 PM, and Sting at Brooklyn Paramount.",
+   "outlet": "New York City Scream",
+   "url": "?story=today-and-tonight-2026-11-17",
+   "story": "today-and-tonight-2026-11-17",
+   "town": "All five boroughs",
+   "date": "2026-11-17",
+   "rank": 1
+  },
+  {
+   "h": "Sting Settles In for Eight Nights at Brooklyn Paramount",
+   "sum": "Sting brings his stripped-down STING 3.0 trio to Downtown Brooklyn for eight shows between Nov. 11 and Nov. 21.",
+   "outlet": "New York City Scream",
+   "url": "?story=sting-brooklyn-paramount-residency",
+   "story": "sting-brooklyn-paramount-residency",
+   "town": "Downtown Brooklyn",
+   "date": "2026-11-14",
+   "rank": 2
+  },
   {
    "h": "Holiday Season Arrives: The 100th Macy's Parade, the Tree and the Rockettes",
    "sum": "The Rockefeller Center tree arrives Nov. 7, the Christmas Spectacular is underway at Radio City, and Macy's marches for the 100th time on Thanksgiving morning.",
    "outlet": "New York City Scream",
    "url": "?story=macys-parade-100th-rockefeller-tree-christmas-spectacular",
    "story": "macys-parade-100th-rockefeller-tree-christmas-spectacular",
+   "lead": true,
    "town": "Midtown",
-   "date": "2026-11-15",
+   "date": "2026-11-17",
+   "rank": 2
+  },
+  {
+   "h": "Stevie Wonder Brings 'Songs in the Key of Life' to the Garden",
+   "sum": "Stevie Wonder marks 50 years of his landmark double album with a Madison Square Garden show on Thursday, Nov. 19.",
+   "outlet": "New York City Scream",
+   "url": "?story=stevie-wonder-songs-in-the-key-of-life-msg",
+   "story": "stevie-wonder-songs-in-the-key-of-life-msg",
+   "box": true,
+   "town": "Midtown",
+   "date": "2026-11-17",
    "rank": 2
   },
   {
@@ -29,56 +61,6 @@
    "story": "osny-messiah-stern-auditorium-2026",
    "town": "Midtown",
    "date": "2026-11-15",
-   "rank": 3
-  },
-  {
-   "h": "Biltmore Bazaar Brings Makers and Vintage to Track 42",
-   "sum": "Tuesday, November 17 from 8 a.m. in Grand Central Terminal's Track 42, with independent New York makers and vintage sellers.",
-   "outlet": "New York City Scream",
-   "url": "?story=biltmore-bazaar-grand-central-2026",
-   "story": "biltmore-bazaar-grand-central-2026",
-   "town": "Midtown",
-   "date": "2026-11-15",
-   "rank": 4
-  },
-  {
-   "h": "Broadway Magic Hour Brings a Family Matinee on Nov. 21",
-   "sum": "Saturday, November 21 from 2 to 3 p.m., with Jim Vines and Carl Mercurio, a one-hour family show currently listed as sold out.",
-   "outlet": "New York City Scream",
-   "url": "?story=broadway-magic-hour-family-2026",
-   "story": "broadway-magic-hour-family-2026",
-   "town": "Midtown",
-   "date": "2026-11-15",
-   "rank": 6
-  },
-  {
-   "h": "Sting Settles In for Eight Nights at Brooklyn Paramount",
-   "sum": "Sting brings his stripped-down STING 3.0 trio to Downtown Brooklyn for eight shows between Nov. 11 and Nov. 21.",
-   "outlet": "New York City Scream",
-   "url": "?story=sting-brooklyn-paramount-residency",
-   "story": "sting-brooklyn-paramount-residency",
-   "town": "Downtown Brooklyn",
-   "date": "2026-11-14",
-   "rank": 2
-  },
-  {
-   "h": "Siena bronzes fill the Frick through January 18",
-   "sum": "Nearly forty Sienese works, including pieces by Donatello, form the Frick's first survey of Siena's bronze sculpture.",
-   "outlet": "New York City Scream",
-   "url": "?story=siena-the-art-of-bronze-frick-2026",
-   "story": "siena-the-art-of-bronze-frick-2026",
-   "town": "Upper East Side",
-   "date": "2026-11-09",
-   "rank": 3
-  },
-  {
-   "h": "Iris van Herpen's Sculpting the Senses at the Brooklyn Museum",
-   "sum": "More than 140 couture works and natural history specimens fill the galleries through December 6 in the designer's North American debut.",
-   "outlet": "New York City Scream",
-   "url": "?story=iris-van-herpen-sculpting-the-senses-brooklyn-2026",
-   "story": "iris-van-herpen-sculpting-the-senses-brooklyn-2026",
-   "town": "Prospect Heights",
-   "date": "2026-11-09",
    "rank": 3
   },
   {
@@ -142,6 +124,26 @@
    "rank": 3
   },
   {
+   "h": "New York Pops Brings Denée Benton and Jordan Donica to Carnegie Hall",
+   "sum": "Steven Reineke conducts a One Night Only evening at Carnegie Hall on November 20.",
+   "outlet": "New York City Scream",
+   "url": "?story=new-york-pops-one-night-only-carnegie-benton-donica-2026",
+   "story": "new-york-pops-one-night-only-carnegie-benton-donica-2026",
+   "town": "Midtown",
+   "date": "2026-11-16",
+   "rank": 3
+  },
+  {
+   "h": "Biltmore Bazaar Brings Makers and Vintage to Track 42",
+   "sum": "Tuesday, November 17 from 8 a.m. in Grand Central Terminal's Track 42, with independent New York makers and vintage sellers.",
+   "outlet": "New York City Scream",
+   "url": "?story=biltmore-bazaar-grand-central-2026",
+   "story": "biltmore-bazaar-grand-central-2026",
+   "town": "Midtown",
+   "date": "2026-11-15",
+   "rank": 4
+  },
+  {
    "h": "Here There Are Blueberries Earns Four Stars on Broadway",
    "sum": "Time Out's critic calls the new Broadway play a feast of strange fruit.",
    "outlet": "Time Out New York",
@@ -158,6 +160,16 @@
    "town": "Williamsburg",
    "date": "2026-11-13",
    "rank": 5
+  },
+  {
+   "h": "Broadway Magic Hour Brings a Family Matinee on Nov. 21",
+   "sum": "Saturday, November 21 from 2 to 3 p.m., with Jim Vines and Carl Mercurio, a one-hour family show currently listed as sold out.",
+   "outlet": "New York City Scream",
+   "url": "?story=broadway-magic-hour-family-2026",
+   "story": "broadway-magic-hour-family-2026",
+   "town": "Midtown",
+   "date": "2026-11-15",
+   "rank": 6
   },
   {
    "h": "Harlem Gospel Choir Sings at the Blue Note on Sunday, November 22",
@@ -187,6 +199,16 @@
    "story": "jazz-icons-vanguard-jazz-orchestra-trinity-2026",
    "town": "Lower Manhattan",
    "date": "2026-11-14",
+   "rank": 6
+  },
+  {
+   "h": "LaGuardia Students Stage Godspell in Long Island City",
+   "sum": "A student cast brings the 1971 musical to the Little Theater from November 18 through 22.",
+   "outlet": "New York City Scream",
+   "url": "?story=godspell-laguardia-little-theater-2026",
+   "story": "godspell-laguardia-little-theater-2026",
+   "town": "Queens",
+   "date": "2026-11-16",
    "rank": 6
   },
   {
@@ -225,58 +247,6 @@
    "town": "Downtown",
    "date": "2026-11-13",
    "rank": 13
-  },
-  {
-   "h": "New York Today and Tonight: Birdland Jazz, Blue Note Soul and Live Rooms",
-   "sum": "Vince Giordano and the Nighthawks play Birdland at 5:30 and 8:30 PM, with Mamas Gun at the Blue Note tonight.",
-   "outlet": "New York City Scream",
-   "url": "?story=today-and-tonight-2026-11-16",
-   "story": "today-and-tonight-2026-11-16",
-   "town": "All five boroughs",
-   "date": "2026-11-16",
-   "rank": 1
-  },
-  {
-   "h": "Holiday Season Arrives: The 100th Macy's Parade, the Tree and the Rockettes",
-   "sum": "The Rockefeller Center tree arrives Nov. 7, the Christmas Spectacular is underway at Radio City, and Macy's marches for the 100th time on Thanksgiving morning.",
-   "outlet": "New York City Scream",
-   "url": "?story=macys-parade-100th-rockefeller-tree-christmas-spectacular",
-   "story": "macys-parade-100th-rockefeller-tree-christmas-spectacular",
-   "lead": true,
-   "town": "Midtown",
-   "date": "2026-11-16",
-   "rank": 2
-  },
-  {
-   "h": "Stevie Wonder Brings 'Songs in the Key of Life' to the Garden",
-   "sum": "Stevie Wonder marks 50 years of his landmark double album with a Madison Square Garden show on Thursday, Nov. 19.",
-   "outlet": "New York City Scream",
-   "url": "?story=stevie-wonder-songs-in-the-key-of-life-msg",
-   "story": "stevie-wonder-songs-in-the-key-of-life-msg",
-   "box": true,
-   "town": "Midtown",
-   "date": "2026-11-16",
-   "rank": 2
-  },
-  {
-   "h": "New York Pops Brings Denée Benton and Jordan Donica to Carnegie Hall",
-   "sum": "Steven Reineke conducts a One Night Only evening at Carnegie Hall on November 20.",
-   "outlet": "New York City Scream",
-   "url": "?story=new-york-pops-one-night-only-carnegie-benton-donica-2026",
-   "story": "new-york-pops-one-night-only-carnegie-benton-donica-2026",
-   "town": "Midtown",
-   "date": "2026-11-16",
-   "rank": 3
-  },
-  {
-   "h": "LaGuardia Students Stage Godspell in Long Island City",
-   "sum": "A student cast brings the 1971 musical to the Little Theater from November 18 through 22.",
-   "outlet": "New York City Scream",
-   "url": "?story=godspell-laguardia-little-theater-2026",
-   "story": "godspell-laguardia-little-theater-2026",
-   "town": "Queens",
-   "date": "2026-11-16",
-   "rank": 6
   }
  ]
 }
