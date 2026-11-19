@@ -1,16 +1,6 @@
 {
- "asof": "2026-11-18T07:20:00-05:00",
+ "asof": "2026-11-19T07:25:00-05:00",
  "items": [
-  {
-   "h": "Sting Settles In for Eight Nights at Brooklyn Paramount",
-   "sum": "Sting brings his stripped-down STING 3.0 trio to Downtown Brooklyn for eight shows between Nov. 11 and Nov. 21.",
-   "outlet": "New York City Scream",
-   "url": "?story=sting-brooklyn-paramount-residency",
-   "story": "sting-brooklyn-paramount-residency",
-   "town": "Downtown Brooklyn",
-   "date": "2026-11-14",
-   "rank": 2
-  },
   {
    "h": "Holiday Season Arrives: The 100th Macy's Parade, the Tree and the Rockettes",
    "sum": "The Rockefeller Center tree arrives Nov. 7, the Christmas Spectacular is underway at Radio City, and Macy's marches for the 100th time on Thanksgiving morning.",
@@ -18,7 +8,7 @@
    "url": "?story=macys-parade-100th-rockefeller-tree-christmas-spectacular",
    "story": "macys-parade-100th-rockefeller-tree-christmas-spectacular",
    "town": "Midtown",
-   "date": "2026-11-18",
+   "date": "2026-11-19",
    "rank": 2,
    "lead": true
   },
@@ -29,9 +19,98 @@
    "url": "?story=stevie-wonder-songs-in-the-key-of-life-msg",
    "story": "stevie-wonder-songs-in-the-key-of-life-msg",
    "town": "Midtown",
-   "date": "2026-11-18",
+   "date": "2026-11-19",
    "rank": 2,
    "box": true
+  },
+  {
+   "h": "New York Today and Tonight: Stevie Wonder, Reich, Mendelssohn",
+   "sum": "Tonight's best picks are Stevie Wonder at Madison Square Garden at 8 PM, Sandbox Percussion at Trinity Church at 6:30 PM and Frank Huang with the New York Philharmonic at 7:30 PM.",
+   "outlet": "New York City Scream",
+   "url": "?story=today-and-tonight-2026-11-19",
+   "story": "today-and-tonight-2026-11-19",
+   "town": "All five boroughs",
+   "date": "2026-11-19",
+   "rank": 1
+  },
+  {
+   "h": "Kubrick: A Full Retrospective Screens in Astoria Through Dec. 27",
+   "sum": "The Museum of the Moving Image's Stanley Kubrick retrospective runs at the Redstone Theater in Astoria through December 27, timed to a new Criterion box set.",
+   "outlet": "New York City Scream",
+   "url": "?story=kubrick-retrospective-moving-image-2026",
+   "story": "kubrick-retrospective-moving-image-2026",
+   "town": "Astoria, Queens",
+   "date": "2026-11-19",
+   "rank": 3
+  },
+  {
+   "h": "Sense & the City Invites Visitors to Taste, Touch and Hear New York",
+   "sum": "At City Lore Gallery in the East Village, the show runs on weekends from noon to 6 p.m. through January 18, 2027, with admission at no charge.",
+   "outlet": "New York City Scream",
+   "url": "?story=sense-and-the-city-city-lore-gallery-2026",
+   "story": "sense-and-the-city-city-lore-gallery-2026",
+   "town": "East Village",
+   "date": "2026-11-19",
+   "rank": 4
+  },
+  {
+   "h": "Macy's Unveils Eight New Floats for Its 100th Thanksgiving Parade",
+   "sum": "Eight new floats, including a Tony Sarg marionette tribute, were shown at Macy's Parade Studio in New Jersey.",
+   "outlet": "ABC7NY",
+   "url": "https://abc7ny.com/post/first-look-new-macys-thanksgiving-day-parade-floats/20048290/",
+   "town": "Midtown",
+   "date": "2026-11-17",
+   "rank": 5
+  },
+  {
+   "h": "Passion Through Performance: ACMA's Showcase Fills Weill Recital Hall",
+   "sum": "The annual ACMA concert runs Saturday, November 21 at 8 p.m. at Weill Recital Hall at Carnegie Hall, with solo and chamber works by many featured performers.",
+   "outlet": "New York City Scream",
+   "url": "?story=passion-through-performance-acma-weill-2026",
+   "story": "passion-through-performance-acma-weill-2026",
+   "town": "Midtown",
+   "date": "2026-11-19",
+   "rank": 6
+  },
+  {
+   "h": "Sound Espressivo Laureate Gala Brings Competition Winners to Weill Hall",
+   "sum": "The gala runs Monday, November 23 at 7 p.m. in Weill Recital Hall at Carnegie Hall, with two world premieres and winners from eight countries.",
+   "outlet": "New York City Scream",
+   "url": "?story=sound-espressivo-laureate-gala-weill-2026",
+   "story": "sound-espressivo-laureate-gala-weill-2026",
+   "town": "Midtown",
+   "date": "2026-11-19",
+   "rank": 8
+  },
+  {
+   "h": "Yalla Fest Brings Lebanese Food, Art and Music to Broadway",
+   "sum": "On Saturday, November 21 from noon to 7 p.m., the festival fills the second floor at 837 Broadway with food, art, music and shopping.",
+   "outlet": "New York City Scream",
+   "url": "?story=yalla-fest-manhattan-2026",
+   "story": "yalla-fest-manhattan-2026",
+   "town": "Manhattan",
+   "date": "2026-11-19",
+   "rank": 10
+  },
+  {
+   "h": "Xanadu Day Disco Brings All-Ages Roller Skating to Bushwick",
+   "sum": "The daytime session runs Saturday, November 21 from noon to 6 p.m. at Xanadu in Bushwick, Brooklyn, and is open to all ages.",
+   "outlet": "New York City Scream",
+   "url": "?story=xanadu-day-disco-bushwick-2026",
+   "story": "xanadu-day-disco-bushwick-2026",
+   "town": "Bushwick, Brooklyn",
+   "date": "2026-11-19",
+   "rank": 12
+  },
+  {
+   "h": "Sting Settles In for Eight Nights at Brooklyn Paramount",
+   "sum": "Sting brings his stripped-down STING 3.0 trio to Downtown Brooklyn for eight shows between Nov. 11 and Nov. 21.",
+   "outlet": "New York City Scream",
+   "url": "?story=sting-brooklyn-paramount-residency",
+   "story": "sting-brooklyn-paramount-residency",
+   "town": "Downtown Brooklyn",
+   "date": "2026-11-14",
+   "rank": 2
   },
   {
    "h": "Architects of Liberation at MoMA: Modernism in Western Africa",
@@ -133,16 +212,6 @@
    "rank": 6
   },
   {
-   "h": "Trinity Church Pairs Marianna Martines With Mozart on November 18",
-   "sum": "A one-hour Concerts at One program brings rarely heard Vienna music to lower Manhattan.",
-   "outlet": "New York City Scream",
-   "url": "?story=trinity-mozart-martines-concerts-at-one-2026",
-   "story": "trinity-mozart-martines-concerts-at-one-2026",
-   "town": "Lower Manhattan",
-   "date": "2026-11-13",
-   "rank": 6
-  },
-  {
    "h": "The Vanguard Jazz Orchestra Brings Big-Band Jazz to Trinity Church",
    "sum": "Sunday, Nov. 22 at 4 p.m. at Trinity Church on Broadway, part of the Jazz Icons series. The concert is sold out but can be watched online.",
    "outlet": "New York City Scream",
@@ -198,16 +267,6 @@
    "town": "Downtown",
    "date": "2026-11-13",
    "rank": 13
-  },
-  {
-   "h": "New York Today and Tonight: Wonderful Life, Charles Lloyd, Karan Aujla",
-   "sum": "Best picks today: a 1 PM concert at Trinity Church, a 5 PM Godspell, and opening night of It's a Wonderful Life.",
-   "outlet": "New York City Scream",
-   "url": "?story=today-and-tonight-2026-11-18",
-   "story": "today-and-tonight-2026-11-18",
-   "town": "All five boroughs",
-   "date": "2026-11-18",
-   "rank": 1
   },
   {
    "h": "It's a Wonderful Life: A Live Radio Play Opens at the Broadhurst",
