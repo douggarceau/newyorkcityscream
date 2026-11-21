@@ -19,16 +19,16 @@ function when(e){const d=e.date?new Date(e.date+'T12:00:00'):null;
  return {DW:d?d.toLocaleDateString('en-US',{weekday:'long'}):'',dw:d?d.toLocaleDateString('en-US',{weekday:'short'}).toUpperCase():'',MO:d?d.toLocaleDateString('en-US',{month:'short'}).toUpperCase():'',MON:d?d.toLocaleDateString('en-US',{month:'long'}):'',DY:d?d.getDate():'',
   tm:String(e.time||'').replace(/:00/g,'').replace(/\s*(am|pm)/gi,(m,x)=>' '+x.toUpperCase()).trim()}}
 window.__epKind=(e,t)=>kind(e,t);
-const KICK={gala:'In Concert',marquee:'Now Playing',gig:'Live Music',blue:'Live Jazz',club:'Live',fair:'Come One, Come All',gallery:'The Arts'};
-const GIGPAL=[{bg:'#D34A12',ink:'#fff',acc:'#DDE1E6'},{bg:'#0039A6',ink:'#fff',acc:'#DDE1E6'},{bg:'#DDE1E6',ink:'#0D0D0F',acc:'#D34A12'},{bg:'#0039A6',ink:'#fff',acc:'#DDE1E6'},{bg:'#D34A12',ink:'#fff',acc:'#0D0D0F'},{bg:'#0D0D0F',ink:'#fff',acc:'#DDE1E6'}];
-const GALPAL=[['#DDE1E6','#D34A12','#0039A6'],['#D34A12','#0039A6','#DDE1E6'],['#0039A6','#DDE1E6','#D34A12']];
+const KICK={gala:'The Big Room',marquee:'On the Marquee',gig:'Loud & Live',blue:'Jazz After Dark',club:'Up Late',fair:'Hit the Streets',gallery:'Eyes Open'};
+const GIGPAL=[{bg:'#C1121F',ink:'#fff',acc:'#DDE1E6'},{bg:'#5E6B7C',ink:'#fff',acc:'#DDE1E6'},{bg:'#DDE1E6',ink:'#0D0D0F',acc:'#C1121F'},{bg:'#5E6B7C',ink:'#fff',acc:'#DDE1E6'},{bg:'#C1121F',ink:'#fff',acc:'#0D0D0F'},{bg:'#0D0D0F',ink:'#fff',acc:'#DDE1E6'}];
+const GALPAL=[['#DDE1E6','#C1121F','#5E6B7C'],['#C1121F','#5E6B7C','#DDE1E6'],['#5E6B7C','#DDE1E6','#C1121F']];
 /* --- art --- */
 function fan(col){let s='<svg class="art fan" viewBox="0 0 200 104" preserveAspectRatio="xMidYMax meet" aria-hidden="true"><g fill="none" stroke="'+col+'" stroke-width=".8">';
  for(let i=0;i<=18;i++){const a=Math.PI*(i/18),x=100-Math.cos(a)*96,y=102-Math.sin(a)*96;s+='<line x1="100" y1="102" x2="'+x.toFixed(1)+'" y2="'+y.toFixed(1)+'"/>'}
  [30,52,74,96].forEach(r=>s+='<path d="M'+(100-r)+' 102A'+r+' '+r+' 0 0 1 '+(100+r)+' 102"/>');return s+'</g><circle cx="100" cy="102" r="14" fill="'+col+'"/></svg>'}
 function rule(col){return '<svg class="art rule" viewBox="0 0 120 10" aria-hidden="true"><g fill="'+col+'"><rect x="0" y="4.5" width="48" height="1"/><rect x="72" y="4.5" width="48" height="1"/><path d="M60 0l5 5-5 5-5-5z"/><circle cx="51" cy="5" r="1.5"/><circle cx="69" cy="5" r="1.5"/></g></svg>'}
 function speaker(c){let s='<svg class="art spk" viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" fill="#0006"/>';[44,36,28,18].forEach((r,i)=>s+='<circle cx="50" cy="50" r="'+r+'" fill="none" stroke="'+c+'" stroke-opacity="'+(0.25+i*0.15)+'" stroke-width="'+(i===3?6:2)+'"/>');return s+'<circle cx="50" cy="50" r="8" fill="'+c+'"/></svg>'}
-function bunting(h){const C=['#D34A12','#0039A6','#FFFFFF','#0039A6','#DDE1E6','#D34A12'];let s='<svg class="art bunt" viewBox="0 0 200 40" preserveAspectRatio="none" aria-hidden="true"><path d="M0 4 Q100 22 200 4" fill="none" stroke="#1A1B1F" stroke-width="1.2"/>';
+function bunting(h){const C=['#C1121F','#5E6B7C','#FFFFFF','#5E6B7C','#DDE1E6','#C1121F'];let s='<svg class="art bunt" viewBox="0 0 200 40" preserveAspectRatio="none" aria-hidden="true"><path d="M0 4 Q100 22 200 4" fill="none" stroke="#1A1B1F" stroke-width="1.2"/>';
  for(let i=0;i<10;i++){const x=6+i*19,y=4+Math.sin(Math.PI*(x/200))*9.5;s+='<path d="M'+x+' '+y.toFixed(1)+'l14 '+(1).toFixed(1)+'l-7 16z" fill="'+C[(i+h)%C.length]+'" stroke="#0002" stroke-width=".5"/>'}return s+'</svg>'}
 function bauhaus(p,h){const r=h%3;return '<svg class="art bau" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><circle cx="'+(r===0?68:34)+'" cy="34" r="30" fill="'+p[0]+'"/><rect x="'+(r===1?52:8)+'" y="56" width="40" height="40" fill="'+p[1]+'"/><path d="M'+(r===2?40:58)+' 96 L'+(r===2?70:88)+' 44 L'+(r===2?100:118)+' 96z" fill="'+p[2]+'"/><rect x="0" y="0" width="100" height="3" fill="#0D0D0F"/></svg>'}
 function eq(n){let s='<span class="art eq" aria-hidden="true">';for(let i=0;i<n;i++)s+='<i style="animation-delay:-'+((i*0.37)%1.4).toFixed(2)+'s;height:'+(20+((i*53)%70))+'%"></i>';return s+'</span>'}
@@ -38,7 +38,7 @@ window.evPoster=function(a,s){try{
  const e=s.ev||{},t=clean(s.bigText);if(!t)return;const st=kind(e,t),h=hash(t),w=when(e);
  const L=t.length,sz=L<=12?'s1':L<=24?'s2':L<=40?'s3':'s4';
  const ven=H(e.venue||''),hood=H(e.hood||''),vl=ven+(hood&&!ven.toLowerCase().includes(hood.toLowerCase())?' · '+hood:'');
- const title='<span class="ep-t '+sz+'">'+H(t)+'</span>',k='<span class="ep-k">'+(st==='marquee'&&/comed/i.test(t)?'Live Comedy':KICK[st])+'</span>',cta='<span class="ep-cta">Tickets &amp; info →</span>';
+ const title='<span class="ep-t '+sz+'">'+H(t)+'</span>',k='<span class="ep-k">'+(st==='marquee'&&/comed/i.test(t)?'Stand-Up, No Mercy':KICK[st])+'</span>',cta='<span class="ep-cta">Get in →</span>';
  const dl=[w.dw,w.MO&&(w.MO+' '+w.DY),w.tm].filter(Boolean).join(' · ');let h2,sty='';
  if(st==='gala')h2=fan('#DDE1E6')+k+title+'<span><span class="ep-d">'+H(dl)+'</span></span><span class="ep-v">'+vl+'</span>';
  else if(st==='marquee')h2='<span class="beam b1"></span><span class="beam b2"></span>'+k+title+'<span class="ep-foot"><span><span class="ep-d" style="display:block">'+H(dl)+'</span><span class="ep-v" style="display:block">'+vl+'</span></span>'+cta+'</span>';
@@ -56,10 +56,10 @@ window.bigPoster=function(e,region){try{
  const L=t.length,sz=L<=10?'x1':L<=18?'x2':L<=30?'x3':L<=48?'x4':'x5';
  const ven=H(e.venue||''),addr=H(String(e.address||'').replace(/,?\s*(Rhode Island|Massachusetts|New York),?\s*(RI|MA|NY)?\s*\d{5}.*$/i,'').replace(e.venue+', ','')),hood=H(e.hood||'');
  const title='<span class="bp-t '+sz+'">'+H(t)+'</span>';const reg=H(region||'');
- const go='<span class="bp-go">'+(e.url?'Tickets &amp; info':'See the calendar')+' →</span>';
+ const go='<span class="bp-go">'+(e.url?'Get in':'See what\'s on')+' →</span>';
  let b,sty='';
  if(st==='gala')b='<span class="bp-frame"></span>'+fan('#DDE1E6')+'<span class="bp-k">'+KICK.gala+' · '+reg+'</span>'+title+rule('#DDE1E6')+'<span class="bp-d">'+H(w.DW)+'<br>'+H(w.MON)+' '+w.DY+(w.tm?' · '+H(w.tm):'')+'</span><span class="bp-v">'+ven+(addr?'<small>'+addr+'</small>':'')+'</span>'+go;
- else if(st==='marquee')b='<span class="cur l"></span><span class="cur r"></span><span class="beam b1"></span><span class="beam b2"></span><span class="bp-sign"><span>'+(/comed/i.test(t)?'Live Comedy':'Now Playing')+'</span></span>'+title+'<span class="bp-d">'+H(w.dw)+' · '+H(w.MO)+' '+w.DY+(w.tm?' · '+H(w.tm):'')+'</span><span class="bp-v">'+ven+(hood?'<small>'+hood+'</small>':'')+'</span>'+go;
+ else if(st==='marquee')b='<span class="cur l"></span><span class="cur r"></span><span class="beam b1"></span><span class="beam b2"></span><span class="bp-sign"><span>'+(/comed/i.test(t)?'Stand-Up':'On the Marquee')+'</span></span>'+title+'<span class="bp-d">'+H(w.dw)+' · '+H(w.MO)+' '+w.DY+(w.tm?' · '+H(w.tm):'')+'</span><span class="bp-v">'+ven+(hood?'<small>'+hood+'</small>':'')+'</span>'+go;
  else if(st==='gig'){const P=GIGPAL[h%GIGPAL.length];sty='--bg:'+P.bg+';--ink:'+P.ink+';--acc:'+P.acc;b='<span class="bp-k">'+reg+' · Live</span>'+title+speaker(P.ink)+'<span class="bp-tear"><b>'+H(w.dw)+'</b><b class="n">'+H(w.MO)+' '+w.DY+'</b>'+(w.tm?'<b>'+H(w.tm)+'</b>':'')+'</span><span class="bp-v">'+ven+(hood?' · '+hood:'')+'</span>'+go}
  else if(st==='blue')b='<span class="disc"><b>'+w.DY+'</b><i>'+H(w.MO)+'</i></span>'+'<span class="bp-k">'+KICK.blue+' · '+reg+'</span>'+title+'<span class="bars"><i></i><i></i><i></i></span><span class="bp-d">'+H(w.DW)+(w.tm?' · '+H(w.tm):'')+'</span><span class="bp-v">'+ven+(hood?'<small>'+hood+'</small>':'')+'</span>'+go;
  else if(st==='club')b='<span class="laser"></span><span class="floor"></span>'+eq(24)+'<span class="bp-k">'+reg+' · Live</span>'+title+'<span class="bp-d">'+H(w.dw)+' · '+H(w.MO)+' '+w.DY+(w.tm?' · '+H(w.tm):'')+'</span><span class="bp-v">'+ven+'</span>'+go;
@@ -83,8 +83,8 @@ window.weekPoster=function(region,E){if(!/jamestown|rhode island/i.test(region||
 /* --- story & headline cards: every margin card is artwork --- */
 function vinyl(lab){let s='<svg class="art vin" viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="49" fill="#0D0D0F"/>';for(let r=46;r>20;r-=2.2)s+='<circle cx="50" cy="50" r="'+r.toFixed(1)+'" fill="none" stroke="#FFFFFF'+(r%4<2?'14':'0a')+'" stroke-width=".6"/>';return s+'<path d="M50 1a49 49 0 0 1 42 24L50 50z" fill="#FFFFFF10"/><circle cx="50" cy="50" r="17" fill="'+lab+'"/><circle cx="50" cy="50" r="2.2" fill="#0D0D0F"/></svg>'}
 function masks(c){return '<svg class="art msk" viewBox="0 0 120 80" aria-hidden="true"><g fill="none" stroke="'+c+'" stroke-width="2.2"><path d="M8 10q22-8 44 0v22c0 16-10 28-22 28S8 48 8 32z"/><path d="M68 18q22-8 44 0v22c0 16-10 28-22 28S68 56 68 40z"/></g><g fill="'+c+'"><path d="M18 26q5-4 10 0q-5 3-10 0zM32 26q5-4 10 0q-5 3-10 0zM20 42q10 9 20 0q-10 3-20 0z"/><path d="M78 34q5 4 10 0q-5-3-10 0zM92 34q5 4 10 0q-5-3-10 0zM80 56q10-9 20 0q-10-3-20 0z"/></g></svg>'}
-function confetti(h){const C=['#D34A12','#DDE1E6','#0039A6','#0039A6','#DDE1E6','#D34A12'];let s='<svg class="art cft" viewBox="0 0 300 180" preserveAspectRatio="xMidYMid slice" aria-hidden="true">';let x=h;for(let i=0;i<34;i++){x=(x*1103515245+12345)>>>0;const px=x%300,py=(x>>>9)%180,r=(x>>>17)%3,c=C[(x>>>5)%C.length];s+=r===0?'<circle cx="'+px+'" cy="'+py+'" r="3" fill="'+c+'"/>':'<rect x="'+px+'" y="'+py+'" width="7" height="3" fill="'+c+'" transform="rotate('+((x>>>11)%180)+' '+px+' '+py+')"/>'}return s+'</svg>'}
-const STPAL=[['#1A1B1F','#DDE1E6'],['#1A1B1F','#D34A12'],['#1A1B1F','#DDE1E6'],['#2A2D33','#F2F1EC'],['#1A1B1F','#DDE1E6']];
+function confetti(h){const C=['#C1121F','#DDE1E6','#5E6B7C','#5E6B7C','#DDE1E6','#C1121F'];let s='<svg class="art cft" viewBox="0 0 300 180" preserveAspectRatio="xMidYMid slice" aria-hidden="true">';let x=h;for(let i=0;i<34;i++){x=(x*1103515245+12345)>>>0;const px=x%300,py=(x>>>9)%180,r=(x>>>17)%3,c=C[(x>>>5)%C.length];s+=r===0?'<circle cx="'+px+'" cy="'+py+'" r="3" fill="'+c+'"/>':'<rect x="'+px+'" y="'+py+'" width="7" height="3" fill="'+c+'" transform="rotate('+((x>>>11)%180)+' '+px+' '+py+')"/>'}return s+'</svg>'}
+const STPAL=[['#1A1B1F','#DDE1E6'],['#1A1B1F','#C1121F'],['#1A1B1F','#DDE1E6'],['#2A2D33','#F2F1EC'],['#1A1B1F','#DDE1E6']];
 window.artCard=function(a,s){try{
  if(s.story&&!s.ext&&typeof STORIES!=='undefined'&&STORIES.some(x=>x.slug===s.story)){const st=STORIES.find(x=>x.slug===s.story);const box=a.parentNode;box.classList.add('evp');['border','border-top','outline'].forEach(x=>box.style.setProperty(x,'0','important'));
   const mast=window.EP_MAST||{};const L=String(st.title).length;
@@ -134,12 +134,12 @@ function details(slug){const s=(typeof STORIES!=='undefined'&&STORIES.find(x=>x.
   const wk=new Date(Date.now()+7*864e5).toLocaleDateString('en-CA',{timeZone:'America/New_York'});const v=(hits[0].venue||'').toLowerCase().replace(/[^a-z]/g,'').slice(0,10);
   const same=E.filter(e=>!used.has(e.date+e.artists)&&e.date<=wk&&v&&(e.venue||'').toLowerCase().replace(/[^a-z]/g,'').startsWith(v)).slice(0,4);
   if(same.length){rows.push(['§','Also this week at '+hits[0].venue,'']);same.forEach(e=>{used.add(e.date+e.artists);const r=row(e);r[2]='';rows.push(r)})}
-  const room=14-rows.length;if(room>1){const town=E.filter(e=>!used.has(e.date+e.artists)&&e.date<=wk).slice(0,room-1);if(town.length){rows.push(['§','Around town this week','']);town.forEach(e=>rows.push(row(e)))}}
+  const room=14-rows.length;if(room>1){const town=E.filter(e=>!used.has(e.date+e.artists)&&e.date<=wk).slice(0,room-1);if(town.length){rows.push(['§','All over town this week','']);town.forEach(e=>rows.push(row(e)))}}
   return {head:'When and where',rows}}
  /* 3. what else is on tonight and tomorrow */
  const td=new Date().toLocaleDateString('en-CA',{timeZone:'America/New_York'});const tm=new Date(Date.now()+864e5).toLocaleDateString('en-CA',{timeZone:'America/New_York'});
  const near=E.filter(e=>e.date===td||e.date===tm).slice(0,8);if(!near.length)return null;
- return {head:'Also tonight & tomorrow',rows:near.map(e=>[(e.date===td?'Tonight':'Tomorrow')+(e.time?' · '+e.time:''),String(e.artists||'').split(/\s+[|@]\s+/)[0],e.venue||''])}}
+ return {head:'Still up: tonight & tomorrow',rows:near.map(e=>[(e.date===td?'Tonight':'Tomorrow')+(e.time?' · '+e.time:''),String(e.artists||'').split(/\s+[|@]\s+/)[0],e.venue||''])}}
 function itnHTML(slug,title){const D=details(slug);if(!D)return null;
  return '<span class="itn-in"><span class="itn-k">The details</span><span class="itn-h">'+H4(D.head)+'</span><span class="itn-st">'+H4(title)+'</span><span class="itn-rows">'+D.rows.map(r=>r[0]==='§'?'<span class="itn-sec">'+H4(r[1])+'</span>':'<span class="itn-r"><b>'+H4(r[0])+'</b><span><i>'+H4(r[1])+'</i>'+(r[2]?'<small>'+H4(r[2])+'</small>':'')+'</span></span>').join('')+'</span><span class="itn-go">Read the full story →</span></span>'}
 function layer(box,cls){let o=box.querySelector(':scope>.'+cls);if(!o){o=document.createElement('span');o.className=cls;box.appendChild(o);
@@ -221,7 +221,7 @@ window.factsCard=function(e){const d=e.date?new Date(e.date+'T12:00:00'):null;
  const DW=d?d.toLocaleDateString('en-US',{weekday:'long'}):'',MON=d?d.toLocaleDateString('en-US',{month:'long'}):'',DY=d?d.getDate():'';
  const rows=[['When',[DW+(MON?', '+MON+' '+DY:''),e.time].filter(Boolean).join(' · ')],['Where',e.venue||''],['Address',String(e.address||'').replace(/,?\s*\d{5}(-\d{4})?\s*$/,'')],['Doors / hours',e.hours||''],['Tickets',e.price||''],['Ages',e.ages||'']].filter(r=>r[1]);
  const t=String(e.artists||'').split(/\s+[|@]\s+/)[0];
- return '<span class="fc"><span class="fc-k">The details</span><span class="fc-t">'+H5(t)+'</span><span class="fc-big"><b>'+H5(d?d.toLocaleDateString('en-US',{month:'short'}).toUpperCase():'')+'</b><i>'+DY+'</i><small>'+H5(e.time||'')+'</small></span><span class="fc-rows">'+rows.map(r=>'<span class="fc-r"><em>'+H5(r[0])+'</em><span>'+H5(r[1])+'</span></span>').join('')+'</span>'+(e.blurb?'<span class="fc-b">'+H5(e.blurb)+'</span>':'')+'<span class="fc-go">'+(e.url?'Tickets &amp; info →':'See the calendar →')+'</span></span>'};
+ return '<span class="fc"><span class="fc-k">The lowdown</span><span class="fc-t">'+H5(t)+'</span><span class="fc-big"><b>'+H5(d?d.toLocaleDateString('en-US',{month:'short'}).toUpperCase():'')+'</b><i>'+DY+'</i><small>'+H5(e.time||'')+'</small></span><span class="fc-rows">'+rows.map(r=>'<span class="fc-r"><em>'+H5(r[0])+'</em><span>'+H5(r[1])+'</span></span>').join('')+'</span>'+(e.blurb?'<span class="fc-b">'+H5(e.blurb)+'</span>':'')+'<span class="fc-go">'+(e.url?'Tickets &amp; info →':'See the calendar →')+'</span></span>'};
 function turn(el,fn){el.style.transition='transform .34s ease-in';el.style.transform='perspective(1600px) rotateY(90deg)';
  setTimeout(()=>{fn();el.style.transition='none';el.style.transform='perspective(1600px) rotateY(-90deg)';requestAnimationFrame(()=>requestAnimationFrame(()=>{el.style.transition='transform .34s ease-out';el.style.transform='';setTimeout(()=>{el.style.transition=''},380)}))},350)}
 function rotator(getHost,pick,ms,start,opts){let i=start||0,face=0,cur=null;
