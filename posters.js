@@ -4,7 +4,7 @@
 const H=x=>String(x==null?'':x).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const hash=s=>{let h=7;for(const c of String(s))h=(h*31+c.charCodeAt(0))>>>0;return h};
 const clean=t=>String(t||'').split(/\s+[|@]\s+/)[0].split(/\s+[-–—]\s+(?=.*\b(tour|live|presents|show|concert)\b)/i)[0].replace(/\s*\b(all ages|21\+|18\+)\b.*$/i,'').replace(/\s*\((also|rescheduled)[^)]*\)/i,'').trim();
-const GS={classical:'gala',theater:'marquee',jazz:'blue','r&b':'blue',electronic:'club',pop:'club','hip-hop':'club',latin:'club',family:'fair',community:'fair',worship:'fair',support:'fair',arts:'gallery'};
+const GS={classical:'gala',theater:'marquee',jazz:'blue','r&b':'blue',electronic:'club',pop:'club','hip-hop':'club',latin:'club',family:'fair',community:'fair',worship:'fair',support:'fair',arts:'gallery',art:'gallery',opera:'gala',stage:'marquee',metal:'gig',punk:'gig',goth:'gig',rock:'gig',indie:'gig',live:'gig',folk:'gig',world:'gig',experimental:'gig'};
 function kind(e,t){const g=String(e.genre||'').toLowerCase(),T=t.toLowerCase(),TV=(t+' '+(e.venue||'')).toLowerCase();
  if(/symphon|philharmon|orchestra|opera\b|ballet|nutcracker|chamber music|string quartet|choral|chorus|choir|messiah|recital|baroque|requiem/.test(T))return 'gala';
  if(GS[g])return GS[g];
@@ -86,6 +86,10 @@ function masks(c){return '<svg class="art msk" viewBox="0 0 120 80" aria-hidden=
 function confetti(h){const C=['#C1121F','#DDE1E6','#5E6B7C','#5E6B7C','#DDE1E6','#C1121F'];let s='<svg class="art cft" viewBox="0 0 300 180" preserveAspectRatio="xMidYMid slice" aria-hidden="true">';let x=h;for(let i=0;i<34;i++){x=(x*1103515245+12345)>>>0;const px=x%300,py=(x>>>9)%180,r=(x>>>17)%3,c=C[(x>>>5)%C.length];s+=r===0?'<circle cx="'+px+'" cy="'+py+'" r="3" fill="'+c+'"/>':'<rect x="'+px+'" y="'+py+'" width="7" height="3" fill="'+c+'" transform="rotate('+((x>>>11)%180)+' '+px+' '+py+')"/>'}return s+'</svg>'}
 const STPAL=[['#1A1B1F','#DDE1E6'],['#1A1B1F','#C1121F'],['#1A1B1F','#DDE1E6'],['#2A2D33','#F2F1EC'],['#1A1B1F','#DDE1E6']];
 window.artCard=function(a,s){try{
+ if(window.EP_GOTHAM&&window.evPoster&&a.closest&&a.closest('.lsrow')){const P=(window.jtEvPool&&window.jtEvPool())||[];const n=(window.__gsw=(window.__gsw||0)+1);
+  if(P.length>=4&&n%4!==0){const nz=x=>String(x||'').toLowerCase().replace(/\s+/g,' ').trim();const vis=new Set([...document.querySelectorAll('.lsrow .lspot .ep-t')].filter(e=>!a.contains(e)).map(e=>nz(e.textContent)));
+   let ev=null;for(let k=0;k<P.length;k++){const c=P[(window.__gsi=(window.__gsi||0)+1)%P.length];if(c&&c.ev&&!vis.has(nz(String(c.bigText).split(/\s+[|@]\s+/)[0]))){ev=c;break}}
+   if(ev){const box=a.parentNode;box.className=box.className.replace(/\bt-st\b/,'t-mu');a.href=ev.href;delete a.dataset.story;if(ev.view)a.dataset.go=ev.view;else delete a.dataset.go;if(ev.ext){a.target='_blank';a.rel='noopener'}else{a.removeAttribute('target');a.removeAttribute('rel')}a.setAttribute('aria-label',ev.bigText);window.evPoster(a,ev);return}}}
  if(s.story&&!s.ext&&typeof STORIES!=='undefined'&&STORIES.some(x=>x.slug===s.story)){const st=STORIES.find(x=>x.slug===s.story);const box=a.parentNode;box.classList.add('evp');['border','border-top','outline'].forEach(x=>box.style.setProperty(x,'0','important'));
   const mast=window.EP_MAST||{};const L=String(st.title).length;
   a.innerHTML='<span class="ep os'+(mast.img?' os-img':'')+'" style="'+(mast.img?'--osimg:url('+mast.img+')':'')+'">'+(mast.img?'':'<span class="os-m"><i>'+H(mast.top||'')+'</i><b>'+H(mast.name||'')+'</b></span>')+'<span class="os-tag">Our story</span><span class="os-t'+(L>70?' sm':'')+'">'+H(st.title)+'</span><span class="os-go">Read the story →</span></span>';return}
@@ -241,6 +245,13 @@ if(window.EP_COVER_POSTERS)rotator(()=>document.querySelector('.cvr .cimg'),()=>
 })();
 /* Variety: shuffle the event pool each visit, spread across venues and kinds, so the same few shows don't loop */
 window.epMix=function(L){try{
+ if(window.EP_GOTHAM){const BIGV=/madison square|barclays|radio city|beacon|ubs arena|terminal 5|brooklyn steel|brooklyn paramount|webster hall|knockdown|kings theatre|irving plaza|united palace|palladium|saint vitus|brooklyn monarch|bowery ballroom|music hall of williamsburg|blue note|birdland|village vanguard|carnegie|metropolitan opera|geffen|apollo|elsewhere|public records|racket|le poisson rouge|sony hall|town hall|gramercy/i,T1=/madison square|barclays|radio city|ubs arena/i,HARD=/^(metal|punk|goth|rock|hip-hop|electronic|indie|r&b|jazz|latin)$/i,SOFT=/family|kids|magic hour|student|storytime|sing-?along|santa|godspell|children|toddler|school/i;
+  const seed=window.__epSeed||(window.__epSeed=Math.floor(Math.random()*1e9));const h=s=>{let v=seed>>>0;for(const c of s)v=Math.imul(v^c.charCodeAt(0),2654435761)>>>0;return v};
+  const nm=x=>String((x.ev&&x.ev.artists)||x.bigText||'').toLowerCase().split(/\s+[-–—:|@]\s+|\s+w\/\s+|\s*\(/)[0].replace(/[^a-z0-9 ]/g,'').trim();
+  const seen=new Set(),hot=[],top=[],rest=[];
+  L.slice().sort((a,b)=>String(a.ev.date).localeCompare(String(b.ev.date))).forEach(x=>{const e=x.ev;if(!e)return;const t=String(e.artists||''),v=String(e.venue||'');if(SOFT.test(t+' '+v)||/^(family|festival|other|community|worship|support|sports)$/i.test(e.genre||''))return;if(!BIGV.test(v)&&!HARD.test(e.genre||''))return;const k=nm(x);if(!k||seen.has(k))return;seen.add(k);x.tag='NEW YORK AFTER DARK · '+String(x.tag||'').split(' · ').pop();(e.hot?hot:T1.test(v)?top:rest).push(x)});
+  rest.sort((a,b)=>h(nm(a))-h(nm(b)));const out=hot.slice();let i=0,j=0;while(i<top.length||j<rest.length){if(i<top.length)out.push(top[i++]);for(let n=0;n<2&&j<rest.length;n++)out.push(rest[j++])}
+  if(out.length>=4)return out}
  const seed=window.__epSeed||(window.__epSeed=Math.floor(Math.random()*1e9));
  const nm=x=>String((x.ev&&x.ev.artists)||x.bigText||x.name||'').toLowerCase().split(/\s+[-–—:|@]\s+|\s*\(/)[0].replace(/[^a-z0-9 ]/g,'').trim();
  const DULL=/pantry|thrift|rehearsal|appointment|\bhours\b|donation|office hours|support group|meeting\b|teen center/i;
