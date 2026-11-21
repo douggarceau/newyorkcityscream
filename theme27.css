@@ -1,7 +1,7 @@
 /* 2027 theme, shared by New York City Scream, Rhode Island Hurricane and The Guitar Doug Report.
    Identical on all three; only --a (the accent) changes per site. */
 :root[data-t27]{--a:#E10600;--bg0:#060709;--bg1:#0C0E12;--bg2:#13161C;--ln:rgba(255,255,255,.08);--tx0:#F4F5F7;--tx1:#A9AFB9;--tx2:#6B7280;
- --f-hd:"Space Grotesk","Inter",system-ui,sans-serif;--f-tx:"Inter",system-ui,-apple-system,"Segoe UI",sans-serif;
+ --f-hd:"Geist",system-ui,sans-serif;--f-tx:"Geist",system-ui,-apple-system,"Segoe UI",sans-serif;
  --hd:var(--f-hd);--tx:var(--f-tx);--lb:var(--f-tx);--body:var(--f-tx);--mono:var(--f-tx)}
 :root[data-t27]:not(#_):not(#t1):not(#t2):not(#t3):not(#t4):not(#t5):not(#t6) body{background:var(--bg0)!important;color:var(--tx0)!important;font-family:var(--f-tx)!important}
 :root[data-t27]:not(#_):not(#t1):not(#t2):not(#t3):not(#t4):not(#t5):not(#t6) body :is(div,span,a,button,p,h1,h2,h3,h4,h5,b,i,em,strong,small,summary,label,select,input,li,td,th,time,article,section){font-family:var(--f-tx)!important;font-style:normal!important}
