@@ -1409,7 +1409,7 @@ const CAL=[];
 const SCENE=[];
 const UPDATED="Oct 21, 2026";
 const COVERS=[];
-const ISSUES=[{no:1,month:'current',src:"img/cover-scream-live.jpg?v=2",lines:[]}];
+const ISSUES=[{no:1,month:'current',src:"img/cover-gotham.jpg?v=1",lines:[]}];
 const CUR=ISSUES[ISSUES.length-1];try{ISSUES.forEach(I=>{I.lines=I.lines.filter(l=>!window.EXPIRED.has(l[0]))})}catch(_){}
 const VENUES=[];
 const VST=/*VST_START*/{}/*VST_END*/;
@@ -2828,7 +2828,7 @@ E=(d.events||[]).filter(e=>e.date>=today&&e.artists&&e.venue&&!/worship|support|
 const go=()=>{try{if(!E.length||!window.__fill0)return;const nz=s=>String(s||'').toLowerCase().trim();const vis=new Set([...document.querySelectorAll('.lsrow .lspot:not([hidden]) .ls-big')].map(x=>nz(x.textContent)));
 document.querySelectorAll('.lsrow .lspot[hidden] > a[id]').forEach(el=>{if(innerWidth<1280&&el.parentNode.classList.contains('ls-extra'))return;let it=null;for(let n=0;n<E.length;n++){const c=E[(k+n)%E.length];if(!vis.has(nz(c.bigText))){it=c;k=k+n+1;break}}if(!it)return;vis.add(nz(it.bigText));el.parentNode.hidden=false;el.parentNode.style.display='';window.__fill0(el,it)})}catch(_){}};
 setTimeout(go,1500);setInterval(go,3000)})();</script>
-<link rel="stylesheet" href="posters.css?v=25">
+<link rel="stylesheet" href="posters.css?v=26">
 <link rel="stylesheet" href="polish.css?v=48"><script src="whatson.js?v=23" defer></script>
 <script src="recovery.js?v=1" defer></script>
 <script>(()=>{const go=()=>{const nav=document.getElementById("nav");if(!nav||document.getElementById("nbSub"))return;const b=document.createElement("button");b.className="nb";b.id="nbSub";b.type="button";b.textContent="Subscribe";nav.appendChild(b);b.addEventListener("click",e=>{e.preventDefault();e.stopPropagation();const s=document.getElementById("subBox");if(!s)return;if(s.parentNode!==document.body)document.body.appendChild(s);s.classList.toggle("sbpop");if(s.classList.contains("sbpop")){const i=s.querySelector("input:not([hidden])");i&&i.focus()}});document.addEventListener("click",e=>{const s=document.getElementById("subBox");if(s&&s.classList.contains("sbpop")&&!s.contains(e.target)&&e.target!==b)s.classList.remove("sbpop")})};document.readyState==="loading"?document.addEventListener("DOMContentLoaded",go):go()})();</script><script>setInterval(()=>{try{const n=new Date(),M=n.toLocaleDateString("en-US",{month:"short",timeZone:"America/New_York"}).toUpperCase(),D=String(+n.toLocaleDateString("en-US",{day:"numeric",timeZone:"America/New_York"}));document.querySelectorAll("#view a.sh").forEach(a=>{const dt=a.querySelector(".dt");if(!dt||dt.dataset.tf===M+D)return;dt.dataset.tf=M+D;const old=dt.querySelector(".tflag");old&&old.remove();const m=(dt.querySelector("small")||{}).textContent,d=(dt.querySelector("b")||{}).textContent;if(String(m).trim().toUpperCase()!==M||String(d).trim()!==D)return;const tm=(a.querySelector(".who span")||{}).textContent||"";const x=tm.match(/(\d{1,2})(?::\d{2})?\s*(AM|PM)/i);let h=x?(+x[1]%12)+(/pm/i.test(x[2])?12:0):-1;const f=document.createElement("span");f.className="tflag";f.textContent=h>=17?"Tonight":"Today";dt.appendChild(f)})}catch(_){}},400)</script><script>(function(){var b=document.querySelector(".elnb");if(b&&Date.now()>Date.parse(b.dataset.until))b.remove()})()</script>
