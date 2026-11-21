@@ -77,3 +77,5 @@
 :root[data-t27]:not(#_):not(#t1):not(#t2):not(#t3):not(#t4):not(#t5):not(#t6) :is(.bp,.ep) .bp-go{color:var(--a)!important;-webkit-text-fill-color:var(--a)!important;border:1px solid color-mix(in srgb,var(--a) 60%,transparent)!important;border-radius:999px!important}
 :root[data-t27]:not(#_):not(#t1):not(#t2):not(#t3):not(#t4):not(#t5):not(#t6) :is(#flagLine,.bp-frame,.bp .eq,.bp span.art,.ep span.art){display:none!important}
 :root[data-t27]:not(#_):not(#t1):not(#t2):not(#t3):not(#t4):not(#t5):not(#t6) :is(.bp,.ep) *:not(.bp-go):not(.os-go):not(.ep-cta){background:none!important;box-shadow:none!important;border:0!important;outline:0!important}
+:root[data-t27]:not(#_):not(#t1):not(#t2):not(#t3):not(#t4):not(#t5):not(#t6) :is(#paperBtn,header.mast .mastApp,#appBtn){display:none!important}
+:root[data-t27]:not(#_):not(#t1):not(#t2):not(#t3):not(#t4):not(#t5):not(#t6) :is(.bp,.ep,.bigev)::after,:root[data-t27]:not(#_):not(#t1):not(#t2):not(#t3):not(#t4):not(#t5):not(#t6) :is(.bp,.ep) *::before,:root[data-t27]:not(#_):not(#t1):not(#t2):not(#t3):not(#t4):not(#t5):not(#t6) :is(.bp,.ep) *::after{display:none!important}
