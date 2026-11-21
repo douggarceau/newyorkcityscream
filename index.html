@@ -364,7 +364,7 @@ html body #flagLine::before,html body #flagLine i{display:none!important}
 <style>a.sh.sh-nolink{cursor:default}a.sh.sh-nolink:hover{transform:none}</style>
 </head>
 <body>
-<title>New York City Scream</title><script>window.T27={"a": "#E10600", "k": "New York City", "n": "SCREAM", "tz": "America/New_York", "sis": [["Rhode Island Hurricane", "https://rhodeislandhurricane.com/"], ["The Guitar Doug Report", "https://theguitardougreport.com/"], ["Jamestown Island News", "https://jamestownislandnews.com/"]]}</script><script src="theme27.js?v=12"></script>
+<title>New York City Scream</title><script>window.T27={"a": "#E10600", "k": "New York City", "n": "SCREAM", "tz": "America/New_York", "sis": [["Rhode Island Hurricane", "https://rhodeislandhurricane.com/"], ["The Guitar Doug Report", "https://theguitardougreport.com/"], ["Jamestown Island News", "https://jamestownislandnews.com/"]]}</script><script src="theme27.js?v=14"></script>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -1720,7 +1720,7 @@ async function cwLoad(force){if(!force&&Date.now()-CW.t<240000)return;const ago=
   if(Array.isArray(f))CW.fire=f;CW.t=Date.now();cwFill()}
 
 /* Front page: the week ahead in New York. Skips daily worship, meetings and services so real events stand out; one pick per event, grouped by day. */
-const JTSKIP=/^(worship|support|sports|drag)$/;const JTNOISE=/\b(mass|rosary|teen center|pantry|thrift|reconciliation|bible|prayer|morning glory|al-anon|aa meeting|step workshop|choir rehearsals?|chorus rehearsals?|rehearsals?|office hours)\b/i;
+const JTSKIP=/^(worship|support|sports|drag|recreation|community|volunteer|civic|family|fitness)$/;const JTNOISE=/\b(mass|rosary|teen center|pantry|thrift|reconciliation|bible|prayer|morning glory|al-anon|aa meeting|step workshop|choir rehearsals?|chorus rehearsals?|rehearsals?|office hours)\b/i;
 function jtWeekList(D,all){try{const end=addDays(todayKey,D||7);const now=new Date();const nowMin=now.getHours()*60+now.getMinutes();const mins=t=>{const v=window.__tm(t);return v==null?9999:v};const vn=v=>(v||'').toLowerCase().normalize('NFD').replace(/[^a-z]/g,'').replace(/^the/,'').slice(0,12);const seen=new Set(),per={};const out=[];
  for(const e of up){if(e.date<todayKey||e.date>end||JTSKIP.test(e.genre||'')||JTNOISE.test(e.artists||''))continue;if(e.date===todayKey&&mins(e.time)!==9999&&mins(e.time)<nowMin-30)continue;
   const k1=(e.artists||'').toLowerCase().replace(/\(.*?\)/g,'').replace(/[^a-z]/g,'').slice(0,24),k2=e.date+'|'+(e.time||'')+'|'+vn(e.venue);if(seen.has(k1)||seen.has(k2))continue;if(!all&&(per[e.date]||0)>=(D?6:2))continue;seen.add(k1);seen.add(k2);per[e.date]=(per[e.date]||0)+1;out.push(e);if(!all&&out.length>=(D?60:9))break}
@@ -3042,6 +3042,6 @@ let opener=null;const close=()=>{if(!s.classList.contains('sbpop'))return;s.clas
 new MutationObserver(()=>{if(s.classList.contains('sbpop')){opener=document.activeElement&&document.activeElement!==document.body&&!s.contains(document.activeElement)?document.activeElement:opener;s.setAttribute('role','dialog');s.setAttribute('aria-modal','true')}}).observe(s,{attributes:true,attributeFilter:['class']});
 document.addEventListener('keydown',e=>{if(!s.classList.contains('sbpop'))return;if(e.key==='Escape'){e.preventDefault();close();return}if(e.key==='Tab'){const F=[...s.querySelectorAll('button,input,a[href],select,textarea')].filter(el=>!el.disabled&&el.offsetParent);if(!F.length)return;const a=F[0],z=F[F.length-1];if(e.shiftKey&&document.activeElement===a){e.preventDefault();z.focus()}else if(!e.shiftKey&&document.activeElement===z){e.preventDefault();a.focus()}}})};
 go();addEventListener('DOMContentLoaded',go);setTimeout(go,1500)})();</script>
-<link rel="stylesheet" href="theme27.css?v=13">
+<link rel="stylesheet" href="theme27.css?v=14">
 </body>
 </html>
