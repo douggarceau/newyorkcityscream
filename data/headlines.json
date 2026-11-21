@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-20T08:00:00-05:00",
+ "asof": "2026-11-21T07:30:00-05:00",
  "items": [
   {
    "h": "Holiday Season Arrives: The 100th Macy's Parade, the Tree and the Rockettes",
@@ -9,8 +9,7 @@
    "story": "macys-parade-100th-rockefeller-tree-christmas-spectacular",
    "town": "Midtown",
    "date": "2026-11-20",
-   "rank": 2,
-   "lead": true
+   "rank": 2
   },
   {
    "h": "Kubrick: A Full Retrospective Screens in Astoria Through Dec. 27",
@@ -229,27 +228,6 @@
    "rank": 3
   },
   {
-   "h": "The Neighbourhood Brings THE WOURLD TOUR to Barclays Center",
-   "sum": "Saturday, November 21 at 7:30 p.m. and Sunday, November 22 at 6 p.m. at Barclays Center in Downtown Brooklyn, with Nessa Barrett both nights.",
-   "outlet": "New York City Scream",
-   "url": "?story=the-neighbourhood-wourld-tour-barclays-2026",
-   "story": "the-neighbourhood-wourld-tour-barclays-2026",
-   "box": true,
-   "town": "Downtown Brooklyn",
-   "date": "2026-11-20",
-   "rank": 2
-  },
-  {
-   "h": "Anthropic Lands on Nasdaq With the Largest IPO on Record",
-   "sum": "The Claude maker priced shares at $83, raised about $81 billion and opened its first trading day near $111.",
-   "outlet": "New York City Scream",
-   "url": "?story=tech-anthropic-nasdaq-debut-record-ipo-2026-11-21",
-   "story": "tech-anthropic-nasdaq-debut-record-ipo-2026-11-21",
-   "town": "National",
-   "date": "2026-11-21",
-   "rank": 3
-  },
-  {
    "h": "Voyager 1 Is Now One Light-Day From Earth",
    "sum": "After more than 49 years in flight, NASA's farthest spacecraft has crossed a distance light needs a full day to travel.",
    "outlet": "New York City Scream",
@@ -268,6 +246,28 @@
    "town": "National",
    "date": "2026-11-21",
    "rank": 3
+  },
+  {
+   "h": "Anthropic Lands on Nasdaq With the Largest IPO on Record",
+   "sum": "The Claude maker priced shares at $83, raised about $81 billion and opened its first trading day near $111.",
+   "outlet": "New York City Scream",
+   "url": "?story=tech-anthropic-nasdaq-debut-record-ipo-2026-11-21",
+   "story": "tech-anthropic-nasdaq-debut-record-ipo-2026-11-21",
+   "lead": true,
+   "town": "Midtown",
+   "date": "2026-11-21",
+   "rank": 2
+  },
+  {
+   "h": "The Neighbourhood Brings THE WOURLD TOUR to Barclays Center",
+   "sum": "Saturday, November 21 at 7:30 p.m. and Sunday, November 22 at 6 p.m. at Barclays Center in Downtown Brooklyn, with Nessa Barrett both nights.",
+   "outlet": "New York City Scream",
+   "url": "?story=the-neighbourhood-wourld-tour-barclays-2026",
+   "story": "the-neighbourhood-wourld-tour-barclays-2026",
+   "box": true,
+   "town": "Downtown Brooklyn",
+   "date": "2026-11-21",
+   "rank": 2
   }
  ]
 }
