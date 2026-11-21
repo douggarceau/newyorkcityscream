@@ -248,3 +248,11 @@ function dress(){return;document.querySelectorAll('.bp:not([data-b27]),.ep.os:no
 const go_=()=>{build();try{const m=SEC0;if(m&&!STORY0){const b=[...document.querySelectorAll('#nav .nb27')].find(x=>x.dataset.k===m);if(b){const f=()=>b.click();setTimeout(f,0);setTimeout(()=>{let v='';try{v=STATE.view}catch(_){}if(v==='front')f()},900)}}}catch(_){}new MutationObserver(L=>{if(L.every(x=>{const t=x.target.nodeType===1?x.target:x.target.parentElement;return t&&t.closest&&t.closest('.lsrow,#rails27,.nb-clock,[data-clock]')}))return;clearTimeout(go_.t);go_.t=setTimeout(build,60)}).observe(document.body,{childList:true,subtree:true})};
 document.readyState==='loading'?document.addEventListener('DOMContentLoaded',go_):go_();
 })();
+/* Article "← Back": if the reader opened this story from a page on this site, step back through
+   history, so the page, filters and scroll come back exactly as with the browser's Back button.
+   Opened from a bookmark or a shared link, the button keeps its old behavior. */
+(function(){let from=null;
+document.addEventListener('click',e=>{const a=e.target.closest&&e.target.closest('[data-story]');if(a&&!a.closest('article.reader button.back')&&!(e.metaKey||e.ctrlKey||e.shiftKey||e.button))from=a.dataset.story},true);
+document.addEventListener('click',e=>{const b=e.target.closest&&e.target.closest('article.reader button.back');if(!b||!from)return;let st='';try{st=STATE.story}catch(_){}
+ if(st!==from||!(history.state&&history.state.ep&&history.state.view==='read'))return;
+ e.preventDefault();e.stopImmediatePropagation();from=null;history.back()},true)})();
