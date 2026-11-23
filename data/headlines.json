@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-21T07:30:00-05:00",
+ "asof": "2026-11-23T07:25:00-05:00",
  "items": [
   {
    "h": "Haymitch Gets His Origin Story as Hunger Games Returns to Theaters",
@@ -51,16 +51,6 @@
    "rank": 5
   },
   {
-   "h": "Passion Through Performance: ACMA's Showcase Fills Weill Recital Hall",
-   "sum": "The annual ACMA concert runs Saturday, November 21 at 8 p.m. at Weill Recital Hall at Carnegie Hall, with solo and chamber works by many featured performers.",
-   "outlet": "New York City Scream",
-   "url": "?story=passion-through-performance-acma-weill-2026",
-   "story": "passion-through-performance-acma-weill-2026",
-   "town": "Midtown",
-   "date": "2026-11-19",
-   "rank": 6
-  },
-  {
    "h": "Sound Espressivo Laureate Gala Brings Competition Winners to Weill Hall",
    "sum": "The gala runs Monday, November 23 at 7 p.m. in Weill Recital Hall at Carnegie Hall, with two world premieres and winners from eight countries.",
    "outlet": "New York City Scream",
@@ -69,36 +59,6 @@
    "town": "Midtown",
    "date": "2026-11-19",
    "rank": 8
-  },
-  {
-   "h": "Yalla Fest Brings Lebanese Food, Art and Music to Broadway",
-   "sum": "On Saturday, November 21 from noon to 7 p.m., the festival fills the second floor at 837 Broadway with food, art, music and shopping.",
-   "outlet": "New York City Scream",
-   "url": "?story=yalla-fest-manhattan-2026",
-   "story": "yalla-fest-manhattan-2026",
-   "town": "Manhattan",
-   "date": "2026-11-19",
-   "rank": 10
-  },
-  {
-   "h": "Xanadu Day Disco Brings All-Ages Roller Skating to Bushwick",
-   "sum": "The daytime session runs Saturday, November 21 from noon to 6 p.m. at Xanadu in Bushwick, Brooklyn, and is open to all ages.",
-   "outlet": "New York City Scream",
-   "url": "?story=xanadu-day-disco-bushwick-2026",
-   "story": "xanadu-day-disco-bushwick-2026",
-   "town": "Bushwick, Brooklyn",
-   "date": "2026-11-19",
-   "rank": 12
-  },
-  {
-   "h": "Sting Settles In for Eight Nights at Brooklyn Paramount",
-   "sum": "Sting brings his stripped-down STING 3.0 trio to Downtown Brooklyn for eight shows between Nov. 11 and Nov. 21.",
-   "outlet": "New York City Scream",
-   "url": "?story=sting-brooklyn-paramount-residency",
-   "story": "sting-brooklyn-paramount-residency",
-   "town": "Downtown Brooklyn",
-   "date": "2026-11-14",
-   "rank": 2
   },
   {
    "h": "Architects of Liberation at MoMA: Modernism in Western Africa",
@@ -121,16 +81,6 @@
    "rank": 3
   },
   {
-   "h": "Paul Taylor Dance Company Brings Three Premieres to Lincoln Center",
-   "sum": "The company's November run at the David H. Koch Theater includes new works by Lovette, Battle and Tanowitz through November 22.",
-   "outlet": "New York City Scream",
-   "url": "?story=paul-taylor-dance-company-koch-theater-2026",
-   "story": "paul-taylor-dance-company-koch-theater-2026",
-   "town": "Upper West Side",
-   "date": "2026-11-13",
-   "rank": 3
-  },
-  {
    "h": "Saint-Saëns's Samson et Dalila Comes to the Met on December 18",
    "sum": "The Metropolitan Opera lists the Friday evening performance at 7 p.m. in its December season.",
    "outlet": "New York City Scream",
@@ -149,73 +99,6 @@
    "town": "Upper West Side",
    "date": "2026-11-14",
    "rank": 3
-  },
-  {
-   "h": "New York Pops Brings Denée Benton and Jordan Donica to Carnegie Hall",
-   "sum": "Steven Reineke conducts a One Night Only evening at Carnegie Hall on November 20.",
-   "outlet": "New York City Scream",
-   "url": "?story=new-york-pops-one-night-only-carnegie-benton-donica-2026",
-   "story": "new-york-pops-one-night-only-carnegie-benton-donica-2026",
-   "town": "Midtown",
-   "date": "2026-11-16",
-   "rank": 3
-  },
-  {
-   "h": "A 750-Person Music Venue Is Opening Inside Williamsburg's Domino Sugar Refinery",
-   "sum": "A new live-music room is opening inside the historic sugar refinery on the Williamsburg waterfront.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/news/a-750-person-music-venue-is-opening-inside-williamsburgs-domino-sugar-refinery-111326",
-   "town": "Williamsburg",
-   "date": "2026-11-13",
-   "rank": 5
-  },
-  {
-   "h": "Broadway Magic Hour Brings a Family Matinee on Nov. 21",
-   "sum": "Saturday, November 21 from 2 to 3 p.m., with Jim Vines and Carl Mercurio, a one-hour family show currently listed as sold out.",
-   "outlet": "New York City Scream",
-   "url": "?story=broadway-magic-hour-family-2026",
-   "story": "broadway-magic-hour-family-2026",
-   "town": "Midtown",
-   "date": "2026-11-15",
-   "rank": 6
-  },
-  {
-   "h": "The Vanguard Jazz Orchestra Brings Big-Band Jazz to Trinity Church",
-   "sum": "Sunday, Nov. 22 at 4 p.m. at Trinity Church on Broadway, part of the Jazz Icons series. The concert is sold out but can be watched online.",
-   "outlet": "New York City Scream",
-   "url": "?story=jazz-icons-vanguard-jazz-orchestra-trinity-2026",
-   "story": "jazz-icons-vanguard-jazz-orchestra-trinity-2026",
-   "town": "Lower Manhattan",
-   "date": "2026-11-14",
-   "rank": 6
-  },
-  {
-   "h": "LaGuardia Students Stage Godspell in Long Island City",
-   "sum": "A student cast brings the 1971 musical to the Little Theater from November 18 through 22.",
-   "outlet": "New York City Scream",
-   "url": "?story=godspell-laguardia-little-theater-2026",
-   "story": "godspell-laguardia-little-theater-2026",
-   "town": "Queens",
-   "date": "2026-11-16",
-   "rank": 6
-  },
-  {
-   "h": "Voodoo Doughnut Opens Next Week With a Glazed Doughnut Hot Dog",
-   "sum": "The doughnut shop opens next week with a glazed doughnut hot dog on the menu.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/news/voodoo-doughnut-opens-next-week-with-a-glazed-doughnut-hot-dog-111326",
-   "town": "New York City",
-   "date": "2026-11-13",
-   "rank": 11
-  },
-  {
-   "h": "A New Mexican Restaurant Opens Downtown With a 10-Course Taco Tasting",
-   "sum": "The new downtown restaurant opens with a ten-course taco tasting menu.",
-   "outlet": "Time Out New York",
-   "url": "https://www.timeout.com/newyork/news/a-new-mexican-restaurant-with-a-10-course-taco-tasting-opens-downtown-today-111326",
-   "town": "Downtown",
-   "date": "2026-11-13",
-   "rank": 13
   },
   {
    "h": "It's a Wonderful Life: A Live Radio Play Opens at the Broadhurst",
@@ -263,21 +146,10 @@
    "outlet": "New York City Scream",
    "url": "?story=tech-anthropic-nasdaq-debut-record-ipo-2026-11-21",
    "story": "tech-anthropic-nasdaq-debut-record-ipo-2026-11-21",
-   "lead": true,
    "town": "Midtown",
-   "date": "2026-11-21",
-   "rank": 2
-  },
-  {
-   "h": "The Neighbourhood Brings THE WOURLD TOUR to Barclays Center",
-   "sum": "Saturday, November 21 at 7:30 p.m. and Sunday, November 22 at 6 p.m. at Barclays Center in Downtown Brooklyn, with Nessa Barrett both nights.",
-   "outlet": "New York City Scream",
-   "url": "?story=the-neighbourhood-wourld-tour-barclays-2026",
-   "story": "the-neighbourhood-wourld-tour-barclays-2026",
-   "box": true,
-   "town": "Downtown Brooklyn",
-   "date": "2026-11-21",
-   "rank": 2
+   "date": "2026-11-23",
+   "rank": 2,
+   "lead": true
   },
   {
    "h": "Xpeng Puts Its Iron Humanoid on Stage Wednesday. The Clock Is Ticking",
@@ -298,6 +170,27 @@
    "town": "National",
    "date": "2026-11-22",
    "rank": 3
+  },
+  {
+   "h": "SOMBR Takes Over Madison Square Garden Tonight",
+   "sum": "Two nights at the Garden, with Dove Cameron and Hannah Jadagu as guests.",
+   "outlet": "New York City Scream",
+   "url": "?story=sombr-msg-two-nights-2026-11-23",
+   "story": "sombr-msg-two-nights-2026-11-23",
+   "town": "Midtown",
+   "date": "2026-11-23",
+   "rank": 2,
+   "box": true
+  },
+  {
+   "h": "New York Today and Tonight: SOMBR and Two Club Shows",
+   "sum": "Seven shows on the list tonight, from the Garden to the small rooms.",
+   "outlet": "New York City Scream",
+   "url": "?story=today-and-tonight-2026-11-23",
+   "story": "today-and-tonight-2026-11-23",
+   "town": "All five boroughs",
+   "date": "2026-11-23",
+   "rank": 1
   }
  ]
 }
