@@ -191,6 +191,26 @@
    "town": "All five boroughs",
    "date": "2026-11-23",
    "rank": 1
+  },
+  {
+   "h": "Waymo Takes the Exit: Robotaxis Pulled Off Highways in Five Metros",
+   "sum": "After California called its driverless highway runs a public safety hazard, Waymo stopped highway rides everywhere it offered them, with no restart date.",
+   "outlet": "New York City Scream",
+   "url": "?story=tech-waymo-pulls-robotaxis-off-highways-2026-11-23",
+   "story": "tech-waymo-pulls-robotaxis-off-highways-2026-11-23",
+   "town": "National",
+   "date": "2026-11-23",
+   "rank": 3
+  },
+  {
+   "h": "The Chats Bring Half Cut to Seattle, Boston and Brooklyn",
+   "sum": "The Australian punks drop their third album in March, then play 30 North American club dates with Chain Whip and Gymshorts.",
+   "outlet": "New York City Scream",
+   "url": "?story=nat-the-chats-half-cut-2027-north-american-tour-2026-11-23",
+   "story": "nat-the-chats-half-cut-2027-north-american-tour-2026-11-23",
+   "town": "New York",
+   "date": "2026-11-23",
+   "rank": 3
   }
  ]
 }
