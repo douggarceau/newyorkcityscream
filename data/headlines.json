@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-23T07:25:00-05:00",
+ "asof": "2026-11-24T07:30:00-05:00",
  "items": [
   {
    "h": "Haymitch Gets His Origin Story as Hunger Games Returns to Theaters",
@@ -10,16 +10,6 @@
    "town": "National",
    "date": "2026-11-21",
    "rank": 3
-  },
-  {
-   "h": "Holiday Season Arrives: The 100th Macy's Parade, the Tree and the Rockettes",
-   "sum": "The Rockefeller Center tree arrives Nov. 7, the Christmas Spectacular is underway at Radio City, and Macy's marches for the 100th time on Thanksgiving morning.",
-   "outlet": "New York City Scream",
-   "url": "?story=macys-parade-100th-rockefeller-tree-christmas-spectacular",
-   "story": "macys-parade-100th-rockefeller-tree-christmas-spectacular",
-   "town": "Midtown",
-   "date": "2026-11-20",
-   "rank": 2
   },
   {
    "h": "Kubrick: A Full Retrospective Screens in Astoria Through Dec. 27",
@@ -49,16 +39,6 @@
    "town": "Midtown",
    "date": "2026-11-17",
    "rank": 5
-  },
-  {
-   "h": "Sound Espressivo Laureate Gala Brings Competition Winners to Weill Hall",
-   "sum": "The gala runs Monday, November 23 at 7 p.m. in Weill Recital Hall at Carnegie Hall, with two world premieres and winners from eight countries.",
-   "outlet": "New York City Scream",
-   "url": "?story=sound-espressivo-laureate-gala-weill-2026",
-   "story": "sound-espressivo-laureate-gala-weill-2026",
-   "town": "Midtown",
-   "date": "2026-11-19",
-   "rank": 8
   },
   {
    "h": "Architects of Liberation at MoMA: Modernism in Western Africa",
@@ -172,25 +152,15 @@
    "rank": 3
   },
   {
-   "h": "SOMBR Takes Over Madison Square Garden Tonight",
-   "sum": "Two nights at the Garden, with Dove Cameron and Hannah Jadagu as guests.",
+   "h": "SOMBR Closes Two Nights at Madison Square Garden Tonight",
+   "sum": "The second of two Madison Square Garden nights, with Dove Cameron and Hannah Jadagu.",
    "outlet": "New York City Scream",
    "url": "?story=sombr-msg-two-nights-2026-11-23",
    "story": "sombr-msg-two-nights-2026-11-23",
    "town": "Midtown",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "rank": 2,
    "box": true
-  },
-  {
-   "h": "New York Today and Tonight: SOMBR and Two Club Shows",
-   "sum": "Seven shows on the list tonight, from the Garden to the small rooms.",
-   "outlet": "New York City Scream",
-   "url": "?story=today-and-tonight-2026-11-23",
-   "story": "today-and-tonight-2026-11-23",
-   "town": "All five boroughs",
-   "date": "2026-11-23",
-   "rank": 1
   },
   {
    "h": "Waymo Takes the Exit: Robotaxis Pulled Off Highways in Five Metros",
@@ -211,6 +181,16 @@
    "town": "New York",
    "date": "2026-11-23",
    "rank": 3
+  },
+  {
+   "h": "New York Today and Tonight: SOMBR, Gnarls Barkley and Glassjaw",
+   "sum": "Tuesday picks: an arena closer, a Carnegie Hall concert and a full club list.",
+   "outlet": "New York City Scream",
+   "url": "?story=today-and-tonight-2026-11-24",
+   "story": "today-and-tonight-2026-11-24",
+   "town": "All five boroughs",
+   "date": "2026-11-24",
+   "rank": 1
   }
  ]
 }
