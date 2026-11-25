@@ -1,6 +1,16 @@
 {
- "asof": "2026-11-24T07:30:00-05:00",
+ "asof": "2026-11-25T07:30:00-05:00",
  "items": [
+  {
+   "h": "New York Today and Tonight: Kevin Puts, Gnarls Barkley and The Slim Kings",
+   "sum": "Wednesday's list, with the Geffen Hall premiere at the top and club shows around it.",
+   "outlet": "New York City Scream",
+   "url": "?story=today-and-tonight-2026-11-25",
+   "story": "today-and-tonight-2026-11-25",
+   "town": "All five boroughs",
+   "date": "2026-11-25",
+   "rank": 1
+  },
   {
    "h": "Haymitch Gets His Origin Story as Hunger Games Returns to Theaters",
    "sum": "Sunrise on the Reaping is in theaters, with trackers betting it opens bigger than any Hunger Games film in a decade.",
@@ -30,15 +40,6 @@
    "town": "East Village",
    "date": "2026-11-19",
    "rank": 4
-  },
-  {
-   "h": "Macy's Unveils Eight New Floats for Its 100th Thanksgiving Parade",
-   "sum": "Eight new floats, including a Tony Sarg marionette tribute, were shown at Macy's Parade Studio in New Jersey.",
-   "outlet": "ABC7NY",
-   "url": "https://abc7ny.com/post/first-look-new-macys-thanksgiving-day-parade-floats/20048290/",
-   "town": "Midtown",
-   "date": "2026-11-17",
-   "rank": 5
   },
   {
    "h": "Architects of Liberation at MoMA: Modernism in Western Africa",
@@ -78,7 +79,8 @@
    "story": "kevin-puts-bassoon-concerto-world-premiere-geffen-2026",
    "town": "Upper West Side",
    "date": "2026-11-14",
-   "rank": 3
+   "rank": 2,
+   "box": true
   },
   {
    "h": "It's a Wonderful Life: A Live Radio Play Opens at the Broadhurst",
@@ -152,17 +154,6 @@
    "rank": 3
   },
   {
-   "h": "SOMBR Closes Two Nights at Madison Square Garden Tonight",
-   "sum": "The second of two Madison Square Garden nights, with Dove Cameron and Hannah Jadagu.",
-   "outlet": "New York City Scream",
-   "url": "?story=sombr-msg-two-nights-2026-11-23",
-   "story": "sombr-msg-two-nights-2026-11-23",
-   "town": "Midtown",
-   "date": "2026-11-24",
-   "rank": 2,
-   "box": true
-  },
-  {
    "h": "Waymo Takes the Exit: Robotaxis Pulled Off Highways in Five Metros",
    "sum": "After California called its driverless highway runs a public safety hazard, Waymo stopped highway rides everywhere it offered them, with no restart date.",
    "outlet": "New York City Scream",
@@ -183,16 +174,6 @@
    "rank": 3
   },
   {
-   "h": "New York Today and Tonight: SOMBR, Gnarls Barkley and Glassjaw",
-   "sum": "Tuesday picks: an arena closer, a Carnegie Hall concert and a full club list.",
-   "outlet": "New York City Scream",
-   "url": "?story=today-and-tonight-2026-11-24",
-   "story": "today-and-tonight-2026-11-24",
-   "town": "All five boroughs",
-   "date": "2026-11-24",
-   "rank": 1
-  },
-  {
    "h": "Fusion Has Record Money. It Still Needs $80 Billion More.",
    "sum": "A new global outlook counts more fusion machines and more private cash than ever, and a long, expensive road before any of it lights your kitchen.",
    "outlet": "New York City Scream",
@@ -210,6 +191,26 @@
    "story": "nat-cliff-booth-fincher-imax-opens-2026-11-24",
    "town": "National",
    "date": "2026-11-24",
+   "rank": 3
+  },
+  {
+   "h": "Phish Takes Over Madison Square Garden for New Year's",
+   "sum": "Four nights from Dec. 30 to Jan. 2, with Jan. 2 billed as the 100th Phish show at the Garden.",
+   "outlet": "New York City Scream",
+   "url": "?story=phish-msg-new-years-run-2026-2027",
+   "story": "phish-msg-new-years-run-2026-2027",
+   "town": "Midtown",
+   "date": "2026-11-25",
+   "rank": 3
+  },
+  {
+   "h": "Dolly Parton's Broadway Musical Starts Previews Dec. 7",
+   "sum": "DOLLY: A True Original Musical begins previews at the St. James Theatre, with opening set for Jan. 19.",
+   "outlet": "New York City Scream",
+   "url": "?story=dolly-a-true-original-musical-broadway-2026",
+   "story": "dolly-a-true-original-musical-broadway-2026",
+   "town": "Theater District",
+   "date": "2026-11-25",
    "rank": 3
   }
  ]
